@@ -1,0 +1,35 @@
+===== pass 1  23:24 =====
+cleaned John_2
+cleaned Maria_2
+00:13  conv 2: finished=1 crashed_threads=0 skipped_batches=5
+cleaned Joanna_3
+cleaned Nate_3
+./run_add.sh: line 33: 82130 Killed                     START_CONV=$N python run_experiments.py --technique_type mem0 --method add > logs/add_$N.log 2>&1
+00:56  conv 3: finished=1 crashed_threads=0 skipped_batches=0
+cleaned Tim_4
+cleaned John_4
+./run_add.sh: line 33: 96824 Killed                     START_CONV=$N python run_experiments.py --technique_type mem0 --method add > logs/add_$N.log 2>&1
+01:42  conv 4: finished=1 crashed_threads=0 skipped_batches=1
+cleaned Audrey_5
+cleaned Andrew_5
+./run_add.sh: line 33: 109114 Killed                     START_CONV=$N python run_experiments.py --technique_type mem0 --method add > logs/add_$N.log 2>&1
+02:37  conv 5: finished=1 crashed_threads=0 skipped_batches=2
+cleaned James_6
+cleaned John_6
+./run_add.sh: line 33: 122261 Killed                     START_CONV=$N python run_experiments.py --technique_type mem0 --method add > logs/add_$N.log 2>&1
+03:31  conv 6: finished=1 crashed_threads=0 skipped_batches=2
+cleaned Deborah_7
+cleaned Jolene_7
+./run_add.sh: line 33: 137285 Killed                     START_CONV=$N python run_experiments.py --technique_type mem0 --method add > logs/add_$N.log 2>&1
+04:27  conv 7: finished=1 crashed_threads=0 skipped_batches=4
+cleaned Evan_8
+cleaned Sam_8
+./run_add.sh: line 33: 151945 Killed                     START_CONV=$N python run_experiments.py --technique_type mem0 --method add > logs/add_$N.log 2>&1
+05:10  conv 8: finished=1 crashed_threads=0 skipped_batches=2
+cleaned Calvin_9
+cleaned Dave_9
+./run_add.sh: line 33: 166864 Killed                     START_CONV=$N python run_experiments.py --technique_type mem0 --method add > logs/add_$N.log 2>&1
+05:56  conv 9: finished=1 crashed_threads=0 skipped_batches=3
+===== pass 2  05:56 =====
+===== pass 3  05:56 =====
+ALL DONE: 10/10 conversations loaded

@@ -1,0 +1,39 @@
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:39<05:53, 39.27s/it][judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+ 20%|██        | 2/10 [01:23<05:36, 42.08s/it] 30%|███       | 3/10 [01:44<03:47, 32.43s/it] 40%|████      | 4/10 [02:44<04:20, 43.35s/it][judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+ 50%|█████     | 5/10 [02:56<02:41, 32.24s/it][judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+ 60%|██████    | 6/10 [03:36<02:18, 34.65s/it] 70%|███████   | 7/10 [04:20<01:53, 37.82s/it][judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 8s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+ 80%|████████  | 8/10 [05:15<01:26, 43.19s/it][judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+ 90%|█████████ | 9/10 [05:18<00:30, 30.77s/it]100%|██████████| 10/10 [06:00<00:00, 34.20s/it]100%|██████████| 10/10 [06:00<00:00, 36.06s/it]
+Results saved to results/mem0g_eval_run5.json.tmp

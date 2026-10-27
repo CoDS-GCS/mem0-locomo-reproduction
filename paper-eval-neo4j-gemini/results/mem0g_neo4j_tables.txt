@@ -1,0 +1,33 @@
+Exp 4: Mem0g on LOCOMO - Gemini 2.5 Flash-Lite + Neo4j (mem0ai 1.0.11, authors' instructions)
+10 judge runs, 1540 scored questions (categories 1-4)
+
+TABLE 1a - LLM judge J (%)
+Question type     n       Exp4 Neo4j   Exp2 Kuzu   Exp1 GPT            Paper
+Single hop      282    53.19 ± 0.00       54.96      52.34    65.71 ± 0.45
+Multi-hop        96    30.21 ± 0.00       34.38      44.79    47.19 ± 0.67
+Open domain     841    60.76 ± 0.00       60.17      69.18    75.71 ± 0.21
+Temporal        321    25.55 ± 0.00       24.92      18.63    58.13 ± 0.44
+Overall        1540    50.13 ± 0.00       50.26      54.04    68.44 ± 0.17
+  J per run: 50.13, 50.13, 50.13, 50.13, 50.13, 50.13, 50.13, 50.13, 50.13, 50.13
+
+TABLE 1b - F1 / BLEU-1 (%)
+Question type       Exp4 Neo4j       Exp2 Kuzu        Exp1 GPT           Paper
+Single hop       31.08 / 21.95   30.99 / 21.30   31.13 / 22.25   38.09 / 26.03
+Multi-hop        14.67 / 11.91   16.46 / 12.45   22.57 / 17.52   24.32 / 18.82
+Open domain      37.40 / 28.82   37.82 / 28.79   39.55 / 31.42   49.27 / 40.30
+Temporal         27.78 / 25.36   26.28 / 23.45   28.43 / 27.99   51.55 / 40.28
+Overall          32.82 / 25.79
+
+TABLE 2 - cost (1540 questions)
+                                 Exp4 Neo4j   Exp2 Kuzu   Exp1 GPT     Paper
+Memory tokens per question             3786        3776       5762      3616
+Search latency p50 (s)                1.782       2.182      4.410     0.476
+Search latency p95 (s)                2.664       3.946      6.927     0.657
+Total latency  p50 (s)                2.431       2.918      5.242     1.091
+Total latency  p95 (s)                3.767       6.071      7.848     2.590
+
+CHECKS (all 1986 questions)
+  empty answers: 0
+  questions with graph relations: 1935 of 1986
+  memories per question (both speakers): mean 60.0, max 60
+  relations per question (both speakers): mean 8.2, max 10

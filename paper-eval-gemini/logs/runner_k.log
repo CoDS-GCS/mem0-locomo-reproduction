@@ -1,0 +1,60 @@
+2026-10-21 02:15:09 CHAIN START
+2026-10-21 02:15:09 pass 1 conv 0 start
+cleaned ['Caroline_0', 'Melanie_0']
+2026-10-21 02:35:01 conv 0 finished=1 crashes=0 skipped_after_retries=0 llm_format_errors=0
+2026-10-21 02:35:01 ADD DONE: 1/10
+sanity qdrant Caroline_0 167
+sanity qdrant Melanie_0 159
+sanity kuzu entities 468
+2026-10-21 02:35:02 pass 1 conv 1 start
+cleaned ['Jon_1', 'Gina_1']
+conv 1: no progress for 30 min, killed
+2026-10-21 03:11:26 conv 1 finished=0 crashes=0 skipped_after_retries=0 llm_format_errors=0
+2026-10-21 03:11:26 pass 1 conv 2 start
+cleaned ['John_2', 'Maria_2']
+2026-10-21 03:48:19 conv 2 finished=1 crashes=0 skipped_after_retries=0 llm_format_errors=0
+2026-10-21 03:48:19 pass 1 conv 3 start
+cleaned ['Joanna_3', 'Nate_3']
+2026-10-21 04:23:13 conv 3 finished=1 crashes=0 skipped_after_retries=0 llm_format_errors=2
+2026-10-21 04:23:13 pass 1 conv 4 start
+cleaned ['Tim_4', 'John_4']
+2026-10-21 04:55:46 conv 4 finished=1 crashes=0 skipped_after_retries=0 llm_format_errors=0
+2026-10-21 04:55:46 pass 1 conv 5 start
+cleaned ['Audrey_5', 'Andrew_5']
+2026-10-21 05:25:59 conv 5 finished=1 crashes=0 skipped_after_retries=0 llm_format_errors=0
+2026-10-21 05:25:59 pass 1 conv 6 start
+cleaned ['James_6', 'John_6']
+2026-10-21 05:54:52 conv 6 finished=1 crashes=0 skipped_after_retries=0 llm_format_errors=0
+2026-10-21 05:54:52 pass 1 conv 7 start
+cleaned ['Deborah_7', 'Jolene_7']
+2026-10-21 06:27:45 conv 7 finished=1 crashes=0 skipped_after_retries=0 llm_format_errors=3
+2026-10-21 06:27:45 pass 1 conv 8 start
+cleaned ['Evan_8', 'Sam_8']
+2026-10-21 06:49:37 conv 8 finished=1 crashes=0 skipped_after_retries=0 llm_format_errors=1
+2026-10-21 06:49:37 pass 1 conv 9 start
+cleaned ['Calvin_9', 'Dave_9']
+2026-10-21 07:18:30 conv 9 finished=1 crashes=0 skipped_after_retries=0 llm_format_errors=3
+2026-10-21 07:18:30 pass 2 conv 1 start
+cleaned ['Jon_1', 'Gina_1']
+2026-10-21 07:43:23 conv 1 finished=1 crashes=0 skipped_after_retries=0 llm_format_errors=0
+2026-10-21 07:43:23 ADD DONE: 10/10
+2026-10-21 07:43:23 search attempt 1, answered so far: 0
+2026-10-21 10:17:11 CHAIN START
+2026-10-21 10:17:11 ADD DONE: 10/10
+sanity qdrant Caroline_0 167
+sanity qdrant Melanie_0 159
+sanity kuzu entities 5466
+2026-10-21 10:17:12 ADD DONE: 10/10
+2026-10-21 10:17:12 search attempt 1, answered so far: 1584
+2026-10-21 10:48:22 SEARCH DONE: 1986 answers, backup saved
+2026-10-21 10:55:27 judge run 1 done
+2026-10-21 11:02:18 judge run 2 done
+2026-10-21 11:18:52 judge run 3 done
+2026-10-21 11:27:23 judge run 4 done
+2026-10-21 11:36:19 judge run 5 done
+2026-10-21 11:46:07 judge run 6 done
+2026-10-21 11:59:18 judge run 7 done
+2026-10-21 12:09:37 judge run 8 done
+2026-10-21 12:18:26 judge run 9 done
+2026-10-21 12:27:56 judge run 10 done
+2026-10-21 12:27:56 CHAIN END: 10/10 judge runs

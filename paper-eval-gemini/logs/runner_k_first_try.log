@@ -1,0 +1,39 @@
+2026-10-21 02:06:19 CHAIN START
+2026-10-21 02:06:19 pass 1 conv 0 start
+cleaned ['Caroline_0', 'Melanie_0']
+2026-10-21 02:06:39 CHAIN START
+2026-10-21 02:06:39 pass 1 conv 0 start
+Traceback (most recent call last):
+  File "<stdin>", line 15, in <module>
+  File "/home/loubna/mem0-repro/paper-eval-gemini/.venv-gem/lib/python3.12/site-packages/kuzu/database.py", line 104, in __init__
+    self.init_database()
+  File "/home/loubna/mem0-repro/paper-eval-gemini/.venv-gem/lib/python3.12/site-packages/kuzu/database.py", line 155, in init_database
+    self._database = _kuzu.Database(  # type: ignore[union-attr]
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: IO exception: Could not set lock on file : /home/loubna/mem0-repro/paper-eval-gemini/kuzu_db/locomo_mem0g.kuzu
+See the docs: https://docs.kuzudb.com/concurrency for more information.
+2026-10-21 02:07:00 conv 0 finished=0 crashes=0 skipped_after_retries=0 llm_format_errors=0
+2026-10-21 02:07:00 pass 2 conv 0 start
+Traceback (most recent call last):
+  File "<stdin>", line 15, in <module>
+  File "/home/loubna/mem0-repro/paper-eval-gemini/.venv-gem/lib/python3.12/site-packages/kuzu/database.py", line 104, in __init__
+    self.init_database()
+  File "/home/loubna/mem0-repro/paper-eval-gemini/.venv-gem/lib/python3.12/site-packages/kuzu/database.py", line 155, in init_database
+    self._database = _kuzu.Database(  # type: ignore[union-attr]
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: IO exception: Could not set lock on file : /home/loubna/mem0-repro/paper-eval-gemini/kuzu_db/locomo_mem0g.kuzu
+See the docs: https://docs.kuzudb.com/concurrency for more information.
+2026-10-21 02:07:21 conv 0 finished=0 crashes=0 skipped_after_retries=0 llm_format_errors=0
+2026-10-21 02:07:21 pass 3 conv 0 start
+Traceback (most recent call last):
+  File "<stdin>", line 15, in <module>
+  File "/home/loubna/mem0-repro/paper-eval-gemini/.venv-gem/lib/python3.12/site-packages/kuzu/database.py", line 104, in __init__
+    self.init_database()
+  File "/home/loubna/mem0-repro/paper-eval-gemini/.venv-gem/lib/python3.12/site-packages/kuzu/database.py", line 155, in init_database
+    self._database = _kuzu.Database(  # type: ignore[union-attr]
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: IO exception: Could not set lock on file : /home/loubna/mem0-repro/paper-eval-gemini/kuzu_db/locomo_mem0g.kuzu
+See the docs: https://docs.kuzudb.com/concurrency for more information.
+2026-10-21 02:07:42 conv 0 finished=0 crashes=0 skipped_after_retries=0 llm_format_errors=0
+2026-10-21 02:07:42 ADD DONE: 0/10
+2026-10-21 02:07:42 CHAIN STOPPED: conversation 0 did not finish

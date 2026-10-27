@@ -1,0 +1,444 @@
+Running experiments with technique: mem0, chunk size: 1000
+Adding Memories for Speaker A:   0%|          | 0/9 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/9 [00:00<?, ?it/s][AAdding Memories for Speaker A:  11%|█         | 1/9 [00:04<00:39,  4.98s/it]
+Adding Memories for Speaker B:  11%|█         | 1/9 [00:09<01:15,  9.39s/it][AAdding Memories for Speaker A:  22%|██▏       | 2/9 [00:09<00:33,  4.76s/it]
+Adding Memories for Speaker B:  22%|██▏       | 2/9 [00:12<00:41,  5.92s/it][AAdding Memories for Speaker A:  33%|███▎      | 3/9 [00:14<00:27,  4.64s/it]
+Adding Memories for Speaker B:  33%|███▎      | 3/9 [00:15<00:27,  4.52s/it][AAdding Memories for Speaker A:  44%|████▍     | 4/9 [00:19<00:25,  5.08s/it]
+Adding Memories for Speaker B:  44%|████▍     | 4/9 [00:21<00:25,  5.10s/it][AAdding Memories for Speaker A:  56%|█████▌    | 5/9 [00:24<00:19,  4.84s/it]Adding Memories for Speaker A:  67%|██████▋   | 6/9 [00:26<00:11,  3.90s/it]
+Adding Memories for Speaker B:  56%|█████▌    | 5/9 [00:27<00:21,  5.32s/it][A
+Adding Memories for Speaker B:  67%|██████▋   | 6/9 [00:29<00:13,  4.35s/it][A
+Adding Memories for Speaker B:  78%|███████▊  | 7/9 [00:33<00:08,  4.03s/it][AAdding Memories for Speaker A:  78%|███████▊  | 7/9 [00:34<00:10,  5.38s/it]
+Adding Memories for Speaker B:  89%|████████▉ | 8/9 [00:36<00:03,  3.85s/it][AAdding Memories for Speaker A:  89%|████████▉ | 8/9 [00:38<00:04,  4.96s/it]
+Adding Memories for Speaker B: 100%|██████████| 9/9 [00:39<00:00,  3.61s/it][AAdding Memories for Speaker B: 100%|██████████| 9/9 [00:39<00:00,  4.42s/it]
+Adding Memories for Speaker A: 100%|██████████| 9/9 [00:41<00:00,  4.28s/it]Adding Memories for Speaker A: 100%|██████████| 9/9 [00:41<00:00,  4.62s/it]
+Adding Memories for Speaker A:   0%|          | 0/16 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/16 [00:00<?, ?it/s][AAdding Memories for Speaker A:   6%|▋         | 1/16 [00:04<01:09,  4.65s/it]
+Adding Memories for Speaker B:   6%|▋         | 1/16 [00:08<02:03,  8.22s/it][AAdding Memories for Speaker A:  12%|█▎        | 2/16 [00:09<01:06,  4.78s/it]Adding Memories for Speaker A:  19%|█▉        | 3/16 [00:11<00:48,  3.70s/it]
+Adding Memories for Speaker B:  12%|█▎        | 2/16 [00:12<01:21,  5.83s/it][A
+Adding Memories for Speaker B:  19%|█▉        | 3/16 [00:14<00:54,  4.19s/it][AAdding Memories for Speaker A:  25%|██▌       | 4/16 [00:15<00:42,  3.52s/it]
+Adding Memories for Speaker B:  25%|██▌       | 4/16 [00:17<00:42,  3.56s/it][AAdding Memories for Speaker A:  31%|███▏      | 5/16 [00:19<00:41,  3.81s/it]Adding Memories for Speaker A:  38%|███▊      | 6/16 [00:21<00:33,  3.33s/it]
+Adding Memories for Speaker B:  31%|███▏      | 5/16 [00:22<00:44,  4.05s/it][A
+Adding Memories for Speaker B:  38%|███▊      | 6/16 [00:24<00:35,  3.54s/it][AAdding Memories for Speaker A:  44%|████▍     | 7/16 [00:25<00:31,  3.54s/it]
+Adding Memories for Speaker B:  44%|████▍     | 7/16 [00:29<00:34,  3.82s/it][AAdding Memories for Speaker A:  50%|█████     | 8/16 [00:29<00:28,  3.51s/it]Adding Memories for Speaker A:  56%|█████▋    | 9/16 [00:31<00:22,  3.17s/it]
+Adding Memories for Speaker B:  50%|█████     | 8/16 [00:33<00:32,  4.12s/it][AAdding Memories for Speaker A:  62%|██████▎   | 10/16 [00:35<00:19,  3.29s/it]
+Adding Memories for Speaker B:  56%|█████▋    | 9/16 [00:36<00:25,  3.66s/it][AAdding Memories for Speaker A:  69%|██████▉   | 11/16 [00:38<00:16,  3.22s/it]Adding Memories for Speaker A:  75%|███████▌  | 12/16 [00:40<00:11,  2.90s/it]
+Adding Memories for Speaker B:  62%|██████▎   | 10/16 [00:40<00:23,  3.84s/it][A
+Adding Memories for Speaker B:  69%|██████▉   | 11/16 [00:44<00:19,  3.91s/it][AAdding Memories for Speaker A:  81%|████████▏ | 13/16 [00:45<00:11,  3.67s/it]
+Adding Memories for Speaker B:  75%|███████▌  | 12/16 [00:46<00:13,  3.38s/it][AAdding Memories for Speaker A:  88%|████████▊ | 14/16 [00:48<00:06,  3.35s/it]Adding Memories for Speaker A:  94%|█████████▍| 15/16 [00:51<00:03,  3.21s/it]Adding Memories for Speaker A: 100%|██████████| 16/16 [00:54<00:00,  3.05s/it]Adding Memories for Speaker A: 100%|██████████| 16/16 [00:54<00:00,  3.38s/it]
+
+Adding Memories for Speaker B:  81%|████████▏ | 13/16 [00:58<00:17,  5.74s/it][A
+Adding Memories for Speaker B:  88%|████████▊ | 14/16 [01:00<00:09,  4.85s/it][A
+Adding Memories for Speaker B:  94%|█████████▍| 15/16 [01:03<00:04,  4.11s/it][A
+Adding Memories for Speaker B: 100%|██████████| 16/16 [01:05<00:00,  3.63s/it][AAdding Memories for Speaker B: 100%|██████████| 16/16 [01:05<00:00,  4.11s/it]
+Adding Memories for Speaker A:   0%|          | 0/8 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/8 [00:00<?, ?it/s][AAdding Memories for Speaker A:  12%|█▎        | 1/8 [00:03<00:26,  3.72s/it]
+Adding Memories for Speaker B:  12%|█▎        | 1/8 [00:08<01:02,  8.88s/it][AAdding Memories for Speaker A:  25%|██▌       | 2/8 [00:09<00:30,  5.10s/it]Adding Memories for Speaker A:  38%|███▊      | 3/8 [00:12<00:20,  4.17s/it]Adding Memories for Speaker A:  50%|█████     | 4/8 [00:15<00:14,  3.55s/it]Adding Memories for Speaker A:  62%|██████▎   | 5/8 [00:18<00:09,  3.30s/it]Adding Memories for Speaker A:  75%|███████▌  | 6/8 [00:20<00:06,  3.05s/it]Adding Memories for Speaker A:  88%|████████▊ | 7/8 [00:23<00:02,  2.94s/it]Adding Memories for Speaker A: 100%|██████████| 8/8 [00:25<00:00,  2.65s/it]Adding Memories for Speaker A: 100%|██████████| 8/8 [00:25<00:00,  3.20s/it]
+
+Adding Memories for Speaker B:  25%|██▌       | 2/8 [00:26<01:22, 13.83s/it][A
+Adding Memories for Speaker B:  38%|███▊      | 3/8 [00:29<00:45,  9.17s/it][A
+Adding Memories for Speaker B:  50%|█████     | 4/8 [00:33<00:27,  6.98s/it][A
+Adding Memories for Speaker B:  62%|██████▎   | 5/8 [00:36<00:17,  5.71s/it][A
+Adding Memories for Speaker B:  75%|███████▌  | 6/8 [00:41<00:10,  5.20s/it][A
+Adding Memories for Speaker B:  88%|████████▊ | 7/8 [00:43<00:04,  4.36s/it][A
+Adding Memories for Speaker B: 100%|██████████| 8/8 [00:46<00:00,  3.73s/it][AAdding Memories for Speaker B: 100%|██████████| 8/8 [00:46<00:00,  5.76s/it]
+Adding Memories for Speaker A:   0%|          | 0/22 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/22 [00:00<?, ?it/s][AAdding Memories for Speaker A:   5%|▍         | 1/22 [00:02<00:59,  2.84s/it]
+Adding Memories for Speaker B:   5%|▍         | 1/22 [00:02<01:02,  2.99s/it][A
+Adding Memories for Speaker B:   9%|▉         | 2/22 [00:05<00:58,  2.92s/it][AAdding Memories for Speaker A:   9%|▉         | 2/22 [00:05<00:59,  3.00s/it]
+Adding Memories for Speaker B:  14%|█▎        | 3/22 [00:10<01:09,  3.67s/it][AAdding Memories for Speaker A:  14%|█▎        | 3/22 [00:10<01:13,  3.86s/it]Adding Memories for Speaker A:  18%|█▊        | 4/22 [00:13<00:58,  3.26s/it]
+Adding Memories for Speaker B:  18%|█▊        | 4/22 [00:13<01:04,  3.60s/it][AAdding Memories for Speaker A:  23%|██▎       | 5/22 [00:16<00:58,  3.43s/it]
+Adding Memories for Speaker B:  23%|██▎       | 5/22 [00:18<01:07,  3.95s/it][A
+Adding Memories for Speaker B:  27%|██▋       | 6/22 [00:22<01:05,  4.12s/it][AAdding Memories for Speaker A:  27%|██▋       | 6/22 [00:24<01:17,  4.83s/it]
+Adding Memories for Speaker B:  32%|███▏      | 7/22 [00:25<00:54,  3.65s/it][AAdding Memories for Speaker A:  32%|███▏      | 7/22 [00:27<01:01,  4.09s/it]
+Adding Memories for Speaker B:  36%|███▋      | 8/22 [00:29<00:52,  3.74s/it][AAdding Memories for Speaker A:  36%|███▋      | 8/22 [00:29<00:52,  3.72s/it]
+Adding Memories for Speaker B:  41%|████      | 9/22 [00:34<00:54,  4.22s/it][AAdding Memories for Speaker A:  41%|████      | 9/22 [00:35<00:55,  4.30s/it]
+Adding Memories for Speaker B:  45%|████▌     | 10/22 [00:37<00:43,  3.64s/it][AAdding Memories for Speaker A:  45%|████▌     | 10/22 [00:38<00:46,  3.91s/it]
+Adding Memories for Speaker B:  50%|█████     | 11/22 [00:40<00:38,  3.46s/it][A
+Adding Memories for Speaker B:  55%|█████▍    | 12/22 [00:43<00:35,  3.51s/it][AAdding Memories for Speaker A:  50%|█████     | 11/22 [00:44<00:50,  4.59s/it]Adding Memories for Speaker A:  55%|█████▍    | 12/22 [00:48<00:42,  4.23s/it]
+Adding Memories for Speaker B:  59%|█████▉    | 13/22 [00:48<00:34,  3.88s/it][A
+Adding Memories for Speaker B:  64%|██████▎   | 14/22 [00:53<00:34,  4.30s/it][AAdding Memories for Speaker A:  59%|█████▉    | 13/22 [00:54<00:43,  4.84s/it]
+Adding Memories for Speaker B:  68%|██████▊   | 15/22 [00:56<00:26,  3.77s/it][AAdding Memories for Speaker A:  64%|██████▎   | 14/22 [00:58<00:37,  4.67s/it]
+Adding Memories for Speaker B:  73%|███████▎  | 16/22 [01:00<00:22,  3.78s/it][AAdding Memories for Speaker A:  68%|██████▊   | 15/22 [01:01<00:28,  4.13s/it]
+Adding Memories for Speaker B:  77%|███████▋  | 17/22 [01:03<00:18,  3.71s/it][AAdding Memories for Speaker A:  73%|███████▎  | 16/22 [01:04<00:22,  3.74s/it]
+Adding Memories for Speaker B:  82%|████████▏ | 18/22 [01:08<00:15,  3.99s/it][AAdding Memories for Speaker A:  77%|███████▋  | 17/22 [01:08<00:19,  3.84s/it]
+Adding Memories for Speaker B:  86%|████████▋ | 19/22 [01:12<00:12,  4.14s/it][AAdding Memories for Speaker A:  82%|████████▏ | 18/22 [01:13<00:16,  4.19s/it]
+Adding Memories for Speaker B:  91%|█████████ | 20/22 [01:16<00:08,  4.13s/it][AAdding Memories for Speaker A:  86%|████████▋ | 19/22 [01:17<00:12,  4.29s/it]
+Adding Memories for Speaker B:  95%|█████████▌| 21/22 [01:20<00:03,  3.99s/it][AAdding Memories for Speaker A:  91%|█████████ | 20/22 [01:21<00:08,  4.08s/it]Adding Memories for Speaker A:  95%|█████████▌| 21/22 [01:23<00:03,  3.57s/it]
+Adding Memories for Speaker B: 100%|██████████| 22/22 [01:27<00:00,  4.75s/it][AAdding Memories for Speaker B: 100%|██████████| 22/22 [01:27<00:00,  3.96s/it]
+Adding Memories for Speaker A: 100%|██████████| 22/22 [01:27<00:00,  3.64s/it]Adding Memories for Speaker A: 100%|██████████| 22/22 [01:27<00:00,  3.99s/it]
+Adding Memories for Speaker A:   0%|          | 0/9 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/9 [00:00<?, ?it/s][AAdding Memories for Speaker A:  11%|█         | 1/9 [00:04<00:32,  4.09s/it]
+Adding Memories for Speaker B:  11%|█         | 1/9 [00:06<00:49,  6.13s/it][AAdding Memories for Speaker A:  22%|██▏       | 2/9 [00:07<00:24,  3.49s/it]
+Adding Memories for Speaker B:  22%|██▏       | 2/9 [00:08<00:29,  4.19s/it][AAdding Memories for Speaker A:  33%|███▎      | 3/9 [00:10<00:19,  3.28s/it]
+Adding Memories for Speaker B:  33%|███▎      | 3/9 [00:12<00:24,  4.07s/it][AAdding Memories for Speaker A:  44%|████▍     | 4/9 [00:13<00:17,  3.45s/it]Adding Memories for Speaker A:  56%|█████▌    | 5/9 [00:18<00:15,  3.75s/it]
+Adding Memories for Speaker B:  44%|████▍     | 4/9 [00:18<00:22,  4.56s/it][AInvalid JSON response: Invalid \escape: line 25 column 316 (char 2011)
+Adding Memories for Speaker A:  67%|██████▋   | 6/9 [00:21<00:10,  3.49s/it]Adding Memories for Speaker A:  78%|███████▊  | 7/9 [00:24<00:06,  3.28s/it]
+Adding Memories for Speaker B:  56%|█████▌    | 5/9 [00:24<00:20,  5.24s/it][AAdding Memories for Speaker A:  89%|████████▉ | 8/9 [00:27<00:03,  3.35s/it]
+Adding Memories for Speaker B:  67%|██████▋   | 6/9 [00:28<00:13,  4.61s/it][AAdding Memories for Speaker A: 100%|██████████| 9/9 [00:29<00:00,  2.89s/it]Adding Memories for Speaker A: 100%|██████████| 9/9 [00:29<00:00,  3.27s/it]
+
+Adding Memories for Speaker B:  78%|███████▊  | 7/9 [00:31<00:08,  4.29s/it][A
+Adding Memories for Speaker B:  89%|████████▉ | 8/9 [00:38<00:05,  5.04s/it][A
+Adding Memories for Speaker B: 100%|██████████| 9/9 [00:40<00:00,  4.17s/it][AAdding Memories for Speaker B: 100%|██████████| 9/9 [00:40<00:00,  4.51s/it]
+Adding Memories for Speaker A:   0%|          | 0/8 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/8 [00:00<?, ?it/s][AAdding Memories for Speaker A:  12%|█▎        | 1/8 [00:04<00:28,  4.11s/it]
+Adding Memories for Speaker B:  12%|█▎        | 1/8 [00:04<00:33,  4.84s/it][AAdding Memories for Speaker A:  25%|██▌       | 2/8 [00:08<00:26,  4.49s/it]
+Adding Memories for Speaker B:  25%|██▌       | 2/8 [00:09<00:26,  4.47s/it][A
+Adding Memories for Speaker B:  38%|███▊      | 3/8 [00:12<00:20,  4.16s/it][AAdding Memories for Speaker A:  38%|███▊      | 3/8 [00:13<00:21,  4.39s/it]
+Adding Memories for Speaker B:  50%|█████     | 4/8 [00:15<00:14,  3.60s/it][AAdding Memories for Speaker A:  50%|█████     | 4/8 [00:17<00:17,  4.36s/it]
+Adding Memories for Speaker B:  62%|██████▎   | 5/8 [00:18<00:09,  3.31s/it][AAdding Memories for Speaker A:  62%|██████▎   | 5/8 [00:20<00:11,  3.92s/it]
+Adding Memories for Speaker B:  75%|███████▌  | 6/8 [00:21<00:06,  3.38s/it][AAdding Memories for Speaker A:  75%|███████▌  | 6/8 [00:23<00:07,  3.58s/it]
+Adding Memories for Speaker B:  88%|████████▊ | 7/8 [00:26<00:03,  3.66s/it][AAdding Memories for Speaker A:  88%|████████▊ | 7/8 [00:26<00:03,  3.54s/it]
+Adding Memories for Speaker B: 100%|██████████| 8/8 [00:29<00:00,  3.47s/it][AAdding Memories for Speaker B: 100%|██████████| 8/8 [00:29<00:00,  3.65s/it]
+Adding Memories for Speaker A: 100%|██████████| 8/8 [00:30<00:00,  3.64s/it]Adding Memories for Speaker A: 100%|██████████| 8/8 [00:30<00:00,  3.86s/it]
+Adding Memories for Speaker A:   0%|          | 0/12 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/12 [00:00<?, ?it/s][AAdding Memories for Speaker A:   8%|▊         | 1/12 [00:04<00:48,  4.43s/it]
+Adding Memories for Speaker B:   8%|▊         | 1/12 [00:06<01:10,  6.38s/it][AAdding Memories for Speaker A:  17%|█▋        | 2/12 [00:09<00:47,  4.72s/it]
+Adding Memories for Speaker B:  17%|█▋        | 2/12 [00:10<00:51,  5.11s/it][AAdding Memories for Speaker A:  25%|██▌       | 3/12 [00:11<00:31,  3.53s/it]
+Adding Memories for Speaker B:  25%|██▌       | 3/12 [00:12<00:34,  3.83s/it][AAdding Memories for Speaker A:  33%|███▎      | 4/12 [00:14<00:25,  3.22s/it]
+Adding Memories for Speaker B:  33%|███▎      | 4/12 [00:15<00:28,  3.51s/it][AAdding Memories for Speaker A:  42%|████▏     | 5/12 [00:17<00:21,  3.14s/it]
+Adding Memories for Speaker B:  42%|████▏     | 5/12 [00:20<00:27,  3.98s/it][A
+Adding Memories for Speaker B:  50%|█████     | 6/12 [00:25<00:25,  4.28s/it][A
+Adding Memories for Speaker B:  58%|█████▊    | 7/12 [00:30<00:23,  4.63s/it][A
+Adding Memories for Speaker B:  67%|██████▋   | 8/12 [00:34<00:17,  4.33s/it][A
+Adding Memories for Speaker B:  75%|███████▌  | 9/12 [00:40<00:14,  4.93s/it][A
+Adding Memories for Speaker B:  83%|████████▎ | 10/12 [00:43<00:08,  4.33s/it][A
+Adding Memories for Speaker B:  92%|█████████▏| 11/12 [01:00<00:08,  8.13s/it][A
+Adding Memories for Speaker B: 100%|██████████| 12/12 [01:03<00:00,  6.63s/it][AAdding Memories for Speaker B: 100%|██████████| 12/12 [01:03<00:00,  5.32s/it]
+Adding Memories for Speaker A:  50%|█████     | 6/12 [01:06<01:53, 18.89s/it]Adding Memories for Speaker A:  58%|█████▊    | 7/12 [01:13<01:14, 14.81s/it]Adding Memories for Speaker A:  67%|██████▋   | 8/12 [01:18<00:47, 11.83s/it]Adding Memories for Speaker A:  75%|███████▌  | 9/12 [01:24<00:29,  9.93s/it]Adding Memories for Speaker A:  83%|████████▎ | 10/12 [01:27<00:15,  7.89s/it]Adding Memories for Speaker A:  92%|█████████▏| 11/12 [01:31<00:06,  6.56s/it]Adding Memories for Speaker A: 100%|██████████| 12/12 [01:34<00:00,  5.50s/it]Adding Memories for Speaker A: 100%|██████████| 12/12 [01:34<00:00,  7.85s/it]
+Adding Memories for Speaker A:   0%|          | 0/12 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/12 [00:00<?, ?it/s][AAdding Memories for Speaker A:   8%|▊         | 1/12 [00:03<00:42,  3.84s/it]
+Adding Memories for Speaker B:   8%|▊         | 1/12 [00:05<01:03,  5.76s/it][A
+Adding Memories for Speaker B:  17%|█▋        | 2/12 [00:08<00:41,  4.19s/it][AAdding Memories for Speaker A:  17%|█▋        | 2/12 [00:09<00:50,  5.02s/it]
+Adding Memories for Speaker B:  25%|██▌       | 3/12 [00:11<00:30,  3.37s/it][AAdding Memories for Speaker A:  25%|██▌       | 3/12 [00:12<00:35,  3.90s/it]
+Adding Memories for Speaker B:  33%|███▎      | 4/12 [00:13<00:24,  3.09s/it][A
+Adding Memories for Speaker B:  42%|████▏     | 5/12 [00:16<00:20,  2.98s/it][AAdding Memories for Speaker A:  33%|███▎      | 4/12 [00:16<00:33,  4.15s/it]
+Adding Memories for Speaker B:  50%|█████     | 6/12 [00:19<00:17,  2.88s/it][AAdding Memories for Speaker A:  42%|████▏     | 5/12 [00:20<00:27,  3.87s/it]Adding Memories for Speaker A:  50%|█████     | 6/12 [00:22<00:20,  3.36s/it]
+Adding Memories for Speaker B:  58%|█████▊    | 7/12 [00:23<00:15,  3.14s/it][A
+Adding Memories for Speaker B:  67%|██████▋   | 8/12 [00:26<00:12,  3.24s/it][AAdding Memories for Speaker A:  58%|█████▊    | 7/12 [00:26<00:17,  3.56s/it]
+Adding Memories for Speaker B:  75%|███████▌  | 9/12 [00:28<00:08,  2.98s/it][A
+Adding Memories for Speaker B:  83%|████████▎ | 10/12 [00:31<00:05,  2.71s/it][AAdding Memories for Speaker A:  67%|██████▋   | 8/12 [00:32<00:16,  4.23s/it]
+Adding Memories for Speaker B:  92%|█████████▏| 11/12 [00:33<00:02,  2.55s/it][AAdding Memories for Speaker A:  75%|███████▌  | 9/12 [00:34<00:11,  3.75s/it]
+Adding Memories for Speaker B: 100%|██████████| 12/12 [00:36<00:00,  2.75s/it][AAdding Memories for Speaker B: 100%|██████████| 12/12 [00:36<00:00,  3.03s/it]
+Adding Memories for Speaker A:  83%|████████▎ | 10/12 [00:42<00:10,  5.00s/it]Adding Memories for Speaker A:  92%|█████████▏| 11/12 [00:45<00:04,  4.42s/it]Adding Memories for Speaker A: 100%|██████████| 12/12 [00:49<00:00,  4.19s/it]Adding Memories for Speaker A: 100%|██████████| 12/12 [00:49<00:00,  4.12s/it]
+Adding Memories for Speaker A:   0%|          | 0/10 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/10 [00:00<?, ?it/s][AAdding Memories for Speaker A:  10%|█         | 1/10 [00:02<00:23,  2.66s/it]
+Adding Memories for Speaker B:  10%|█         | 1/10 [00:03<00:33,  3.76s/it][AAdding Memories for Speaker A:  20%|██        | 2/10 [00:05<00:23,  2.95s/it]
+Adding Memories for Speaker B:  20%|██        | 2/10 [00:07<00:29,  3.68s/it][AAdding Memories for Speaker A:  30%|███       | 3/10 [00:09<00:21,  3.07s/it]
+Adding Memories for Speaker B:  30%|███       | 3/10 [00:10<00:23,  3.30s/it][A
+Adding Memories for Speaker B:  40%|████      | 4/10 [00:12<00:17,  2.99s/it][AAdding Memories for Speaker A:  40%|████      | 4/10 [00:13<00:21,  3.52s/it]Adding Memories for Speaker A:  50%|█████     | 5/10 [00:16<00:16,  3.32s/it]
+Adding Memories for Speaker B:  50%|█████     | 5/10 [00:16<00:16,  3.30s/it][A
+Adding Memories for Speaker B:  60%|██████    | 6/10 [00:19<00:12,  3.20s/it][A
+Adding Memories for Speaker B:  70%|███████   | 7/10 [00:23<00:10,  3.33s/it][A
+Adding Memories for Speaker B:  80%|████████  | 8/10 [00:26<00:06,  3.37s/it][A
+Adding Memories for Speaker B:  90%|█████████ | 9/10 [00:30<00:03,  3.44s/it][A
+Adding Memories for Speaker B: 100%|██████████| 10/10 [00:33<00:00,  3.48s/it][AAdding Memories for Speaker B: 100%|██████████| 10/10 [00:33<00:00,  3.38s/it]
+Adding Memories for Speaker A:  60%|██████    | 6/10 [00:35<00:35,  8.83s/it]Adding Memories for Speaker A:  70%|███████   | 7/10 [00:38<00:20,  6.97s/it]Adding Memories for Speaker A:  80%|████████  | 8/10 [00:41<00:11,  5.63s/it]Adding Memories for Speaker A:  90%|█████████ | 9/10 [00:44<00:04,  4.91s/it]Adding Memories for Speaker A: 100%|██████████| 10/10 [00:49<00:00,  4.70s/it]Adding Memories for Speaker A: 100%|██████████| 10/10 [00:49<00:00,  4.92s/it]
+Adding Memories for Speaker A:   0%|          | 0/12 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/12 [00:00<?, ?it/s][AAdding Memories for Speaker A:   8%|▊         | 1/12 [00:04<00:51,  4.66s/it]
+Adding Memories for Speaker B:   8%|▊         | 1/12 [00:05<00:56,  5.13s/it][AAdding Memories for Speaker A:  17%|█▋        | 2/12 [00:07<00:33,  3.37s/it]
+Adding Memories for Speaker B:  17%|█▋        | 2/12 [00:08<00:42,  4.22s/it][A
+Adding Memories for Speaker B:  25%|██▌       | 3/12 [00:12<00:37,  4.20s/it][AAdding Memories for Speaker A:  25%|██▌       | 3/12 [00:13<00:42,  4.72s/it]
+Adding Memories for Speaker B:  33%|███▎      | 4/12 [00:15<00:28,  3.57s/it][AAdding Memories for Speaker A:  33%|███▎      | 4/12 [00:16<00:31,  3.91s/it]Adding Memories for Speaker A:  42%|████▏     | 5/12 [00:19<00:27,  3.86s/it]Adding Memories for Speaker A:  50%|█████     | 6/12 [00:22<00:20,  3.45s/it]Adding Memories for Speaker A:  58%|█████▊    | 7/12 [00:26<00:17,  3.52s/it]Adding Memories for Speaker A:  67%|██████▋   | 8/12 [00:29<00:13,  3.43s/it]Adding Memories for Speaker A:  75%|███████▌  | 9/12 [00:33<00:11,  3.72s/it]Adding Memories for Speaker A:  83%|████████▎ | 10/12 [00:37<00:07,  3.78s/it]Adding Memories for Speaker A:  92%|█████████▏| 11/12 [00:40<00:03,  3.47s/it]Adding Memories for Speaker A: 100%|██████████| 12/12 [00:43<00:00,  3.27s/it]Adding Memories for Speaker A: 100%|██████████| 12/12 [00:43<00:00,  3.61s/it]
+
+Adding Memories for Speaker B:  42%|████▏     | 5/12 [01:03<02:16, 19.44s/it][A
+Adding Memories for Speaker B:  50%|█████     | 6/12 [01:06<01:23, 13.90s/it][A
+Adding Memories for Speaker B:  58%|█████▊    | 7/12 [01:08<00:51, 10.26s/it][A
+Adding Memories for Speaker B:  67%|██████▋   | 8/12 [01:11<00:31,  7.78s/it][A
+Adding Memories for Speaker B:  75%|███████▌  | 9/12 [01:14<00:18,  6.31s/it][A
+Adding Memories for Speaker B:  83%|████████▎ | 10/12 [01:18<00:10,  5.48s/it][A
+Adding Memories for Speaker B:  92%|█████████▏| 11/12 [01:21<00:04,  4.95s/it][A
+Adding Memories for Speaker B: 100%|██████████| 12/12 [01:24<00:00,  4.24s/it][AAdding Memories for Speaker B: 100%|██████████| 12/12 [01:24<00:00,  7.04s/it]
+Adding Memories for Speaker A:   0%|          | 0/7 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/7 [00:00<?, ?it/s][AAdding Memories for Speaker A:  14%|█▍        | 1/7 [00:04<00:24,  4.11s/it]
+Adding Memories for Speaker B:  14%|█▍        | 1/7 [00:05<00:31,  5.26s/it][AAdding Memories for Speaker A:  29%|██▊       | 2/7 [00:08<00:21,  4.38s/it]
+Adding Memories for Speaker B:  29%|██▊       | 2/7 [00:09<00:23,  4.68s/it][AAdding Memories for Speaker A:  43%|████▎     | 3/7 [00:12<00:17,  4.28s/it]
+Adding Memories for Speaker B:  43%|████▎     | 3/7 [00:14<00:19,  4.94s/it][AAdding Memories for Speaker A:  57%|█████▋    | 4/7 [00:16<00:11,  3.92s/it]
+Adding Memories for Speaker B:  57%|█████▋    | 4/7 [00:19<00:15,  5.04s/it][AAdding Memories for Speaker A:  71%|███████▏  | 5/7 [00:20<00:07,  3.91s/it]
+Adding Memories for Speaker B:  71%|███████▏  | 5/7 [00:24<00:09,  4.69s/it][AAdding Memories for Speaker A:  86%|████████▌ | 6/7 [00:24<00:04,  4.04s/it]Adding Memories for Speaker A: 100%|██████████| 7/7 [00:26<00:00,  3.53s/it]Adding Memories for Speaker A: 100%|██████████| 7/7 [00:26<00:00,  3.84s/it]
+
+Adding Memories for Speaker B:  86%|████████▌ | 6/7 [00:27<00:04,  4.43s/it][A
+Adding Memories for Speaker B: 100%|██████████| 7/7 [00:31<00:00,  4.06s/it][AAdding Memories for Speaker B: 100%|██████████| 7/7 [00:31<00:00,  4.47s/it]
+Adding Memories for Speaker A:   0%|          | 0/8 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/8 [00:00<?, ?it/s][A
+Adding Memories for Speaker B:  12%|█▎        | 1/8 [00:03<00:27,  3.95s/it][AAdding Memories for Speaker A:  12%|█▎        | 1/8 [00:04<00:30,  4.43s/it]Adding Memories for Speaker A:  25%|██▌       | 2/8 [00:11<00:35,  5.85s/it]
+Adding Memories for Speaker B:  25%|██▌       | 2/8 [00:12<00:39,  6.60s/it][AAdding Memories for Speaker A:  38%|███▊      | 3/8 [00:17<00:29,  5.81s/it]
+Adding Memories for Speaker B:  38%|███▊      | 3/8 [00:17<00:30,  6.04s/it][AAdding Memories for Speaker A:  50%|█████     | 4/8 [00:19<00:18,  4.59s/it]
+Adding Memories for Speaker B:  50%|█████     | 4/8 [00:20<00:18,  4.75s/it][AAdding Memories for Speaker A:  62%|██████▎   | 5/8 [00:23<00:12,  4.19s/it]
+Adding Memories for Speaker B:  62%|██████▎   | 5/8 [00:23<00:12,  4.15s/it][A
+Adding Memories for Speaker B:  75%|███████▌  | 6/8 [00:27<00:07,  3.91s/it][AAdding Memories for Speaker A:  75%|███████▌  | 6/8 [00:27<00:08,  4.17s/it]
+Adding Memories for Speaker B:  88%|████████▊ | 7/8 [00:29<00:03,  3.47s/it][AAdding Memories for Speaker A:  88%|████████▊ | 7/8 [00:30<00:03,  3.82s/it]
+Adding Memories for Speaker B: 100%|██████████| 8/8 [00:32<00:00,  3.30s/it][AAdding Memories for Speaker B: 100%|██████████| 8/8 [00:32<00:00,  4.07s/it]
+Adding Memories for Speaker A: 100%|██████████| 8/8 [00:32<00:00,  3.40s/it]Adding Memories for Speaker A: 100%|██████████| 8/8 [00:32<00:00,  4.12s/it]
+Adding Memories for Speaker A:   0%|          | 0/14 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/14 [00:00<?, ?it/s][AAdding Memories for Speaker A:   7%|▋         | 1/14 [00:03<00:45,  3.53s/it]Adding Memories for Speaker A:  14%|█▍        | 2/14 [00:07<00:45,  3.78s/it]Adding Memories for Speaker A:  21%|██▏       | 3/14 [00:09<00:34,  3.15s/it]Adding Memories for Speaker A:  29%|██▊       | 4/14 [00:15<00:39,  3.94s/it]
+Adding Memories for Speaker B:   7%|▋         | 1/14 [00:17<03:52, 17.89s/it][AAdding Memories for Speaker A:  36%|███▌      | 5/14 [00:19<00:37,  4.16s/it]
+Adding Memories for Speaker B:  14%|█▍        | 2/14 [00:22<01:58,  9.91s/it][AAdding Memories for Speaker A:  43%|████▎     | 6/14 [00:23<00:32,  4.08s/it]
+Adding Memories for Speaker B:  21%|██▏       | 3/14 [00:24<01:10,  6.40s/it][AAdding Memories for Speaker A:  50%|█████     | 7/14 [00:28<00:30,  4.37s/it]
+Adding Memories for Speaker B:  29%|██▊       | 4/14 [00:29<00:58,  5.85s/it][AAdding Memories for Speaker A:  57%|█████▋    | 8/14 [00:32<00:25,  4.17s/it]
+Adding Memories for Speaker B:  36%|███▌      | 5/14 [00:33<00:47,  5.32s/it][AAdding Memories for Speaker A:  64%|██████▍   | 9/14 [00:36<00:21,  4.25s/it]
+Adding Memories for Speaker B:  43%|████▎     | 6/14 [00:37<00:38,  4.83s/it][AAdding Memories for Speaker A:  71%|███████▏  | 10/14 [00:40<00:16,  4.02s/it]
+Adding Memories for Speaker B:  50%|█████     | 7/14 [00:41<00:30,  4.38s/it][AAdding Memories for Speaker A:  79%|███████▊  | 11/14 [00:43<00:11,  3.74s/it]
+Adding Memories for Speaker B:  57%|█████▋    | 8/14 [00:45<00:25,  4.32s/it][AAdding Memories for Speaker A:  86%|████████▌ | 12/14 [00:48<00:08,  4.29s/it]
+Adding Memories for Speaker B:  64%|██████▍   | 9/14 [00:49<00:21,  4.26s/it][AAdding Memories for Speaker A:  93%|█████████▎| 13/14 [00:52<00:04,  4.15s/it]
+Adding Memories for Speaker B:  71%|███████▏  | 10/14 [00:52<00:15,  3.97s/it][AAdding Memories for Speaker A: 100%|██████████| 14/14 [00:54<00:00,  3.50s/it]Adding Memories for Speaker A: 100%|██████████| 14/14 [00:54<00:00,  3.90s/it]
+
+Adding Memories for Speaker B:  79%|███████▊  | 11/14 [00:56<00:11,  3.77s/it][A
+Adding Memories for Speaker B:  86%|████████▌ | 12/14 [01:01<00:08,  4.27s/it][A
+Adding Memories for Speaker B:  93%|█████████▎| 13/14 [01:04<00:03,  3.92s/it][A
+Adding Memories for Speaker B: 100%|██████████| 14/14 [01:06<00:00,  3.42s/it][AAdding Memories for Speaker B: 100%|██████████| 14/14 [01:06<00:00,  4.78s/it]
+Adding Memories for Speaker A:   0%|          | 0/12 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/12 [00:00<?, ?it/s][AAdding Memories for Speaker A:   8%|▊         | 1/12 [00:03<00:42,  3.87s/it]
+Adding Memories for Speaker B:   8%|▊         | 1/12 [00:04<00:49,  4.51s/it][AAdding Memories for Speaker A:  17%|█▋        | 2/12 [00:08<00:44,  4.49s/it]
+Adding Memories for Speaker B:  17%|█▋        | 2/12 [00:09<00:45,  4.54s/it][AAdding Memories for Speaker A:  25%|██▌       | 3/12 [00:12<00:35,  3.97s/it]
+Adding Memories for Speaker B:  25%|██▌       | 3/12 [00:13<00:39,  4.39s/it][AAdding Memories for Speaker A:  33%|███▎      | 4/12 [00:15<00:30,  3.79s/it]
+Adding Memories for Speaker B:  33%|███▎      | 4/12 [00:16<00:31,  3.95s/it][A
+Adding Memories for Speaker B:  42%|████▏     | 5/12 [00:19<00:25,  3.64s/it][AAdding Memories for Speaker A:  42%|████▏     | 5/12 [00:19<00:27,  3.96s/it]
+Adding Memories for Speaker B:  50%|█████     | 6/12 [00:22<00:19,  3.26s/it][AAdding Memories for Speaker A:  50%|█████     | 6/12 [00:22<00:21,  3.52s/it]Adding Memories for Speaker A:  58%|█████▊    | 7/12 [00:25<00:17,  3.40s/it]
+Adding Memories for Speaker B:  58%|█████▊    | 7/12 [00:26<00:17,  3.56s/it][AAdding Memories for Speaker A:  67%|██████▋   | 8/12 [00:29<00:13,  3.46s/it]
+Adding Memories for Speaker B:  67%|██████▋   | 8/12 [00:30<00:15,  3.88s/it][A
+Adding Memories for Speaker B:  75%|███████▌  | 9/12 [00:34<00:11,  3.71s/it][AAdding Memories for Speaker A:  75%|███████▌  | 9/12 [00:34<00:11,  3.94s/it]Adding Memories for Speaker A:  83%|████████▎ | 10/12 [00:37<00:07,  3.63s/it]
+Adding Memories for Speaker B:  83%|████████▎ | 10/12 [00:37<00:07,  3.58s/it][AAdding Memories for Speaker A:  92%|█████████▏| 11/12 [00:40<00:03,  3.36s/it]
+Adding Memories for Speaker B:  92%|█████████▏| 11/12 [00:40<00:03,  3.33s/it][AAdding Memories for Speaker A: 100%|██████████| 12/12 [00:42<00:00,  2.98s/it]Adding Memories for Speaker A: 100%|██████████| 12/12 [00:42<00:00,  3.51s/it]
+
+Adding Memories for Speaker B: 100%|██████████| 12/12 [00:43<00:00,  3.17s/it][AAdding Memories for Speaker B: 100%|██████████| 12/12 [00:43<00:00,  3.59s/it]
+Adding Memories for Speaker A:   0%|          | 0/20 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/20 [00:00<?, ?it/s][A
+Adding Memories for Speaker B:   5%|▌         | 1/20 [00:03<01:00,  3.16s/it][AAdding Memories for Speaker A:   5%|▌         | 1/20 [00:04<01:21,  4.27s/it]
+Adding Memories for Speaker B:  10%|█         | 2/20 [00:05<00:52,  2.92s/it][AAdding Memories for Speaker A:  10%|█         | 2/20 [00:06<00:56,  3.12s/it]
+Adding Memories for Speaker B:  15%|█▌        | 3/20 [00:08<00:48,  2.87s/it][AAdding Memories for Speaker A:  15%|█▌        | 3/20 [00:10<00:55,  3.26s/it]
+Adding Memories for Speaker B:  20%|██        | 4/20 [00:12<00:53,  3.33s/it][AAdding Memories for Speaker A:  20%|██        | 4/20 [00:16<01:11,  4.46s/it]
+Adding Memories for Speaker B:  25%|██▌       | 5/20 [00:16<00:54,  3.64s/it][A
+Adding Memories for Speaker B:  30%|███       | 6/20 [00:21<00:55,  3.98s/it][AAdding Memories for Speaker A:  25%|██▌       | 5/20 [00:23<01:23,  5.60s/it]Adding Memories for Speaker A:  30%|███       | 6/20 [00:29<01:19,  5.66s/it]
+Adding Memories for Speaker B:  35%|███▌      | 7/20 [00:31<01:15,  5.83s/it][A
+Adding Memories for Speaker B:  40%|████      | 8/20 [00:35<01:02,  5.21s/it][A
+Adding Memories for Speaker B:  45%|████▌     | 9/20 [00:38<00:50,  4.61s/it][AAdding Memories for Speaker A:  35%|███▌      | 7/20 [00:38<01:27,  6.71s/it]
+Adding Memories for Speaker B:  50%|█████     | 10/20 [00:41<00:41,  4.18s/it][AAdding Memories for Speaker A:  40%|████      | 8/20 [00:44<01:18,  6.58s/it]
+Adding Memories for Speaker B:  55%|█████▌    | 11/20 [00:46<00:38,  4.30s/it][A
+Adding Memories for Speaker B:  60%|██████    | 12/20 [00:49<00:32,  4.09s/it][AAdding Memories for Speaker A:  45%|████▌     | 9/20 [00:50<01:07,  6.16s/it]
+Adding Memories for Speaker B:  65%|██████▌   | 13/20 [00:52<00:26,  3.74s/it][AAdding Memories for Speaker A:  50%|█████     | 10/20 [00:54<00:56,  5.63s/it]
+Adding Memories for Speaker B:  70%|███████   | 14/20 [00:56<00:21,  3.66s/it][AAdding Memories for Speaker A:  55%|█████▌    | 11/20 [00:58<00:46,  5.16s/it]
+Adding Memories for Speaker B:  75%|███████▌  | 15/20 [00:59<00:18,  3.64s/it][A
+Adding Memories for Speaker B:  80%|████████  | 16/20 [01:02<00:13,  3.40s/it][AAdding Memories for Speaker A:  60%|██████    | 12/20 [01:02<00:39,  4.89s/it]
+Adding Memories for Speaker B:  85%|████████▌ | 17/20 [01:05<00:09,  3.17s/it][AAdding Memories for Speaker A:  65%|██████▌   | 13/20 [01:05<00:28,  4.13s/it]
+Adding Memories for Speaker B:  90%|█████████ | 18/20 [01:07<00:05,  2.95s/it][AAdding Memories for Speaker A:  70%|███████   | 14/20 [01:08<00:23,  3.90s/it]Adding Memories for Speaker A:  75%|███████▌  | 15/20 [01:11<00:17,  3.60s/it]
+Adding Memories for Speaker B:  95%|█████████▌| 19/20 [01:11<00:03,  3.24s/it][A
+Adding Memories for Speaker B: 100%|██████████| 20/20 [01:13<00:00,  2.89s/it][AAdding Memories for Speaker B: 100%|██████████| 20/20 [01:13<00:00,  3.69s/it]
+Adding Memories for Speaker A:  80%|████████  | 16/20 [01:14<00:13,  3.26s/it]Adding Memories for Speaker A:  85%|████████▌ | 17/20 [01:17<00:09,  3.25s/it]Adding Memories for Speaker A:  90%|█████████ | 18/20 [01:19<00:06,  3.01s/it]Adding Memories for Speaker A:  95%|█████████▌| 19/20 [01:23<00:03,  3.11s/it]Adding Memories for Speaker A: 100%|██████████| 20/20 [01:25<00:00,  2.82s/it]Adding Memories for Speaker A: 100%|██████████| 20/20 [01:25<00:00,  4.26s/it]
+Adding Memories for Speaker A:   0%|          | 0/10 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/10 [00:00<?, ?it/s][A
+Adding Memories for Speaker B:  10%|█         | 1/10 [00:03<00:33,  3.74s/it][A
+Adding Memories for Speaker B:  20%|██        | 2/10 [00:16<01:12,  9.01s/it][A
+Adding Memories for Speaker B:  30%|███       | 3/10 [00:21<00:50,  7.26s/it][A
+Adding Memories for Speaker B:  40%|████      | 4/10 [00:32<00:51,  8.51s/it][A
+Adding Memories for Speaker B:  50%|█████     | 5/10 [00:38<00:39,  7.90s/it][A
+Adding Memories for Speaker B:  60%|██████    | 6/10 [00:41<00:24,  6.04s/it][AAdding Memories for Speaker A:  10%|█         | 1/10 [00:42<06:26, 43.00s/it]
+Adding Memories for Speaker B:  70%|███████   | 7/10 [00:46<00:16,  5.63s/it][AAdding Memories for Speaker A:  20%|██        | 2/10 [00:48<02:47, 20.96s/it]Adding Memories for Speaker A:  30%|███       | 3/10 [00:51<01:28, 12.63s/it]
+Adding Memories for Speaker B:  80%|████████  | 8/10 [00:52<00:11,  5.76s/it][A
+Adding Memories for Speaker B:  90%|█████████ | 9/10 [00:55<00:04,  4.88s/it][AAdding Memories for Speaker A:  40%|████      | 4/10 [00:55<00:54,  9.16s/it]Adding Memories for Speaker A:  50%|█████     | 5/10 [00:58<00:35,  7.03s/it]
+Adding Memories for Speaker B: 100%|██████████| 10/10 [00:58<00:00,  4.40s/it][AAdding Memories for Speaker B: 100%|██████████| 10/10 [00:58<00:00,  5.84s/it]
+Adding Memories for Speaker A:  60%|██████    | 6/10 [01:01<00:22,  5.60s/it]Adding Memories for Speaker A:  70%|███████   | 7/10 [01:03<00:13,  4.66s/it]Adding Memories for Speaker A:  80%|████████  | 8/10 [01:13<00:12,  6.11s/it]Adding Memories for Speaker A:  90%|█████████ | 9/10 [01:16<00:05,  5.37s/it]Adding Memories for Speaker A: 100%|██████████| 10/10 [01:19<00:00,  4.50s/it]Adding Memories for Speaker A: 100%|██████████| 10/10 [01:19<00:00,  7.94s/it]
+Adding Memories for Speaker A:   0%|          | 0/8 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/8 [00:00<?, ?it/s][AAdding Memories for Speaker A:  12%|█▎        | 1/8 [00:06<00:47,  6.73s/it]
+Adding Memories for Speaker B:  12%|█▎        | 1/8 [00:07<00:49,  7.10s/it][AAdding Memories for Speaker A:  25%|██▌       | 2/8 [00:09<00:25,  4.30s/it]
+Adding Memories for Speaker B:  25%|██▌       | 2/8 [00:09<00:27,  4.63s/it][A
+Adding Memories for Speaker B:  38%|███▊      | 3/8 [00:13<00:20,  4.09s/it][AAdding Memories for Speaker A:  38%|███▊      | 3/8 [00:13<00:21,  4.36s/it]
+Adding Memories for Speaker B:  50%|█████     | 4/8 [00:16<00:15,  3.85s/it][AAdding Memories for Speaker A:  50%|█████     | 4/8 [00:18<00:17,  4.33s/it]
+Adding Memories for Speaker B:  62%|██████▎   | 5/8 [00:20<00:11,  3.71s/it][AAdding Memories for Speaker A:  62%|██████▎   | 5/8 [00:21<00:11,  3.96s/it]
+Adding Memories for Speaker B:  75%|███████▌  | 6/8 [00:24<00:07,  3.68s/it][AAdding Memories for Speaker A:  75%|███████▌  | 6/8 [00:26<00:08,  4.27s/it]
+Adding Memories for Speaker B:  88%|████████▊ | 7/8 [00:26<00:03,  3.31s/it][A
+Adding Memories for Speaker B: 100%|██████████| 8/8 [00:28<00:00,  2.84s/it][AAdding Memories for Speaker B: 100%|██████████| 8/8 [00:28<00:00,  3.55s/it]
+Adding Memories for Speaker A:  88%|████████▊ | 7/8 [00:28<00:03,  3.73s/it]Adding Memories for Speaker A: 100%|██████████| 8/8 [00:31<00:00,  3.24s/it]Adding Memories for Speaker A: 100%|██████████| 8/8 [00:31<00:00,  3.88s/it]
+Adding Memories for Speaker A:   0%|          | 0/8 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/8 [00:00<?, ?it/s][AAdding Memories for Speaker A:  12%|█▎        | 1/8 [00:05<00:38,  5.52s/it]
+Adding Memories for Speaker B:  12%|█▎        | 1/8 [00:05<00:41,  5.92s/it][AAdding Memories for Speaker A:  25%|██▌       | 2/8 [00:08<00:25,  4.18s/it]Adding Memories for Speaker A:  38%|███▊      | 3/8 [00:12<00:20,  4.02s/it]
+Adding Memories for Speaker B:  25%|██▌       | 2/8 [00:28<01:35, 15.89s/it][AAdding Memories for Speaker A:  50%|█████     | 4/8 [00:30<00:37,  9.41s/it]
+Adding Memories for Speaker B:  38%|███▊      | 3/8 [00:32<00:52, 10.53s/it][AAdding Memories for Speaker A:  62%|██████▎   | 5/8 [00:35<00:23,  7.75s/it]Adding Memories for Speaker A:  75%|███████▌  | 6/8 [00:37<00:11,  5.96s/it]
+Adding Memories for Speaker B:  50%|█████     | 4/8 [00:38<00:33,  8.47s/it][AInvalid JSON response: Invalid \escape: line 25 column 316 (char 1652)
+Adding Memories for Speaker A:  88%|████████▊ | 7/8 [00:39<00:04,  4.73s/it]
+Adding Memories for Speaker B:  62%|██████▎   | 5/8 [00:41<00:20,  6.73s/it][AAdding Memories for Speaker A: 100%|██████████| 8/8 [00:42<00:00,  4.01s/it]Adding Memories for Speaker A: 100%|██████████| 8/8 [00:42<00:00,  5.28s/it]
+
+Adding Memories for Speaker B:  75%|███████▌  | 6/8 [00:45<00:11,  5.78s/it][A
+Adding Memories for Speaker B:  88%|████████▊ | 7/8 [00:48<00:04,  4.79s/it][A
+Adding Memories for Speaker B: 100%|██████████| 8/8 [00:51<00:00,  4.31s/it][AAdding Memories for Speaker B: 100%|██████████| 8/8 [00:51<00:00,  6.48s/it]
+Adding Memories for Speaker A:   0%|          | 0/12 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/12 [00:00<?, ?it/s][AAdding Memories for Speaker A:   8%|▊         | 1/12 [00:04<00:46,  4.24s/it]
+Adding Memories for Speaker B:   8%|▊         | 1/12 [00:06<01:14,  6.76s/it][A
+Adding Memories for Speaker B:  17%|█▋        | 2/12 [00:12<00:59,  5.96s/it][AAdding Memories for Speaker A:  17%|█▋        | 2/12 [00:12<01:06,  6.61s/it]
+Adding Memories for Speaker B:  25%|██▌       | 3/12 [00:15<00:41,  4.57s/it][AAdding Memories for Speaker A:  25%|██▌       | 3/12 [00:16<00:48,  5.37s/it]
+Adding Memories for Speaker B:  33%|███▎      | 4/12 [00:18<00:32,  4.09s/it][AAdding Memories for Speaker A:  33%|███▎      | 4/12 [00:19<00:34,  4.37s/it]
+Adding Memories for Speaker B:  42%|████▏     | 5/12 [00:21<00:25,  3.60s/it][AAdding Memories for Speaker A:  42%|████▏     | 5/12 [00:22<00:27,  3.92s/it]Adding Memories for Speaker A:  50%|█████     | 6/12 [00:25<00:21,  3.53s/it]Error in new_retrieved_facts: Expecting value: line 1 column 222 (char 221)
+Adding Memories for Speaker A:  58%|█████▊    | 7/12 [00:28<00:18,  3.60s/it]
+Adding Memories for Speaker B:  50%|█████     | 6/12 [00:33<00:39,  6.60s/it][AAdding Memories for Speaker A:  67%|██████▋   | 8/12 [00:35<00:18,  4.51s/it]
+Adding Memories for Speaker B:  58%|█████▊    | 7/12 [00:37<00:28,  5.74s/it][A
+Adding Memories for Speaker B:  67%|██████▋   | 8/12 [00:40<00:19,  4.90s/it][AAdding Memories for Speaker A:  75%|███████▌  | 9/12 [00:44<00:18,  6.02s/it]
+Adding Memories for Speaker B:  75%|███████▌  | 9/12 [00:48<00:16,  5.67s/it][AAdding Memories for Speaker A:  83%|████████▎ | 10/12 [00:50<00:12,  6.10s/it]
+Adding Memories for Speaker B:  83%|████████▎ | 10/12 [00:51<00:10,  5.09s/it][AAdding Memories for Speaker A:  92%|█████████▏| 11/12 [00:55<00:05,  5.61s/it]
+Adding Memories for Speaker B:  92%|█████████▏| 11/12 [00:56<00:04,  4.84s/it][AAdding Memories for Speaker A: 100%|██████████| 12/12 [00:57<00:00,  4.66s/it]Adding Memories for Speaker A: 100%|██████████| 12/12 [00:57<00:00,  4.83s/it]
+
+Adding Memories for Speaker B: 100%|██████████| 12/12 [00:59<00:00,  4.31s/it][AAdding Memories for Speaker B: 100%|██████████| 12/12 [00:59<00:00,  4.93s/it]
+Adding Memories for Speaker A:   0%|          | 0/13 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/13 [00:00<?, ?it/s][A
+Adding Memories for Speaker B:   8%|▊         | 1/13 [00:02<00:32,  2.75s/it][AAdding Memories for Speaker A:   8%|▊         | 1/13 [00:02<00:33,  2.77s/it]
+Adding Memories for Speaker B:  15%|█▌        | 2/13 [00:06<00:36,  3.33s/it][AAdding Memories for Speaker A:  15%|█▌        | 2/13 [00:06<00:36,  3.35s/it]Adding Memories for Speaker A:  23%|██▎       | 3/13 [00:10<00:36,  3.65s/it]
+Adding Memories for Speaker B:  23%|██▎       | 3/13 [00:10<00:38,  3.85s/it][AAdding Memories for Speaker A:  31%|███       | 4/13 [00:13<00:30,  3.35s/it]
+Adding Memories for Speaker B:  31%|███       | 4/13 [00:13<00:31,  3.46s/it][AAdding Memories for Speaker A:  38%|███▊      | 5/13 [00:15<00:24,  3.06s/it]
+Adding Memories for Speaker B:  38%|███▊      | 5/13 [00:17<00:28,  3.61s/it][AAdding Memories for Speaker A:  46%|████▌     | 6/13 [00:20<00:24,  3.48s/it]Adding Memories for Speaker A:  54%|█████▍    | 7/13 [00:22<00:18,  3.16s/it]
+Adding Memories for Speaker B:  46%|████▌     | 6/13 [00:23<00:29,  4.25s/it][A
+Adding Memories for Speaker B:  54%|█████▍    | 7/13 [00:26<00:23,  3.88s/it][AAdding Memories for Speaker A:  62%|██████▏   | 8/13 [00:26<00:16,  3.29s/it]
+Adding Memories for Speaker B:  62%|██████▏   | 8/13 [00:29<00:18,  3.74s/it][AAdding Memories for Speaker A:  69%|██████▉   | 9/13 [00:30<00:14,  3.56s/it]
+Adding Memories for Speaker B:  69%|██████▉   | 9/13 [00:32<00:13,  3.44s/it][AAdding Memories for Speaker A:  77%|███████▋  | 10/13 [00:34<00:11,  3.71s/it]
+Adding Memories for Speaker B:  77%|███████▋  | 10/13 [00:36<00:10,  3.51s/it][AAdding Memories for Speaker A:  85%|████████▍ | 11/13 [00:38<00:07,  3.84s/it]
+Adding Memories for Speaker B:  85%|████████▍ | 11/13 [00:40<00:07,  3.69s/it][AAdding Memories for Speaker A:  92%|█████████▏| 12/13 [00:41<00:03,  3.58s/it]
+Adding Memories for Speaker B:  92%|█████████▏| 12/13 [00:42<00:03,  3.26s/it][AAdding Memories for Speaker A: 100%|██████████| 13/13 [00:44<00:00,  3.49s/it]Adding Memories for Speaker A: 100%|██████████| 13/13 [00:44<00:00,  3.46s/it]
+
+Adding Memories for Speaker B: 100%|██████████| 13/13 [00:46<00:00,  3.47s/it][AAdding Memories for Speaker B: 100%|██████████| 13/13 [00:46<00:00,  3.58s/it]
+Adding Memories for Speaker A:   0%|          | 0/9 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/9 [00:00<?, ?it/s][A
+Adding Memories for Speaker B:  11%|█         | 1/9 [00:05<00:43,  5.42s/it][AAdding Memories for Speaker A:  11%|█         | 1/9 [00:06<00:51,  6.41s/it]
+Adding Memories for Speaker B:  22%|██▏       | 2/9 [00:07<00:25,  3.70s/it][AAdding Memories for Speaker A:  22%|██▏       | 2/9 [00:09<00:32,  4.69s/it]
+Adding Memories for Speaker B:  33%|███▎      | 3/9 [00:11<00:22,  3.71s/it][AAdding Memories for Speaker A:  33%|███▎      | 3/9 [00:14<00:26,  4.45s/it]
+Adding Memories for Speaker B:  44%|████▍     | 4/9 [00:15<00:19,  3.80s/it][A
+Adding Memories for Speaker B:  56%|█████▌    | 5/9 [00:18<00:13,  3.33s/it][AAdding Memories for Speaker A:  44%|████▍     | 4/9 [00:18<00:21,  4.37s/it]
+Adding Memories for Speaker B:  67%|██████▋   | 6/9 [00:20<00:09,  3.19s/it][AAdding Memories for Speaker A:  56%|█████▌    | 5/9 [00:21<00:15,  3.90s/it]
+Adding Memories for Speaker B:  78%|███████▊  | 7/9 [00:23<00:06,  3.03s/it][AAdding Memories for Speaker A:  67%|██████▋   | 6/9 [00:24<00:10,  3.49s/it]
+Adding Memories for Speaker B:  89%|████████▉ | 8/9 [00:26<00:02,  2.81s/it][AAdding Memories for Speaker A:  78%|███████▊  | 7/9 [00:27<00:06,  3.44s/it]
+Adding Memories for Speaker B: 100%|██████████| 9/9 [00:29<00:00,  2.86s/it][AAdding Memories for Speaker B: 100%|██████████| 9/9 [00:29<00:00,  3.22s/it]
+Adding Memories for Speaker A:  89%|████████▉ | 8/9 [00:30<00:03,  3.46s/it]Adding Memories for Speaker A: 100%|██████████| 9/9 [00:33<00:00,  3.10s/it]Adding Memories for Speaker A: 100%|██████████| 9/9 [00:33<00:00,  3.69s/it]
+Adding Memories for Speaker A:   0%|          | 0/15 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/15 [00:00<?, ?it/s][A
+Adding Memories for Speaker B:   7%|▋         | 1/15 [00:06<01:30,  6.50s/it][AAdding Memories for Speaker A:   7%|▋         | 1/15 [00:08<01:53,  8.09s/it]
+Adding Memories for Speaker B:  13%|█▎        | 2/15 [00:12<01:20,  6.21s/it][AAdding Memories for Speaker A:  13%|█▎        | 2/15 [00:13<01:23,  6.41s/it]
+Adding Memories for Speaker B:  20%|██        | 3/15 [00:19<01:16,  6.41s/it][AAdding Memories for Speaker A:  20%|██        | 3/15 [00:21<01:26,  7.20s/it]
+Adding Memories for Speaker B:  27%|██▋       | 4/15 [00:26<01:12,  6.58s/it][AAdding Memories for Speaker A:  27%|██▋       | 4/15 [00:27<01:14,  6.73s/it]
+Adding Memories for Speaker B:  33%|███▎      | 5/15 [00:29<00:53,  5.33s/it][AAdding Memories for Speaker A:  33%|███▎      | 5/15 [00:30<00:55,  5.53s/it]
+Adding Memories for Speaker B:  40%|████      | 6/15 [00:32<00:41,  4.63s/it][AAdding Memories for Speaker A:  40%|████      | 6/15 [00:35<00:45,  5.08s/it]
+Adding Memories for Speaker B:  47%|████▋     | 7/15 [00:36<00:35,  4.43s/it][AAdding Memories for Speaker A:  47%|████▋     | 7/15 [00:40<00:41,  5.17s/it]
+Adding Memories for Speaker B:  53%|█████▎    | 8/15 [00:46<00:42,  6.08s/it][AAdding Memories for Speaker A:  53%|█████▎    | 8/15 [00:52<00:50,  7.23s/it]
+Adding Memories for Speaker B:  60%|██████    | 9/15 [00:52<00:37,  6.22s/it][A
+Adding Memories for Speaker B:  67%|██████▋   | 10/15 [00:55<00:26,  5.21s/it][AAdding Memories for Speaker A:  60%|██████    | 9/15 [00:56<00:38,  6.34s/it]
+Adding Memories for Speaker B:  73%|███████▎  | 11/15 [00:59<00:18,  4.70s/it][AAdding Memories for Speaker A:  67%|██████▋   | 10/15 [01:00<00:27,  5.59s/it]Adding Memories for Speaker A:  73%|███████▎  | 11/15 [01:03<00:18,  4.70s/it]
+Adding Memories for Speaker B:  80%|████████  | 12/15 [01:03<00:13,  4.61s/it][AAdding Memories for Speaker A:  80%|████████  | 12/15 [01:06<00:12,  4.24s/it]
+Adding Memories for Speaker B:  87%|████████▋ | 13/15 [01:06<00:08,  4.08s/it][AAdding Memories for Speaker A:  87%|████████▋ | 13/15 [01:08<00:07,  3.70s/it]
+Adding Memories for Speaker B:  93%|█████████▎| 14/15 [01:09<00:03,  3.77s/it][AAdding Memories for Speaker A:  93%|█████████▎| 14/15 [01:12<00:03,  3.67s/it]Error processing memory action: {'id': '11', 'text': "Jolene is proud of someone's action to tame pets.", 'event': 'UPDATE', 'old_memory': 'Jolene finds immense joy and learns valuable lessons about love and gratitude from animals, reflecting on their positive impact on her life.'}, Error: '11'
+
+Adding Memories for Speaker B: 100%|██████████| 15/15 [01:12<00:00,  3.64s/it][AAdding Memories for Speaker B: 100%|██████████| 15/15 [01:12<00:00,  4.85s/it]
+Adding Memories for Speaker A: 100%|██████████| 15/15 [01:16<00:00,  3.70s/it]Adding Memories for Speaker A: 100%|██████████| 15/15 [01:16<00:00,  5.07s/it]
+Adding Memories for Speaker A:   0%|          | 0/16 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/16 [00:00<?, ?it/s][AAdding Memories for Speaker A:   6%|▋         | 1/16 [00:03<00:52,  3.51s/it]
+Adding Memories for Speaker B:   6%|▋         | 1/16 [00:03<00:52,  3.52s/it][AAdding Memories for Speaker A:  12%|█▎        | 2/16 [00:08<00:57,  4.11s/it]
+Adding Memories for Speaker B:  12%|█▎        | 2/16 [00:09<01:11,  5.12s/it][AAdding Memories for Speaker A:  19%|█▉        | 3/16 [00:11<00:47,  3.67s/it]
+Adding Memories for Speaker B:  19%|█▉        | 3/16 [00:12<00:53,  4.09s/it][AAdding Memories for Speaker A:  25%|██▌       | 4/16 [00:13<00:37,  3.16s/it]
+Adding Memories for Speaker B:  25%|██▌       | 4/16 [00:15<00:42,  3.51s/it][AAdding Memories for Speaker A:  31%|███▏      | 5/16 [00:16<00:34,  3.14s/it]
+Adding Memories for Speaker B:  31%|███▏      | 5/16 [00:18<00:37,  3.38s/it][AAdding Memories for Speaker A:  38%|███▊      | 6/16 [00:20<00:32,  3.26s/it]
+Adding Memories for Speaker B:  38%|███▊      | 6/16 [00:23<00:41,  4.12s/it][AAdding Memories for Speaker A:  44%|████▍     | 7/16 [00:24<00:31,  3.45s/it]Adding Memories for Speaker A:  50%|█████     | 8/16 [00:26<00:26,  3.29s/it]
+Adding Memories for Speaker B:  44%|████▍     | 7/16 [00:27<00:36,  4.04s/it][AAdding Memories for Speaker A:  56%|█████▋    | 9/16 [00:29<00:21,  3.06s/it]
+Adding Memories for Speaker B:  50%|█████     | 8/16 [00:32<00:34,  4.32s/it][AAdding Memories for Speaker A:  62%|██████▎   | 10/16 [00:34<00:21,  3.52s/it]
+Adding Memories for Speaker B:  56%|█████▋    | 9/16 [00:36<00:28,  4.02s/it][AAdding Memories for Speaker A:  69%|██████▉   | 11/16 [00:37<00:17,  3.42s/it]
+Adding Memories for Speaker B:  62%|██████▎   | 10/16 [00:40<00:25,  4.18s/it][AAdding Memories for Speaker A:  75%|███████▌  | 12/16 [00:41<00:14,  3.75s/it]Adding Memories for Speaker A:  81%|████████▏ | 13/16 [00:44<00:09,  3.29s/it]
+Adding Memories for Speaker B:  69%|██████▉   | 11/16 [00:45<00:21,  4.29s/it][AAdding Memories for Speaker A:  88%|████████▊ | 14/16 [00:46<00:05,  2.99s/it]
+Adding Memories for Speaker B:  75%|███████▌  | 12/16 [00:47<00:15,  3.76s/it][A
+Adding Memories for Speaker B:  81%|████████▏ | 13/16 [00:50<00:10,  3.34s/it][AAdding Memories for Speaker A:  94%|█████████▍| 15/16 [00:50<00:03,  3.46s/it]
+Adding Memories for Speaker B:  88%|████████▊ | 14/16 [00:52<00:06,  3.04s/it][AAdding Memories for Speaker A: 100%|██████████| 16/16 [00:54<00:00,  3.48s/it]Adding Memories for Speaker A: 100%|██████████| 16/16 [00:54<00:00,  3.40s/it]
+
+Adding Memories for Speaker B:  94%|█████████▍| 15/16 [00:57<00:03,  3.56s/it][A
+Adding Memories for Speaker B: 100%|██████████| 16/16 [01:02<00:00,  4.04s/it][AAdding Memories for Speaker B: 100%|██████████| 16/16 [01:02<00:00,  3.90s/it]
+Adding Memories for Speaker A:   0%|          | 0/8 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/8 [00:00<?, ?it/s][A
+Adding Memories for Speaker B:  12%|█▎        | 1/8 [00:05<00:35,  5.08s/it][AAdding Memories for Speaker A:  12%|█▎        | 1/8 [00:05<00:39,  5.65s/it]
+Adding Memories for Speaker B:  25%|██▌       | 2/8 [00:08<00:24,  4.16s/it][AAdding Memories for Speaker A:  25%|██▌       | 2/8 [00:11<00:34,  5.70s/it]Error processing memory action: {'id': '11', 'text': "Jolene's passion for video games began at the age of 10 when her parents gifted her a gaming console, marking the start of a lifelong hobby.", 'event': 'UPDATE', 'old_memory': "Jolene bought a console for her partner as a gift on the 17th, and they have been enjoying it together. Jolene's engineering studies are progressing well, and she is focusing on maintaining balance in her life."}, Error: '11'
+Adding Memories for Speaker A:  38%|███▊      | 3/8 [00:17<00:30,  6.04s/it]
+Adding Memories for Speaker B:  38%|███▊      | 3/8 [00:18<00:33,  6.76s/it][AAdding Memories for Speaker A:  50%|█████     | 4/8 [00:21<00:20,  5.18s/it]
+Adding Memories for Speaker B:  50%|█████     | 4/8 [00:22<00:22,  5.51s/it][AAdding Memories for Speaker A:  62%|██████▎   | 5/8 [00:24<00:13,  4.34s/it]
+Adding Memories for Speaker B:  62%|██████▎   | 5/8 [00:24<00:13,  4.47s/it][A
+Adding Memories for Speaker B:  75%|███████▌  | 6/8 [00:27<00:07,  3.82s/it][A
+Adding Memories for Speaker B:  88%|████████▊ | 7/8 [00:31<00:03,  3.83s/it][A
+Adding Memories for Speaker B: 100%|██████████| 8/8 [00:33<00:00,  3.38s/it][AAdding Memories for Speaker B: 100%|██████████| 8/8 [00:33<00:00,  4.19s/it]
+Adding Memories for Speaker A:  75%|███████▌  | 6/8 [00:52<00:24, 12.39s/it]Adding Memories for Speaker A:  88%|████████▊ | 7/8 [00:56<00:09,  9.71s/it]Adding Memories for Speaker A: 100%|██████████| 8/8 [00:59<00:00,  7.39s/it]Adding Memories for Speaker A: 100%|██████████| 8/8 [00:59<00:00,  7.40s/it]
+Adding Memories for Speaker A:   0%|          | 0/10 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/10 [00:00<?, ?it/s][AAdding Memories for Speaker A:  10%|█         | 1/10 [00:05<00:52,  5.81s/it]Adding Memories for Speaker A:  20%|██        | 2/10 [00:08<00:31,  3.99s/it]
+Adding Memories for Speaker B:  10%|█         | 1/10 [00:08<01:17,  8.60s/it][AAdding Memories for Speaker A:  30%|███       | 3/10 [00:11<00:23,  3.38s/it]
+Adding Memories for Speaker B:  20%|██        | 2/10 [00:11<00:42,  5.29s/it][AAdding Memories for Speaker A:  40%|████      | 4/10 [00:13<00:17,  2.90s/it]
+Adding Memories for Speaker B:  30%|███       | 3/10 [00:14<00:29,  4.19s/it][AAdding Memories for Speaker A:  50%|█████     | 5/10 [00:16<00:14,  2.95s/it]
+Adding Memories for Speaker B:  40%|████      | 4/10 [00:17<00:22,  3.70s/it][AAdding Memories for Speaker A:  60%|██████    | 6/10 [00:18<00:10,  2.63s/it]Adding Memories for Speaker A:  70%|███████   | 7/10 [00:22<00:09,  3.28s/it]
+Adding Memories for Speaker B:  50%|█████     | 5/10 [00:24<00:23,  4.76s/it][AAdding Memories for Speaker A:  80%|████████  | 8/10 [00:26<00:06,  3.27s/it]Adding Memories for Speaker A:  90%|█████████ | 9/10 [00:29<00:03,  3.24s/it]
+Adding Memories for Speaker B:  60%|██████    | 6/10 [00:29<00:20,  5.04s/it][AAdding Memories for Speaker A: 100%|██████████| 10/10 [00:31<00:00,  2.98s/it]Adding Memories for Speaker A: 100%|██████████| 10/10 [00:31<00:00,  3.18s/it]
+
+Adding Memories for Speaker B:  70%|███████   | 7/10 [00:54<00:34, 11.46s/it][A
+Adding Memories for Speaker B:  80%|████████  | 8/10 [00:59<00:18,  9.50s/it][A
+Adding Memories for Speaker B:  90%|█████████ | 9/10 [01:02<00:07,  7.54s/it][A
+Adding Memories for Speaker B: 100%|██████████| 10/10 [01:06<00:00,  6.19s/it][AAdding Memories for Speaker B: 100%|██████████| 10/10 [01:06<00:00,  6.60s/it]
+Adding Memories for Speaker A:   0%|          | 0/11 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/11 [00:00<?, ?it/s][A
+Adding Memories for Speaker B:   9%|▉         | 1/11 [00:04<00:40,  4.09s/it][AAdding Memories for Speaker A:   9%|▉         | 1/11 [00:04<00:48,  4.85s/it]
+Adding Memories for Speaker B:  18%|█▊        | 2/11 [00:07<00:34,  3.79s/it][AAdding Memories for Speaker A:  18%|█▊        | 2/11 [00:08<00:36,  4.05s/it]Adding Memories for Speaker A:  27%|██▋       | 3/11 [00:13<00:35,  4.48s/it]
+Adding Memories for Speaker B:  27%|██▋       | 3/11 [00:13<00:38,  4.76s/it][AAdding Memories for Speaker A:  36%|███▋      | 4/11 [00:16<00:26,  3.77s/it]
+Adding Memories for Speaker B:  36%|███▋      | 4/11 [00:16<00:26,  3.85s/it][AAdding Memories for Speaker A:  45%|████▌     | 5/11 [00:20<00:24,  4.00s/it]
+Adding Memories for Speaker B:  45%|████▌     | 5/11 [00:20<00:24,  4.11s/it][AAdding Memories for Speaker A:  55%|█████▍    | 6/11 [00:24<00:19,  3.94s/it]
+Adding Memories for Speaker B:  55%|█████▍    | 6/11 [00:24<00:20,  4.04s/it][A
+Adding Memories for Speaker B:  64%|██████▎   | 7/11 [00:27<00:14,  3.72s/it][AAdding Memories for Speaker A:  64%|██████▎   | 7/11 [00:27<00:15,  3.79s/it]
+Adding Memories for Speaker B:  73%|███████▎  | 8/11 [00:30<00:10,  3.42s/it][AAdding Memories for Speaker A:  73%|███████▎  | 8/11 [00:30<00:10,  3.52s/it]
+Adding Memories for Speaker B:  82%|████████▏ | 9/11 [00:33<00:06,  3.39s/it][A
+Adding Memories for Speaker B:  91%|█████████ | 10/11 [00:36<00:03,  3.14s/it][A
+Adding Memories for Speaker B: 100%|██████████| 11/11 [00:38<00:00,  2.93s/it][AAdding Memories for Speaker B: 100%|██████████| 11/11 [00:38<00:00,  3.52s/it]
+Adding Memories for Speaker A:  82%|████████▏ | 9/11 [00:45<00:13,  6.92s/it]Adding Memories for Speaker A:  91%|█████████ | 10/11 [00:49<00:06,  6.07s/it]Adding Memories for Speaker A: 100%|██████████| 11/11 [00:51<00:00,  4.96s/it]Adding Memories for Speaker A: 100%|██████████| 11/11 [00:51<00:00,  4.70s/it]
+Adding Memories for Speaker A:   0%|          | 0/7 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/7 [00:00<?, ?it/s][AAdding Memories for Speaker A:  14%|█▍        | 1/7 [00:04<00:26,  4.44s/it]
+Adding Memories for Speaker B:  14%|█▍        | 1/7 [00:07<00:46,  7.82s/it][AAdding Memories for Speaker A:  29%|██▊       | 2/7 [00:10<00:27,  5.48s/it]Adding Memories for Speaker A:  43%|████▎     | 3/7 [00:15<00:20,  5.22s/it]
+Adding Memories for Speaker B:  29%|██▊       | 2/7 [00:15<00:39,  7.98s/it][AAdding Memories for Speaker A:  57%|█████▋    | 4/7 [00:19<00:14,  4.84s/it]
+Adding Memories for Speaker B:  43%|████▎     | 3/7 [00:20<00:25,  6.29s/it][AAdding Memories for Speaker A:  71%|███████▏  | 5/7 [00:23<00:08,  4.37s/it]
+Adding Memories for Speaker B:  57%|█████▋    | 4/7 [00:24<00:16,  5.37s/it][A
+Adding Memories for Speaker B:  71%|███████▏  | 5/7 [00:27<00:09,  4.51s/it][AAdding Memories for Speaker A:  86%|████████▌ | 6/7 [00:29<00:04,  4.86s/it]Adding Memories for Speaker A: 100%|██████████| 7/7 [00:32<00:00,  4.27s/it]Adding Memories for Speaker A: 100%|██████████| 7/7 [00:32<00:00,  4.60s/it]
+
+Adding Memories for Speaker B:  86%|████████▌ | 6/7 [00:34<00:05,  5.39s/it][A
+Adding Memories for Speaker B: 100%|██████████| 7/7 [00:37<00:00,  4.59s/it][AAdding Memories for Speaker B: 100%|██████████| 7/7 [00:37<00:00,  5.31s/it]
+Adding Memories for Speaker A:   0%|          | 0/15 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/15 [00:00<?, ?it/s][AAdding Memories for Speaker A:   7%|▋         | 1/15 [00:05<01:18,  5.60s/it]
+Adding Memories for Speaker B:   7%|▋         | 1/15 [00:06<01:33,  6.67s/it][AAdding Memories for Speaker A:  13%|█▎        | 2/15 [00:09<01:00,  4.63s/it]
+Adding Memories for Speaker B:  13%|█▎        | 2/15 [00:10<01:02,  4.82s/it][A
+Adding Memories for Speaker B:  20%|██        | 3/15 [00:15<01:01,  5.10s/it][AAdding Memories for Speaker A:  20%|██        | 3/15 [00:16<01:05,  5.50s/it]
+Adding Memories for Speaker B:  27%|██▋       | 4/15 [00:18<00:47,  4.28s/it][AAdding Memories for Speaker A:  27%|██▋       | 4/15 [00:19<00:51,  4.66s/it]
+Adding Memories for Speaker B:  33%|███▎      | 5/15 [00:21<00:39,  3.94s/it][AAdding Memories for Speaker A:  33%|███▎      | 5/15 [00:25<00:50,  5.00s/it]
+Adding Memories for Speaker B:  40%|████      | 6/15 [00:26<00:36,  4.09s/it][A
+Adding Memories for Speaker B:  47%|████▋     | 7/15 [00:29<00:31,  3.91s/it][AAdding Memories for Speaker A:  40%|████      | 6/15 [00:30<00:46,  5.20s/it]Adding Memories for Speaker A:  47%|████▋     | 7/15 [00:34<00:39,  4.89s/it]
+Adding Memories for Speaker B:  53%|█████▎    | 8/15 [00:36<00:34,  4.88s/it][A
+Adding Memories for Speaker B:  60%|██████    | 9/15 [00:40<00:27,  4.64s/it][AAdding Memories for Speaker A:  53%|█████▎    | 8/15 [00:41<00:38,  5.57s/it]
+Adding Memories for Speaker B:  67%|██████▋   | 10/15 [00:44<00:21,  4.26s/it][AAdding Memories for Speaker A:  60%|██████    | 9/15 [00:46<00:32,  5.35s/it]
+Adding Memories for Speaker B:  73%|███████▎  | 11/15 [00:47<00:15,  3.78s/it][A
+Adding Memories for Speaker B:  80%|████████  | 12/15 [00:49<00:10,  3.51s/it][AAdding Memories for Speaker A:  67%|██████▋   | 10/15 [00:51<00:25,  5.13s/it]
+Adding Memories for Speaker B:  87%|████████▋ | 13/15 [00:53<00:07,  3.52s/it][AAdding Memories for Speaker A:  73%|███████▎  | 11/15 [00:54<00:18,  4.54s/it]
+Adding Memories for Speaker B:  93%|█████████▎| 14/15 [00:56<00:03,  3.25s/it][AAdding Memories for Speaker A:  80%|████████  | 12/15 [00:56<00:11,  3.86s/it]
+Adding Memories for Speaker B: 100%|██████████| 15/15 [00:59<00:00,  3.24s/it][AAdding Memories for Speaker B: 100%|██████████| 15/15 [00:59<00:00,  3.96s/it]
+Adding Memories for Speaker A:  87%|████████▋ | 13/15 [01:01<00:08,  4.21s/it]Adding Memories for Speaker A:  93%|█████████▎| 14/15 [01:04<00:03,  3.59s/it]Adding Memories for Speaker A: 100%|██████████| 15/15 [01:06<00:00,  3.28s/it]Adding Memories for Speaker A: 100%|██████████| 15/15 [01:06<00:00,  4.45s/it]
+Adding Memories for Speaker A:   0%|          | 0/17 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/17 [00:00<?, ?it/s][A
+Adding Memories for Speaker B:   6%|▌         | 1/17 [00:06<01:44,  6.51s/it][AAdding Memories for Speaker A:   6%|▌         | 1/17 [00:08<02:08,  8.01s/it]
+Adding Memories for Speaker B:  12%|█▏        | 2/17 [00:11<01:24,  5.62s/it][AAdding Memories for Speaker A:  12%|█▏        | 2/17 [00:13<01:35,  6.38s/it]
+Adding Memories for Speaker B:  18%|█▊        | 3/17 [00:18<01:29,  6.40s/it][AAdding Memories for Speaker A:  18%|█▊        | 3/17 [00:21<01:39,  7.07s/it]Adding Memories for Speaker A:  24%|██▎       | 4/17 [00:28<01:33,  7.20s/it]Adding Memories for Speaker A:  29%|██▉       | 5/17 [00:32<01:11,  6.00s/it]
+Adding Memories for Speaker B:  24%|██▎       | 4/17 [00:33<02:06,  9.70s/it][AAdding Memories for Speaker A:  35%|███▌      | 6/17 [00:36<00:58,  5.33s/it]
+Adding Memories for Speaker B:  29%|██▉       | 5/17 [00:36<01:27,  7.31s/it][A
+Adding Memories for Speaker B:  35%|███▌      | 6/17 [00:38<01:01,  5.62s/it][AAdding Memories for Speaker A:  41%|████      | 7/17 [00:40<00:48,  4.83s/it]
+Adding Memories for Speaker B:  41%|████      | 7/17 [00:42<00:47,  4.79s/it][AAdding Memories for Speaker A:  47%|████▋     | 8/17 [00:44<00:41,  4.58s/it]
+Adding Memories for Speaker B:  47%|████▋     | 8/17 [00:45<00:37,  4.21s/it][AAdding Memories for Speaker A:  53%|█████▎    | 9/17 [00:47<00:33,  4.15s/it]
+Adding Memories for Speaker B:  53%|█████▎    | 9/17 [00:47<00:30,  3.80s/it][A
+Adding Memories for Speaker B:  59%|█████▉    | 10/17 [00:50<00:23,  3.30s/it][AAdding Memories for Speaker A:  59%|█████▉    | 10/17 [00:50<00:26,  3.74s/it]
+Adding Memories for Speaker B:  65%|██████▍   | 11/17 [00:53<00:20,  3.36s/it][AAdding Memories for Speaker A:  65%|██████▍   | 11/17 [00:53<00:21,  3.62s/it]Adding Memories for Speaker A:  71%|███████   | 12/17 [00:56<00:17,  3.46s/it]
+Adding Memories for Speaker B:  71%|███████   | 12/17 [00:59<00:21,  4.25s/it][AAdding Memories for Speaker A:  76%|███████▋  | 13/17 [00:59<00:13,  3.39s/it]
+Adding Memories for Speaker B:  76%|███████▋  | 13/17 [01:02<00:14,  3.67s/it][AAdding Memories for Speaker A:  82%|████████▏ | 14/17 [01:02<00:09,  3.14s/it]
+Adding Memories for Speaker B:  82%|████████▏ | 14/17 [01:04<00:09,  3.31s/it][AAdding Memories for Speaker A:  88%|████████▊ | 15/17 [01:05<00:06,  3.13s/it]
+Adding Memories for Speaker B:  88%|████████▊ | 15/17 [01:07<00:06,  3.05s/it][AAdding Memories for Speaker A:  94%|█████████▍| 16/17 [01:08<00:02,  2.97s/it]
+Adding Memories for Speaker B:  94%|█████████▍| 16/17 [01:10<00:03,  3.03s/it][AAdding Memories for Speaker A: 100%|██████████| 17/17 [01:10<00:00,  2.88s/it]Adding Memories for Speaker A: 100%|██████████| 17/17 [01:10<00:00,  4.17s/it]
+
+Adding Memories for Speaker B: 100%|██████████| 17/17 [01:12<00:00,  2.92s/it][AAdding Memories for Speaker B: 100%|██████████| 17/17 [01:12<00:00,  4.28s/it]
+Adding Memories for Speaker A:   0%|          | 0/9 [00:00<?, ?it/s]
+Adding Memories for Speaker B:   0%|          | 0/9 [00:00<?, ?it/s][AAdding Memories for Speaker A:  11%|█         | 1/9 [00:05<00:41,  5.22s/it]
+Adding Memories for Speaker B:  11%|█         | 1/9 [00:05<00:46,  5.80s/it][AAdding Memories for Speaker A:  22%|██▏       | 2/9 [00:07<00:25,  3.61s/it]
+Adding Memories for Speaker B:  22%|██▏       | 2/9 [00:09<00:32,  4.61s/it][AAdding Memories for Speaker A:  33%|███▎      | 3/9 [00:12<00:24,  4.05s/it]
+Adding Memories for Speaker B:  33%|███▎      | 3/9 [00:14<00:28,  4.75s/it][A
+Adding Memories for Speaker B:  44%|████▍     | 4/9 [00:17<00:20,  4.04s/it][AAdding Memories for Speaker A:  44%|████▍     | 4/9 [00:17<00:22,  4.51s/it]
+Adding Memories for Speaker B:  56%|█████▌    | 5/9 [00:20<00:15,  3.76s/it][AAdding Memories for Speaker A:  56%|█████▌    | 5/9 [00:21<00:17,  4.34s/it]Adding Memories for Speaker A:  67%|██████▋   | 6/9 [00:24<00:11,  4.00s/it]
+Adding Memories for Speaker B:  67%|██████▋   | 6/9 [00:24<00:11,  3.90s/it][A
+Adding Memories for Speaker B:  78%|███████▊  | 7/9 [00:30<00:08,  4.49s/it][AAdding Memories for Speaker A:  78%|███████▊  | 7/9 [00:33<00:10,  5.47s/it]
+Adding Memories for Speaker B:  89%|████████▉ | 8/9 [00:34<00:04,  4.23s/it][A
+Adding Memories for Speaker B: 100%|██████████| 9/9 [00:37<00:00,  3.78s/it][AAdding Memories for Speaker B: 100%|██████████| 9/9 [00:37<00:00,  4.11s/it]
+Adding Memories for Speaker A:  89%|████████▉ | 8/9 [00:38<00:05,  5.33s/it]Adding Memories for Speaker A: 100%|██████████| 9/9 [00:41<00:00,  4.69s/it]Adding Memories for Speaker A: 100%|██████████| 9/9 [00:41<00:00,  4.63s/it]
+Messages added successfully

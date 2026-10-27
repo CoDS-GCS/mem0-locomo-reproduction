@@ -1,0 +1,39 @@
+14:56:16 pass 1 conv 0 start
+15:53:06 conv 0 finished=1 crashes=0 skipped=2
+15:53:06 DONE: 1/10
+16:08:51 pass 1 conv 1 start
+16:45:40 conv 1 finished=1 crashes=4 skipped=1
+16:45:40 pass 1 conv 2 start
+17:54:51 conv 2 finished=1 crashes=0 skipped=9
+17:54:51 pass 1 conv 3 start
+18:54:21 conv 3 finished=1 crashes=3 skipped=0
+18:54:21 pass 1 conv 4 start
+20:01:52 conv 4 finished=1 crashes=8 skipped=3
+20:01:52 pass 1 conv 5 start
+21:09:43 conv 5 finished=1 crashes=1 skipped=1
+21:09:43 pass 1 conv 6 start
+22:13:33 conv 6 finished=1 crashes=2 skipped=0
+22:13:33 pass 1 conv 7 start
+23:26:22 conv 7 finished=1 crashes=6 skipped=4
+23:26:22 pass 1 conv 8 start
+00:12:08 conv 8 finished=1 crashes=0 skipped=0
+00:12:08 pass 1 conv 9 start
+01:05:15 conv 9 finished=1 crashes=0 skipped=2
+01:05:15 pass 2 conv 1 start
+01:41:01 conv 1 finished=1 crashes=0 skipped=1
+01:41:01 pass 2 conv 3 start
+02:41:29 conv 3 finished=1 crashes=0 skipped=2
+02:41:29 pass 2 conv 4 start
+03:48:37 conv 4 finished=1 crashes=0 skipped=4
+03:48:37 pass 2 conv 5 start
+04:58:25 conv 5 finished=1 crashes=0 skipped=0
+04:58:25 pass 2 conv 6 start
+06:04:33 conv 6 finished=1 crashes=0 skipped=5
+06:04:33 pass 2 conv 7 start
+07:17:41 conv 7 finished=1 crashes=0 skipped=1
+07:17:41 DONE: 10/10
+09:32:34 pass 1 conv 2 start
+10:50:05 conv 2 finished=1 crashes=0 skipped=3
+10:50:05 pass 1 conv 8 start
+11:45:15 conv 8 finished=1 crashes=0 skipped=1
+11:45:15 DONE: 10/10

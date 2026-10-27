@@ -1,0 +1,33 @@
+Mem0g on LOCOMO - Gemini 2.5 Flash-Lite + Kuzu (mem0ai 1.0.11)
+10 judge runs, 1540 scored questions (categories 1-4)
+
+TABLE 1a - LLM judge J (%)
+Question type     n      Gemini+Kuzu   GPT+Neo4j            Paper
+Single hop      282    54.96 ± 0.00       52.34    65.71 ± 0.45
+Multi-hop        96    34.38 ± 0.00       44.79    47.19 ± 0.67
+Open domain     841    60.17 ± 0.00       69.18    75.71 ± 0.21
+Temporal        321    24.92 ± 0.00       18.63    58.13 ± 0.44
+Overall        1540    50.26 ± 0.00       54.04    68.44 ± 0.17
+  J per run: 50.26, 50.26, 50.26, 50.26, 50.26, 50.26, 50.26, 50.26, 50.26, 50.26
+
+TABLE 1b - F1 / BLEU-1 (%)
+Question type      Gemini+Kuzu       GPT+Neo4j           Paper
+Single hop       30.99 / 21.30   31.13 / 22.25   38.09 / 26.03
+Multi-hop        16.46 / 12.45   22.57 / 17.52   24.32 / 18.82
+Open domain      37.82 / 28.79   39.55 / 31.42   49.27 / 40.30
+Temporal         26.28 / 23.45   28.43 / 27.99   51.55 / 40.28
+Overall          32.83 / 25.29
+
+TABLE 2 - cost (1540 questions)
+                                 Gemini+Kuzu   GPT+Neo4j     Paper
+Memory tokens per question              3776        5762      3616
+Search latency p50 (s)                 2.182       4.410     0.476
+Search latency p95 (s)                 3.946       6.927     0.657
+Total latency  p50 (s)                 2.918       5.242     1.091
+Total latency  p95 (s)                 6.071       7.848     2.590
+
+CHECKS (all 1986 questions)
+  empty answers: 0
+  questions with graph relations: 1935 of 1986
+  memories per question (both speakers): mean 60.0, max 60
+  relations per question (both speakers): mean 7.8, max 10

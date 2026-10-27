@@ -1,0 +1,15 @@
+TABLE 1 - Mem0g on LOCOMO  (10 judge runs, 1540 questions, categories 1-4)
+Question type     n |     F1  paper | BLEU-1  paper |              J          paper
+Single hop      282 |  31.13  38.09 |  22.25  26.03 |  52.34 ± 0.43    65.71 ± 0.45
+Multi-hop        96 |  22.57  24.32 |  17.52  18.82 |  44.79 ± 0.00    47.19 ± 0.67
+Open domain     841 |  39.55  49.27 |  31.42  40.30 |  69.18 ± 0.17    75.71 ± 0.21
+Temporal        321 |  28.43  51.55 |  27.99  40.28 |  18.63 ± 0.12    58.13 ± 0.44
+Overall        1540 |  34.63        |  28.16        |  54.04 ± 0.14    68.44 ± 0.17
+
+TABLE 2 - Mem0g (1540 questions)          ours      paper
+  Memory tokens per question (mean)       5762     3616
+  Search latency p50 (s)                 4.410    0.476
+  Search latency p95 (s)                 6.927    0.657
+  Total latency  p50 (s)                 5.242    1.091
+  Total latency  p95 (s)                 7.848    2.590
+  Overall J                        54.04 ± 0.14   68.44 ± 0.17

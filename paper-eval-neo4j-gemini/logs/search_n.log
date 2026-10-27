@@ -1,0 +1,2009 @@
+Running experiments with technique: mem0, chunk size: 1000
+Processing conversations:   0%|          | 0/10 [00:00<?, ?it/s]
+Processing questions for conversation 0:   0%|          | 0/199 [00:00<?, ?it/s][A
+Processing questions for conversation 0:   1%|          | 1/199 [00:05<17:06,  5.18s/it][A
+Processing questions for conversation 0:   1%|          | 2/199 [00:07<11:50,  3.60s/it][A
+Processing questions for conversation 0:   2%|▏         | 3/199 [00:10<10:27,  3.20s/it][A
+Processing questions for conversation 0:   2%|▏         | 4/199 [00:12<09:27,  2.91s/it][A
+Processing questions for conversation 0:   3%|▎         | 5/199 [00:14<08:09,  2.52s/it][A
+Processing questions for conversation 0:   3%|▎         | 6/199 [00:16<07:43,  2.40s/it][A
+Processing questions for conversation 0:   4%|▎         | 7/199 [00:19<07:54,  2.47s/it][A
+Processing questions for conversation 0:   4%|▍         | 8/199 [00:21<07:29,  2.35s/it][A
+Processing questions for conversation 0:   5%|▍         | 9/199 [00:24<07:44,  2.45s/it][A
+Processing questions for conversation 0:   5%|▌         | 10/199 [00:27<08:18,  2.64s/it][A
+Processing questions for conversation 0:   6%|▌         | 11/199 [00:29<07:48,  2.49s/it][A
+Processing questions for conversation 0:   6%|▌         | 12/199 [00:31<07:14,  2.32s/it][A
+Processing questions for conversation 0:   7%|▋         | 13/199 [00:33<07:02,  2.27s/it][A
+Processing questions for conversation 0:   7%|▋         | 14/199 [00:35<06:53,  2.24s/it][A
+Processing questions for conversation 0:   8%|▊         | 15/199 [00:38<07:14,  2.36s/it][A
+Processing questions for conversation 0:   8%|▊         | 16/199 [00:40<06:49,  2.24s/it][A
+Processing questions for conversation 0:   9%|▊         | 17/199 [00:42<06:29,  2.14s/it][A
+Processing questions for conversation 0:   9%|▉         | 18/199 [00:44<06:18,  2.09s/it][A
+Processing questions for conversation 0:  10%|▉         | 19/199 [00:46<06:19,  2.11s/it][A
+Processing questions for conversation 0:  10%|█         | 20/199 [00:48<06:25,  2.16s/it][A
+Processing questions for conversation 0:  11%|█         | 21/199 [00:50<06:22,  2.15s/it][A
+Processing questions for conversation 0:  11%|█         | 22/199 [00:52<06:10,  2.09s/it][A
+Processing questions for conversation 0:  12%|█▏        | 23/199 [00:55<06:21,  2.17s/it][A
+Processing questions for conversation 0:  12%|█▏        | 24/199 [00:57<06:08,  2.10s/it][A
+Processing questions for conversation 0:  13%|█▎        | 25/199 [00:58<05:57,  2.05s/it][A
+Processing questions for conversation 0:  13%|█▎        | 26/199 [01:01<06:00,  2.08s/it][A
+Processing questions for conversation 0:  14%|█▎        | 27/199 [01:03<06:38,  2.32s/it][A
+Processing questions for conversation 0:  14%|█▍        | 28/199 [01:06<06:48,  2.39s/it][A
+Processing questions for conversation 0:  15%|█▍        | 29/199 [01:08<06:29,  2.29s/it][A
+Processing questions for conversation 0:  15%|█▌        | 30/199 [01:10<06:16,  2.23s/it][A
+Processing questions for conversation 0:  16%|█▌        | 31/199 [01:12<06:18,  2.25s/it][A
+Processing questions for conversation 0:  16%|█▌        | 32/199 [01:15<06:11,  2.22s/it][A
+Processing questions for conversation 0:  17%|█▋        | 33/199 [01:17<06:30,  2.36s/it][A
+Processing questions for conversation 0:  17%|█▋        | 34/199 [01:21<07:24,  2.69s/it][A
+Processing questions for conversation 0:  18%|█▊        | 35/199 [01:23<07:05,  2.59s/it][A
+Processing questions for conversation 0:  18%|█▊        | 36/199 [01:25<06:38,  2.44s/it][A
+Processing questions for conversation 0:  19%|█▊        | 37/199 [01:27<06:09,  2.28s/it][A
+Processing questions for conversation 0:  19%|█▉        | 38/199 [01:29<05:45,  2.15s/it][A
+Processing questions for conversation 0:  20%|█▉        | 39/199 [01:31<05:39,  2.12s/it][A
+Processing questions for conversation 0:  20%|██        | 40/199 [01:33<05:21,  2.02s/it][A
+Processing questions for conversation 0:  21%|██        | 41/199 [01:35<05:47,  2.20s/it][A
+Processing questions for conversation 0:  21%|██        | 42/199 [01:40<07:29,  2.86s/it][A
+Processing questions for conversation 0:  22%|██▏       | 43/199 [01:49<12:19,  4.74s/it][A
+Processing questions for conversation 0:  22%|██▏       | 44/199 [01:52<11:01,  4.27s/it][A
+Processing questions for conversation 0:  23%|██▎       | 45/199 [01:55<09:52,  3.85s/it][A
+Processing questions for conversation 0:  23%|██▎       | 46/199 [01:57<08:42,  3.42s/it][A
+Processing questions for conversation 0:  24%|██▎       | 47/199 [02:00<07:53,  3.11s/it][A
+Processing questions for conversation 0:  24%|██▍       | 48/199 [02:02<07:01,  2.79s/it][A
+Processing questions for conversation 0:  25%|██▍       | 49/199 [02:05<07:06,  2.85s/it][A
+Processing questions for conversation 0:  25%|██▌       | 50/199 [02:08<07:32,  3.04s/it][A
+Processing questions for conversation 0:  26%|██▌       | 51/199 [02:11<07:12,  2.93s/it][A
+Processing questions for conversation 0:  26%|██▌       | 52/199 [02:13<06:16,  2.56s/it][A
+Processing questions for conversation 0:  27%|██▋       | 53/199 [02:15<05:51,  2.41s/it][A
+Processing questions for conversation 0:  27%|██▋       | 54/199 [02:17<05:28,  2.26s/it][A
+Processing questions for conversation 0:  28%|██▊       | 55/199 [02:19<05:31,  2.30s/it][A
+Processing questions for conversation 0:  28%|██▊       | 56/199 [02:22<05:36,  2.35s/it][A
+Processing questions for conversation 0:  29%|██▊       | 57/199 [02:24<05:29,  2.32s/it][A
+Processing questions for conversation 0:  29%|██▉       | 58/199 [02:26<05:37,  2.39s/it][A
+Processing questions for conversation 0:  30%|██▉       | 59/199 [02:29<05:29,  2.35s/it][A
+Processing questions for conversation 0:  30%|███       | 60/199 [02:31<05:18,  2.29s/it][A
+Processing questions for conversation 0:  31%|███       | 61/199 [02:33<05:10,  2.25s/it][A
+Processing questions for conversation 0:  31%|███       | 62/199 [02:37<06:06,  2.68s/it][A
+Processing questions for conversation 0:  32%|███▏      | 63/199 [02:39<05:38,  2.49s/it][A
+Processing questions for conversation 0:  32%|███▏      | 64/199 [02:41<05:18,  2.36s/it][A
+Processing questions for conversation 0:  33%|███▎      | 65/199 [02:44<05:57,  2.66s/it][A
+Processing questions for conversation 0:  33%|███▎      | 66/199 [02:46<05:25,  2.45s/it][A
+Processing questions for conversation 0:  34%|███▎      | 67/199 [02:48<05:19,  2.42s/it][A
+Processing questions for conversation 0:  34%|███▍      | 68/199 [02:51<05:06,  2.34s/it][A
+Processing questions for conversation 0:  35%|███▍      | 69/199 [02:53<04:56,  2.28s/it][A
+Processing questions for conversation 0:  35%|███▌      | 70/199 [02:55<04:54,  2.28s/it][A
+Processing questions for conversation 0:  36%|███▌      | 71/199 [02:57<04:53,  2.30s/it][A
+Processing questions for conversation 0:  36%|███▌      | 72/199 [03:00<04:57,  2.35s/it][A
+Processing questions for conversation 0:  37%|███▋      | 73/199 [03:02<04:54,  2.34s/it][A
+Processing questions for conversation 0:  37%|███▋      | 74/199 [03:04<04:38,  2.23s/it][A
+Processing questions for conversation 0:  38%|███▊      | 75/199 [03:07<04:48,  2.33s/it][A
+Processing questions for conversation 0:  38%|███▊      | 76/199 [03:09<04:43,  2.31s/it][A
+Processing questions for conversation 0:  39%|███▊      | 77/199 [03:11<04:50,  2.38s/it][A
+Processing questions for conversation 0:  39%|███▉      | 78/199 [03:13<04:35,  2.28s/it][A
+Processing questions for conversation 0:  40%|███▉      | 79/199 [03:16<04:42,  2.35s/it][A
+Processing questions for conversation 0:  40%|████      | 80/199 [03:18<04:38,  2.34s/it][A
+Processing questions for conversation 0:  41%|████      | 81/199 [03:20<04:18,  2.19s/it][A
+Processing questions for conversation 0:  41%|████      | 82/199 [03:23<04:29,  2.30s/it][A
+Processing questions for conversation 0:  42%|████▏     | 83/199 [03:24<04:00,  2.07s/it][A
+Processing questions for conversation 0:  42%|████▏     | 84/199 [03:26<03:53,  2.03s/it][A
+Processing questions for conversation 0:  43%|████▎     | 85/199 [03:29<04:02,  2.13s/it][A
+Processing questions for conversation 0:  43%|████▎     | 86/199 [03:30<03:51,  2.04s/it][A
+Processing questions for conversation 0:  44%|████▎     | 87/199 [03:33<03:59,  2.14s/it][A
+Processing questions for conversation 0:  44%|████▍     | 88/199 [03:35<03:47,  2.05s/it][A
+Processing questions for conversation 0:  45%|████▍     | 89/199 [03:36<03:38,  1.99s/it][A
+Processing questions for conversation 0:  45%|████▌     | 90/199 [03:39<03:58,  2.19s/it][A
+Processing questions for conversation 0:  46%|████▌     | 91/199 [03:41<04:01,  2.24s/it][A
+Processing questions for conversation 0:  46%|████▌     | 92/199 [03:43<03:53,  2.18s/it][A
+Processing questions for conversation 0:  47%|████▋     | 93/199 [03:46<04:09,  2.36s/it][A
+Processing questions for conversation 0:  47%|████▋     | 94/199 [03:48<04:01,  2.30s/it][A
+Processing questions for conversation 0:  48%|████▊     | 95/199 [03:51<04:10,  2.41s/it][A
+Processing questions for conversation 0:  48%|████▊     | 96/199 [03:53<03:59,  2.33s/it][A
+Processing questions for conversation 0:  49%|████▊     | 97/199 [03:55<03:52,  2.28s/it][A
+Processing questions for conversation 0:  49%|████▉     | 98/199 [03:57<03:40,  2.18s/it][A
+Processing questions for conversation 0:  50%|████▉     | 99/199 [03:59<03:36,  2.17s/it][A
+Processing questions for conversation 0:  50%|█████     | 100/199 [04:02<03:35,  2.18s/it][A
+Processing questions for conversation 0:  51%|█████     | 101/199 [04:04<03:29,  2.14s/it][A
+Processing questions for conversation 0:  51%|█████▏    | 102/199 [04:08<04:17,  2.65s/it][A
+Processing questions for conversation 0:  52%|█████▏    | 103/199 [04:13<05:30,  3.44s/it][A
+Processing questions for conversation 0:  52%|█████▏    | 104/199 [04:15<05:00,  3.16s/it][A
+Processing questions for conversation 0:  53%|█████▎    | 105/199 [04:18<04:42,  3.01s/it][A
+Processing questions for conversation 0:  53%|█████▎    | 106/199 [04:21<04:27,  2.87s/it][A
+Processing questions for conversation 0:  54%|█████▍    | 107/199 [04:23<04:19,  2.82s/it][A
+Processing questions for conversation 0:  54%|█████▍    | 108/199 [04:25<03:51,  2.55s/it][A
+Processing questions for conversation 0:  55%|█████▍    | 109/199 [04:27<03:38,  2.43s/it][A
+Processing questions for conversation 0:  55%|█████▌    | 110/199 [04:30<03:39,  2.47s/it][A
+Processing questions for conversation 0:  56%|█████▌    | 111/199 [04:32<03:37,  2.47s/it][A
+Processing questions for conversation 0:  56%|█████▋    | 112/199 [04:36<04:03,  2.80s/it][A
+Processing questions for conversation 0:  57%|█████▋    | 113/199 [04:39<04:02,  2.82s/it][A
+Processing questions for conversation 0:  57%|█████▋    | 114/199 [04:41<03:52,  2.74s/it][A
+Processing questions for conversation 0:  58%|█████▊    | 115/199 [04:44<03:38,  2.60s/it][A
+Processing questions for conversation 0:  58%|█████▊    | 116/199 [04:46<03:22,  2.44s/it][A
+Processing questions for conversation 0:  59%|█████▉    | 117/199 [04:48<03:20,  2.44s/it][A
+Processing questions for conversation 0:  59%|█████▉    | 118/199 [04:50<03:15,  2.42s/it][A
+Processing questions for conversation 0:  60%|█████▉    | 119/199 [04:53<03:24,  2.56s/it][A
+Processing questions for conversation 0:  60%|██████    | 120/199 [04:55<03:11,  2.43s/it][A
+Processing questions for conversation 0:  61%|██████    | 121/199 [04:57<02:58,  2.29s/it][A
+Processing questions for conversation 0:  61%|██████▏   | 122/199 [05:00<02:57,  2.30s/it][A
+Processing questions for conversation 0:  62%|██████▏   | 123/199 [05:02<03:01,  2.38s/it][A
+Processing questions for conversation 0:  62%|██████▏   | 124/199 [05:04<02:53,  2.31s/it][A
+Processing questions for conversation 0:  63%|██████▎   | 125/199 [05:07<02:49,  2.29s/it][A
+Processing questions for conversation 0:  63%|██████▎   | 126/199 [05:09<02:52,  2.36s/it][A
+Processing questions for conversation 0:  64%|██████▍   | 127/199 [05:12<02:50,  2.37s/it][A
+Processing questions for conversation 0:  64%|██████▍   | 128/199 [05:14<02:50,  2.40s/it][A
+Processing questions for conversation 0:  65%|██████▍   | 129/199 [05:23<05:02,  4.32s/it][A
+Processing questions for conversation 0:  65%|██████▌   | 130/199 [05:26<04:27,  3.88s/it][A
+Processing questions for conversation 0:  66%|██████▌   | 131/199 [05:28<03:52,  3.42s/it][A
+Processing questions for conversation 0:  66%|██████▋   | 132/199 [05:31<03:30,  3.14s/it][A
+Processing questions for conversation 0:  67%|██████▋   | 133/199 [05:33<03:07,  2.84s/it][A
+Processing questions for conversation 0:  67%|██████▋   | 134/199 [05:36<03:03,  2.82s/it][A
+Processing questions for conversation 0:  68%|██████▊   | 135/199 [05:38<02:55,  2.74s/it][A
+Processing questions for conversation 0:  68%|██████▊   | 136/199 [05:41<02:47,  2.66s/it][A
+Processing questions for conversation 0:  69%|██████▉   | 137/199 [05:43<02:50,  2.75s/it][A
+Processing questions for conversation 0:  69%|██████▉   | 138/199 [05:47<03:10,  3.12s/it][A
+Processing questions for conversation 0:  70%|██████▉   | 139/199 [05:50<02:59,  2.98s/it][A
+Processing questions for conversation 0:  70%|███████   | 140/199 [05:52<02:43,  2.76s/it][A
+Processing questions for conversation 0:  71%|███████   | 141/199 [05:54<02:26,  2.52s/it][A
+Processing questions for conversation 0:  71%|███████▏  | 142/199 [05:57<02:20,  2.47s/it][A
+Processing questions for conversation 0:  72%|███████▏  | 143/199 [06:01<02:52,  3.08s/it][A
+Processing questions for conversation 0:  72%|███████▏  | 144/199 [06:04<02:43,  2.98s/it][A
+Processing questions for conversation 0:  73%|███████▎  | 145/199 [06:06<02:30,  2.79s/it][A
+Processing questions for conversation 0:  73%|███████▎  | 146/199 [06:09<02:29,  2.82s/it][A
+Processing questions for conversation 0:  74%|███████▍  | 147/199 [06:19<04:19,  5.00s/it][A
+Processing questions for conversation 0:  74%|███████▍  | 148/199 [06:22<03:34,  4.21s/it][A
+Processing questions for conversation 0:  75%|███████▍  | 149/199 [06:24<03:06,  3.74s/it][A
+Processing questions for conversation 0:  75%|███████▌  | 150/199 [06:27<02:41,  3.29s/it][A
+Processing questions for conversation 0:  76%|███████▌  | 151/199 [06:30<02:33,  3.20s/it][A
+Processing questions for conversation 0:  76%|███████▋  | 152/199 [06:32<02:27,  3.13s/it][A
+Processing questions for conversation 0:  77%|███████▋  | 153/199 [06:35<02:18,  3.02s/it][A
+Processing questions for conversation 0:  77%|███████▋  | 154/199 [06:39<02:29,  3.31s/it][A
+Processing questions for conversation 0:  78%|███████▊  | 155/199 [06:41<02:11,  2.99s/it][A
+Processing questions for conversation 0:  78%|███████▊  | 156/199 [06:43<01:55,  2.68s/it][A
+Processing questions for conversation 0:  79%|███████▉  | 157/199 [06:46<01:47,  2.55s/it][A
+Processing questions for conversation 0:  79%|███████▉  | 158/199 [06:49<01:48,  2.65s/it][A
+Processing questions for conversation 0:  80%|███████▉  | 159/199 [06:51<01:38,  2.47s/it][A
+Processing questions for conversation 0:  80%|████████  | 160/199 [06:53<01:36,  2.46s/it][A
+Processing questions for conversation 0:  81%|████████  | 161/199 [06:55<01:31,  2.40s/it][A
+Processing questions for conversation 0:  81%|████████▏ | 162/199 [06:58<01:29,  2.42s/it][A
+Processing questions for conversation 0:  82%|████████▏ | 163/199 [07:01<01:31,  2.55s/it][A
+Processing questions for conversation 0:  82%|████████▏ | 164/199 [07:03<01:25,  2.43s/it][A
+Processing questions for conversation 0:  83%|████████▎ | 165/199 [07:06<01:25,  2.53s/it][A
+Processing questions for conversation 0:  83%|████████▎ | 166/199 [07:08<01:20,  2.45s/it][A
+Processing questions for conversation 0:  84%|████████▍ | 167/199 [07:10<01:16,  2.39s/it][A
+Processing questions for conversation 0:  84%|████████▍ | 168/199 [07:13<01:15,  2.44s/it][A
+Processing questions for conversation 0:  85%|████████▍ | 169/199 [07:15<01:15,  2.51s/it][A
+Processing questions for conversation 0:  85%|████████▌ | 170/199 [07:17<01:07,  2.34s/it][A
+Processing questions for conversation 0:  86%|████████▌ | 171/199 [07:19<01:03,  2.28s/it][A
+Processing questions for conversation 0:  86%|████████▋ | 172/199 [07:22<01:03,  2.34s/it][A
+Processing questions for conversation 0:  87%|████████▋ | 173/199 [07:24<00:57,  2.20s/it][A
+Processing questions for conversation 0:  87%|████████▋ | 174/199 [07:28<01:11,  2.88s/it][A
+Processing questions for conversation 0:  88%|████████▊ | 175/199 [07:40<02:11,  5.48s/it][A
+Processing questions for conversation 0:  88%|████████▊ | 176/199 [07:43<01:48,  4.73s/it][A
+Processing questions for conversation 0:  89%|████████▉ | 177/199 [07:48<01:47,  4.88s/it][A
+Processing questions for conversation 0:  89%|████████▉ | 178/199 [07:52<01:34,  4.49s/it][A
+Processing questions for conversation 0:  90%|████████▉ | 179/199 [07:54<01:16,  3.85s/it][A
+Processing questions for conversation 0:  90%|█████████ | 180/199 [07:57<01:06,  3.49s/it][A
+Processing questions for conversation 0:  91%|█████████ | 181/199 [07:59<00:56,  3.15s/it][A
+Processing questions for conversation 0:  91%|█████████▏| 182/199 [08:01<00:47,  2.82s/it][A
+Processing questions for conversation 0:  92%|█████████▏| 183/199 [08:03<00:43,  2.71s/it][A
+Processing questions for conversation 0:  92%|█████████▏| 184/199 [08:06<00:39,  2.64s/it][A
+Processing questions for conversation 0:  93%|█████████▎| 185/199 [08:08<00:33,  2.37s/it][A
+Processing questions for conversation 0:  93%|█████████▎| 186/199 [08:11<00:34,  2.67s/it][A
+Processing questions for conversation 0:  94%|█████████▍| 187/199 [08:14<00:31,  2.64s/it][A
+Processing questions for conversation 0:  94%|█████████▍| 188/199 [08:16<00:29,  2.68s/it][A
+Processing questions for conversation 0:  95%|█████████▍| 189/199 [08:18<00:25,  2.52s/it][A
+Processing questions for conversation 0:  95%|█████████▌| 190/199 [08:21<00:21,  2.41s/it][A
+Processing questions for conversation 0:  96%|█████████▌| 191/199 [08:22<00:17,  2.24s/it][A
+Processing questions for conversation 0:  96%|█████████▋| 192/199 [08:25<00:16,  2.40s/it][A
+Processing questions for conversation 0:  97%|█████████▋| 193/199 [08:28<00:14,  2.48s/it][A
+Processing questions for conversation 0:  97%|█████████▋| 194/199 [08:30<00:12,  2.49s/it][A
+Processing questions for conversation 0:  98%|█████████▊| 195/199 [08:33<00:09,  2.49s/it][A
+Processing questions for conversation 0:  98%|█████████▊| 196/199 [08:35<00:06,  2.27s/it][A
+Processing questions for conversation 0:  99%|█████████▉| 197/199 [08:37<00:04,  2.42s/it][A
+Processing questions for conversation 0:  99%|█████████▉| 198/199 [08:40<00:02,  2.43s/it][A
+Processing questions for conversation 0: 100%|██████████| 199/199 [08:42<00:00,  2.47s/it][A
+                                                                                          [AProcessing conversations:  10%|█         | 1/10 [08:42<1:18:26, 522.91s/it]
+Processing questions for conversation 1:   0%|          | 0/105 [00:00<?, ?it/s][A
+Processing questions for conversation 1:   1%|          | 1/105 [00:02<03:54,  2.25s/it][A
+Processing questions for conversation 1:   2%|▏         | 2/105 [00:04<04:10,  2.44s/it][A
+Processing questions for conversation 1:   3%|▎         | 3/105 [00:07<04:18,  2.54s/it][A
+Processing questions for conversation 1:   4%|▍         | 4/105 [00:09<03:52,  2.31s/it][A
+Processing questions for conversation 1:   5%|▍         | 5/105 [00:11<03:41,  2.21s/it][A
+Processing questions for conversation 1:   6%|▌         | 6/105 [00:15<04:28,  2.72s/it][A
+Processing questions for conversation 1:   7%|▋         | 7/105 [00:17<04:17,  2.63s/it][A
+Processing questions for conversation 1:   8%|▊         | 8/105 [00:19<04:06,  2.54s/it][A
+Processing questions for conversation 1:   9%|▊         | 9/105 [00:22<04:01,  2.52s/it][A
+Processing questions for conversation 1:  10%|▉         | 10/105 [00:24<03:45,  2.37s/it][A
+Processing questions for conversation 1:  10%|█         | 11/105 [00:26<03:36,  2.30s/it][A
+Processing questions for conversation 1:  11%|█▏        | 12/105 [00:28<03:22,  2.18s/it][A
+Processing questions for conversation 1:  12%|█▏        | 13/105 [00:30<03:23,  2.22s/it][A
+Processing questions for conversation 1:  13%|█▎        | 14/105 [00:32<03:11,  2.10s/it][A
+Processing questions for conversation 1:  14%|█▍        | 15/105 [00:34<03:05,  2.06s/it][A
+Processing questions for conversation 1:  15%|█▌        | 16/105 [00:36<02:57,  1.99s/it][A
+Processing questions for conversation 1:  16%|█▌        | 17/105 [00:39<03:18,  2.25s/it][A
+Processing questions for conversation 1:  17%|█▋        | 18/105 [00:41<03:10,  2.19s/it][A
+Processing questions for conversation 1:  18%|█▊        | 19/105 [00:44<03:26,  2.40s/it][A
+Processing questions for conversation 1:  19%|█▉        | 20/105 [00:47<03:35,  2.54s/it][A
+Processing questions for conversation 1:  20%|██        | 21/105 [00:50<03:43,  2.66s/it][A
+Processing questions for conversation 1:  21%|██        | 22/105 [00:53<03:49,  2.76s/it][A
+Processing questions for conversation 1:  22%|██▏       | 23/105 [00:55<03:35,  2.63s/it][A
+Processing questions for conversation 1:  23%|██▎       | 24/105 [00:58<03:36,  2.67s/it][A
+Processing questions for conversation 1:  24%|██▍       | 25/105 [01:04<05:07,  3.84s/it][A
+Processing questions for conversation 1:  25%|██▍       | 26/105 [01:08<04:54,  3.73s/it][A
+Processing questions for conversation 1:  26%|██▌       | 27/105 [01:10<04:21,  3.35s/it][A
+Processing questions for conversation 1:  27%|██▋       | 28/105 [01:13<03:54,  3.05s/it][A
+Processing questions for conversation 1:  28%|██▊       | 29/105 [01:15<03:38,  2.87s/it][A
+Processing questions for conversation 1:  29%|██▊       | 30/105 [01:17<03:09,  2.53s/it][A
+Processing questions for conversation 1:  30%|██▉       | 31/105 [01:19<02:58,  2.42s/it][A
+Processing questions for conversation 1:  30%|███       | 32/105 [01:21<02:41,  2.21s/it][A
+Processing questions for conversation 1:  31%|███▏      | 33/105 [01:23<02:44,  2.29s/it][A
+Processing questions for conversation 1:  32%|███▏      | 34/105 [01:26<03:01,  2.55s/it][A
+Processing questions for conversation 1:  33%|███▎      | 35/105 [01:28<02:48,  2.40s/it][A
+Processing questions for conversation 1:  34%|███▍      | 36/105 [01:31<02:53,  2.51s/it][A
+Processing questions for conversation 1:  35%|███▌      | 37/105 [01:34<02:49,  2.50s/it][A
+Processing questions for conversation 1:  36%|███▌      | 38/105 [01:36<02:42,  2.42s/it][A
+Processing questions for conversation 1:  37%|███▋      | 39/105 [01:38<02:36,  2.37s/it][A
+Processing questions for conversation 1:  38%|███▊      | 40/105 [01:40<02:25,  2.24s/it][A
+Processing questions for conversation 1:  39%|███▉      | 41/105 [01:42<02:15,  2.11s/it][A
+Processing questions for conversation 1:  40%|████      | 42/105 [01:44<02:14,  2.13s/it][A
+Processing questions for conversation 1:  41%|████      | 43/105 [01:46<02:16,  2.20s/it][A
+Processing questions for conversation 1:  42%|████▏     | 44/105 [01:48<02:13,  2.18s/it][A
+Processing questions for conversation 1:  43%|████▎     | 45/105 [01:51<02:21,  2.36s/it][A
+Processing questions for conversation 1:  44%|████▍     | 46/105 [01:53<02:11,  2.24s/it][A
+Processing questions for conversation 1:  45%|████▍     | 47/105 [01:56<02:13,  2.30s/it][A
+Processing questions for conversation 1:  46%|████▌     | 48/105 [02:01<02:55,  3.09s/it][A
+Processing questions for conversation 1:  47%|████▋     | 49/105 [02:03<02:40,  2.87s/it][A
+Processing questions for conversation 1:  48%|████▊     | 50/105 [02:06<02:37,  2.85s/it][A
+Processing questions for conversation 1:  49%|████▊     | 51/105 [02:08<02:26,  2.72s/it][A
+Processing questions for conversation 1:  50%|████▉     | 52/105 [02:11<02:26,  2.76s/it][A
+Processing questions for conversation 1:  50%|█████     | 53/105 [02:13<02:14,  2.58s/it][A
+Processing questions for conversation 1:  51%|█████▏    | 54/105 [02:16<02:14,  2.63s/it][A
+Processing questions for conversation 1:  52%|█████▏    | 55/105 [02:18<02:02,  2.46s/it][A
+Processing questions for conversation 1:  53%|█████▎    | 56/105 [02:20<01:57,  2.40s/it][A
+Processing questions for conversation 1:  54%|█████▍    | 57/105 [02:23<01:57,  2.45s/it][A
+Processing questions for conversation 1:  55%|█████▌    | 58/105 [02:25<01:55,  2.45s/it][A
+Processing questions for conversation 1:  56%|█████▌    | 59/105 [02:27<01:49,  2.39s/it][A
+Processing questions for conversation 1:  57%|█████▋    | 60/105 [02:31<02:03,  2.75s/it][A
+Processing questions for conversation 1:  58%|█████▊    | 61/105 [02:34<01:58,  2.69s/it][A
+Processing questions for conversation 1:  59%|█████▉    | 62/105 [02:37<01:59,  2.77s/it][A
+Processing questions for conversation 1:  60%|██████    | 63/105 [02:39<01:51,  2.65s/it][A
+Processing questions for conversation 1:  61%|██████    | 64/105 [02:43<02:04,  3.02s/it][A
+Processing questions for conversation 1:  62%|██████▏   | 65/105 [02:45<01:52,  2.82s/it][A
+Processing questions for conversation 1:  63%|██████▎   | 66/105 [02:47<01:43,  2.65s/it][A
+Processing questions for conversation 1:  64%|██████▍   | 67/105 [02:50<01:38,  2.58s/it][A
+Processing questions for conversation 1:  65%|██████▍   | 68/105 [02:53<01:43,  2.80s/it][A
+Processing questions for conversation 1:  66%|██████▌   | 69/105 [02:57<01:48,  3.01s/it][A
+Processing questions for conversation 1:  67%|██████▋   | 70/105 [02:59<01:40,  2.87s/it][A
+Processing questions for conversation 1:  68%|██████▊   | 71/105 [03:02<01:32,  2.71s/it][A
+Processing questions for conversation 1:  69%|██████▊   | 72/105 [03:04<01:27,  2.64s/it][A
+Processing questions for conversation 1:  70%|██████▉   | 73/105 [03:06<01:20,  2.52s/it][A
+Processing questions for conversation 1:  70%|███████   | 74/105 [03:09<01:20,  2.60s/it][A
+Processing questions for conversation 1:  71%|███████▏  | 75/105 [03:13<01:26,  2.89s/it][A
+Processing questions for conversation 1:  72%|███████▏  | 76/105 [03:15<01:21,  2.79s/it][A
+Processing questions for conversation 1:  73%|███████▎  | 77/105 [03:17<01:11,  2.55s/it][A
+Processing questions for conversation 1:  74%|███████▍  | 78/105 [03:20<01:07,  2.51s/it][A
+Processing questions for conversation 1:  75%|███████▌  | 79/105 [03:22<01:06,  2.55s/it][A
+Processing questions for conversation 1:  76%|███████▌  | 80/105 [03:25<01:01,  2.47s/it][A
+Processing questions for conversation 1:  77%|███████▋  | 81/105 [03:27<00:57,  2.40s/it][A
+Processing questions for conversation 1:  78%|███████▊  | 82/105 [03:30<01:01,  2.67s/it][A
+Processing questions for conversation 1:  79%|███████▉  | 83/105 [03:32<00:54,  2.48s/it][A
+Processing questions for conversation 1:  80%|████████  | 84/105 [03:34<00:50,  2.38s/it][A
+Processing questions for conversation 1:  81%|████████  | 85/105 [03:37<00:48,  2.40s/it][A
+Processing questions for conversation 1:  82%|████████▏ | 86/105 [03:39<00:44,  2.33s/it][A
+Processing questions for conversation 1:  83%|████████▎ | 87/105 [03:41<00:41,  2.30s/it][A
+Processing questions for conversation 1:  84%|████████▍ | 88/105 [03:44<00:42,  2.48s/it][A
+Processing questions for conversation 1:  85%|████████▍ | 89/105 [03:46<00:38,  2.38s/it][A
+Processing questions for conversation 1:  86%|████████▌ | 90/105 [03:49<00:37,  2.50s/it][A
+Processing questions for conversation 1:  87%|████████▋ | 91/105 [03:52<00:35,  2.54s/it][A
+Processing questions for conversation 1:  88%|████████▊ | 92/105 [03:58<00:47,  3.69s/it][A
+Processing questions for conversation 1:  89%|████████▊ | 93/105 [04:02<00:46,  3.90s/it][A
+Processing questions for conversation 1:  90%|████████▉ | 94/105 [04:05<00:38,  3.53s/it][A
+Processing questions for conversation 1:  90%|█████████ | 95/105 [04:08<00:34,  3.48s/it][A
+Processing questions for conversation 1:  91%|█████████▏| 96/105 [04:11<00:28,  3.11s/it][A
+Processing questions for conversation 1:  92%|█████████▏| 97/105 [04:13<00:22,  2.79s/it][A
+Processing questions for conversation 1:  93%|█████████▎| 98/105 [04:15<00:19,  2.76s/it][A
+Processing questions for conversation 1:  94%|█████████▍| 99/105 [04:18<00:15,  2.61s/it][A
+Processing questions for conversation 1:  95%|█████████▌| 100/105 [04:20<00:12,  2.49s/it][A
+Processing questions for conversation 1:  96%|█████████▌| 101/105 [04:23<00:10,  2.64s/it][A
+Processing questions for conversation 1:  97%|█████████▋| 102/105 [04:25<00:07,  2.58s/it][A
+Processing questions for conversation 1:  98%|█████████▊| 103/105 [04:28<00:04,  2.48s/it][A
+Processing questions for conversation 1:  99%|█████████▉| 104/105 [04:30<00:02,  2.48s/it][A
+Processing questions for conversation 1: 100%|██████████| 105/105 [04:32<00:00,  2.41s/it][A
+                                                                                          [AProcessing conversations:  20%|██        | 2/10 [13:15<50:05, 375.74s/it]  
+Processing questions for conversation 2:   0%|          | 0/193 [00:00<?, ?it/s][A
+Processing questions for conversation 2:   1%|          | 1/193 [00:02<08:11,  2.56s/it][A
+Processing questions for conversation 2:   1%|          | 2/193 [00:04<07:22,  2.32s/it][A
+Processing questions for conversation 2:   2%|▏         | 3/193 [00:06<07:06,  2.24s/it][A
+Processing questions for conversation 2:   2%|▏         | 4/193 [00:09<07:12,  2.29s/it][A
+Processing questions for conversation 2:   3%|▎         | 5/193 [00:11<07:00,  2.24s/it][A
+Processing questions for conversation 2:   3%|▎         | 6/193 [00:13<06:40,  2.14s/it][A
+Processing questions for conversation 2:   4%|▎         | 7/193 [00:15<06:36,  2.13s/it][A
+Processing questions for conversation 2:   4%|▍         | 8/193 [00:17<06:49,  2.21s/it][A
+Processing questions for conversation 2:   5%|▍         | 9/193 [00:19<06:26,  2.10s/it][A
+Processing questions for conversation 2:   5%|▌         | 10/193 [00:22<06:50,  2.24s/it][A
+Processing questions for conversation 2:   6%|▌         | 11/193 [00:24<07:05,  2.34s/it][A
+Processing questions for conversation 2:   6%|▌         | 12/193 [00:30<10:16,  3.40s/it][A
+Processing questions for conversation 2:   7%|▋         | 13/193 [00:32<09:15,  3.08s/it][A
+Processing questions for conversation 2:   7%|▋         | 14/193 [00:35<08:26,  2.83s/it][A
+Processing questions for conversation 2:   8%|▊         | 15/193 [00:37<07:47,  2.63s/it][A
+Processing questions for conversation 2:   8%|▊         | 16/193 [00:39<07:33,  2.56s/it][A
+Processing questions for conversation 2:   9%|▉         | 17/193 [00:41<07:11,  2.45s/it][A
+Processing questions for conversation 2:   9%|▉         | 18/193 [00:44<07:03,  2.42s/it][A
+Processing questions for conversation 2:  10%|▉         | 19/193 [00:46<07:03,  2.43s/it][A
+Processing questions for conversation 2:  10%|█         | 20/193 [00:49<06:51,  2.38s/it][A
+Processing questions for conversation 2:  11%|█         | 21/193 [00:51<07:03,  2.46s/it][A
+Processing questions for conversation 2:  11%|█▏        | 22/193 [00:54<07:11,  2.53s/it][A
+Processing questions for conversation 2:  12%|█▏        | 23/193 [00:57<07:21,  2.60s/it][A
+Processing questions for conversation 2:  12%|█▏        | 24/193 [00:59<06:56,  2.46s/it][A
+Processing questions for conversation 2:  13%|█▎        | 25/193 [01:01<06:48,  2.43s/it][A
+Processing questions for conversation 2:  13%|█▎        | 26/193 [01:04<06:47,  2.44s/it][A
+Processing questions for conversation 2:  14%|█▍        | 27/193 [01:06<06:30,  2.35s/it][A
+Processing questions for conversation 2:  15%|█▍        | 28/193 [01:08<06:29,  2.36s/it][A
+Processing questions for conversation 2:  15%|█▌        | 29/193 [01:10<06:20,  2.32s/it][A
+Processing questions for conversation 2:  16%|█▌        | 30/193 [01:13<06:20,  2.33s/it][A
+Processing questions for conversation 2:  16%|█▌        | 31/193 [01:15<06:33,  2.43s/it][A
+Processing questions for conversation 2:  17%|█▋        | 32/193 [01:18<06:37,  2.47s/it][A
+Processing questions for conversation 2:  17%|█▋        | 33/193 [01:20<06:19,  2.37s/it][A
+Processing questions for conversation 2:  18%|█▊        | 34/193 [01:23<06:31,  2.46s/it][A
+Processing questions for conversation 2:  18%|█▊        | 35/193 [01:25<06:11,  2.35s/it][A
+Processing questions for conversation 2:  19%|█▊        | 36/193 [01:27<06:16,  2.40s/it][A
+Processing questions for conversation 2:  19%|█▉        | 37/193 [01:30<06:18,  2.43s/it][A
+Processing questions for conversation 2:  20%|█▉        | 38/193 [01:33<06:30,  2.52s/it][A
+Processing questions for conversation 2:  20%|██        | 39/193 [01:35<06:06,  2.38s/it][A
+Processing questions for conversation 2:  21%|██        | 40/193 [01:37<06:07,  2.40s/it][A
+Processing questions for conversation 2:  21%|██        | 41/193 [01:39<05:49,  2.30s/it][A
+Processing questions for conversation 2:  22%|██▏       | 42/193 [01:42<05:58,  2.37s/it][A
+Processing questions for conversation 2:  22%|██▏       | 43/193 [01:44<05:50,  2.34s/it][A
+Processing questions for conversation 2:  23%|██▎       | 44/193 [01:46<05:53,  2.37s/it][A
+Processing questions for conversation 2:  23%|██▎       | 45/193 [01:49<05:59,  2.43s/it][A
+Processing questions for conversation 2:  24%|██▍       | 46/193 [01:51<05:44,  2.35s/it][A
+Processing questions for conversation 2:  24%|██▍       | 47/193 [01:54<06:00,  2.47s/it][A
+Processing questions for conversation 2:  25%|██▍       | 48/193 [01:56<05:31,  2.28s/it][A
+Processing questions for conversation 2:  25%|██▌       | 49/193 [01:58<05:22,  2.24s/it][A
+Processing questions for conversation 2:  26%|██▌       | 50/193 [02:01<05:43,  2.40s/it][A
+Processing questions for conversation 2:  26%|██▋       | 51/193 [02:02<05:16,  2.23s/it][A
+Processing questions for conversation 2:  27%|██▋       | 52/193 [02:04<04:54,  2.09s/it][A
+Processing questions for conversation 2:  27%|██▋       | 53/193 [02:06<04:59,  2.14s/it][A
+Processing questions for conversation 2:  28%|██▊       | 54/193 [02:09<05:06,  2.20s/it][A
+Processing questions for conversation 2:  28%|██▊       | 55/193 [02:11<04:59,  2.17s/it][A
+Processing questions for conversation 2:  29%|██▉       | 56/193 [02:14<05:15,  2.31s/it][A
+Processing questions for conversation 2:  30%|██▉       | 57/193 [02:16<05:11,  2.29s/it][A
+Processing questions for conversation 2:  30%|███       | 58/193 [02:18<05:09,  2.29s/it][A
+Processing questions for conversation 2:  31%|███       | 59/193 [02:21<05:24,  2.42s/it][A
+Processing questions for conversation 2:  31%|███       | 60/193 [02:23<05:31,  2.49s/it][A
+Processing questions for conversation 2:  32%|███▏      | 61/193 [02:26<05:23,  2.45s/it][A
+Processing questions for conversation 2:  32%|███▏      | 62/193 [02:28<05:25,  2.48s/it][A
+Processing questions for conversation 2:  33%|███▎      | 63/193 [02:31<05:41,  2.63s/it][A
+Processing questions for conversation 2:  33%|███▎      | 64/193 [02:35<06:04,  2.82s/it][A
+Processing questions for conversation 2:  34%|███▎      | 65/193 [02:40<07:22,  3.45s/it][A
+Processing questions for conversation 2:  34%|███▍      | 66/193 [02:42<06:36,  3.12s/it][A
+Processing questions for conversation 2:  35%|███▍      | 67/193 [02:45<06:23,  3.05s/it][A
+Processing questions for conversation 2:  35%|███▌      | 68/193 [02:46<05:28,  2.63s/it][A
+Processing questions for conversation 2:  36%|███▌      | 69/193 [02:49<05:18,  2.57s/it][A
+Processing questions for conversation 2:  36%|███▋      | 70/193 [02:53<06:05,  2.97s/it][A
+Processing questions for conversation 2:  37%|███▋      | 71/193 [02:55<05:39,  2.78s/it][A
+Processing questions for conversation 2:  37%|███▋      | 72/193 [02:57<05:10,  2.56s/it][A
+Processing questions for conversation 2:  38%|███▊      | 73/193 [03:00<05:18,  2.65s/it][A
+Processing questions for conversation 2:  38%|███▊      | 74/193 [03:02<04:46,  2.41s/it][A
+Processing questions for conversation 2:  39%|███▉      | 75/193 [03:05<05:15,  2.67s/it][A
+Processing questions for conversation 2:  39%|███▉      | 76/193 [03:08<05:19,  2.73s/it][A
+Processing questions for conversation 2:  40%|███▉      | 77/193 [03:10<04:49,  2.49s/it][A
+Processing questions for conversation 2:  40%|████      | 78/193 [03:13<04:52,  2.55s/it][A
+Processing questions for conversation 2:  41%|████      | 79/193 [03:15<04:54,  2.58s/it][A
+Processing questions for conversation 2:  41%|████▏     | 80/193 [03:17<04:33,  2.42s/it][A
+Processing questions for conversation 2:  42%|████▏     | 81/193 [03:20<04:35,  2.46s/it][A
+Processing questions for conversation 2:  42%|████▏     | 82/193 [03:24<05:21,  2.90s/it][A
+Processing questions for conversation 2:  43%|████▎     | 83/193 [03:27<05:30,  3.01s/it][A
+Processing questions for conversation 2:  44%|████▎     | 84/193 [03:30<05:19,  2.93s/it][A
+Processing questions for conversation 2:  44%|████▍     | 85/193 [03:34<05:41,  3.16s/it][A
+Processing questions for conversation 2:  45%|████▍     | 86/193 [03:36<05:12,  2.92s/it][A
+Processing questions for conversation 2:  45%|████▌     | 87/193 [03:38<04:38,  2.62s/it][A
+Processing questions for conversation 2:  46%|████▌     | 88/193 [03:40<04:30,  2.58s/it][A
+Processing questions for conversation 2:  46%|████▌     | 89/193 [03:42<04:08,  2.39s/it][A
+Processing questions for conversation 2:  47%|████▋     | 90/193 [03:51<07:36,  4.43s/it][A
+Processing questions for conversation 2:  47%|████▋     | 91/193 [03:55<07:15,  4.27s/it][A
+Processing questions for conversation 2:  48%|████▊     | 92/193 [03:58<06:34,  3.91s/it][A
+Processing questions for conversation 2:  48%|████▊     | 93/193 [04:01<05:50,  3.50s/it][A
+Processing questions for conversation 2:  49%|████▊     | 94/193 [04:04<05:40,  3.44s/it][A
+Processing questions for conversation 2:  49%|████▉     | 95/193 [04:07<05:19,  3.26s/it][A
+Processing questions for conversation 2:  50%|████▉     | 96/193 [04:10<05:11,  3.21s/it][A
+Processing questions for conversation 2:  50%|█████     | 97/193 [04:13<04:55,  3.07s/it][A
+Processing questions for conversation 2:  51%|█████     | 98/193 [04:15<04:25,  2.79s/it][A
+Processing questions for conversation 2:  51%|█████▏    | 99/193 [04:20<05:16,  3.37s/it][A
+Processing questions for conversation 2:  52%|█████▏    | 100/193 [04:29<07:58,  5.15s/it][A
+Processing questions for conversation 2:  52%|█████▏    | 101/193 [04:32<06:51,  4.47s/it][A
+Processing questions for conversation 2:  53%|█████▎    | 102/193 [04:35<06:16,  4.14s/it][A
+Processing questions for conversation 2:  53%|█████▎    | 103/193 [04:38<05:29,  3.66s/it][A
+Processing questions for conversation 2:  54%|█████▍    | 104/193 [04:40<04:45,  3.21s/it][A
+Processing questions for conversation 2:  54%|█████▍    | 105/193 [04:50<07:27,  5.09s/it][A
+Processing questions for conversation 2:  55%|█████▍    | 106/193 [04:53<06:30,  4.49s/it][A
+Processing questions for conversation 2:  55%|█████▌    | 107/193 [04:57<06:21,  4.43s/it][A
+Processing questions for conversation 2:  56%|█████▌    | 108/193 [04:59<05:26,  3.84s/it][A
+Processing questions for conversation 2:  56%|█████▋    | 109/193 [05:02<04:54,  3.51s/it][A
+Processing questions for conversation 2:  57%|█████▋    | 110/193 [05:05<04:38,  3.35s/it][A
+Processing questions for conversation 2:  58%|█████▊    | 111/193 [05:08<04:15,  3.11s/it][A
+Processing questions for conversation 2:  58%|█████▊    | 112/193 [05:14<05:38,  4.18s/it][A
+Processing questions for conversation 2:  59%|█████▊    | 113/193 [05:17<04:50,  3.63s/it][A
+Processing questions for conversation 2:  59%|█████▉    | 114/193 [05:21<05:14,  3.98s/it][A
+Processing questions for conversation 2:  60%|█████▉    | 115/193 [05:24<04:44,  3.65s/it][A
+Processing questions for conversation 2:  60%|██████    | 116/193 [05:27<04:11,  3.26s/it][A
+Processing questions for conversation 2:  61%|██████    | 117/193 [05:29<03:47,  2.99s/it][A
+Processing questions for conversation 2:  61%|██████    | 118/193 [05:32<03:38,  2.91s/it][A
+Processing questions for conversation 2:  62%|██████▏   | 119/193 [05:34<03:28,  2.82s/it][A
+Processing questions for conversation 2:  62%|██████▏   | 120/193 [05:40<04:34,  3.77s/it][A
+Processing questions for conversation 2:  63%|██████▎   | 121/193 [05:43<04:03,  3.39s/it][A
+Processing questions for conversation 2:  63%|██████▎   | 122/193 [05:46<03:49,  3.23s/it][A
+Processing questions for conversation 2:  64%|██████▎   | 123/193 [05:49<03:41,  3.16s/it][A
+Processing questions for conversation 2:  64%|██████▍   | 124/193 [05:52<03:40,  3.19s/it][A
+Processing questions for conversation 2:  65%|██████▍   | 125/193 [05:55<03:35,  3.17s/it][A
+Processing questions for conversation 2:  65%|██████▌   | 126/193 [05:58<03:19,  2.97s/it][A
+Processing questions for conversation 2:  66%|██████▌   | 127/193 [06:00<03:05,  2.82s/it][A
+Processing questions for conversation 2:  66%|██████▋   | 128/193 [06:03<02:59,  2.76s/it][A
+Processing questions for conversation 2:  67%|██████▋   | 129/193 [06:05<02:55,  2.74s/it][A
+Processing questions for conversation 2:  67%|██████▋   | 130/193 [06:08<02:45,  2.63s/it][A
+Processing questions for conversation 2:  68%|██████▊   | 131/193 [06:11<02:48,  2.71s/it][A
+Processing questions for conversation 2:  68%|██████▊   | 132/193 [06:13<02:45,  2.72s/it][A
+Processing questions for conversation 2:  69%|██████▉   | 133/193 [06:16<02:35,  2.59s/it][A
+Processing questions for conversation 2:  69%|██████▉   | 134/193 [06:19<02:42,  2.75s/it][A
+Processing questions for conversation 2:  70%|██████▉   | 135/193 [06:22<02:50,  2.94s/it][A
+Processing questions for conversation 2:  70%|███████   | 136/193 [06:25<02:53,  3.04s/it][A
+Processing questions for conversation 2:  71%|███████   | 137/193 [06:29<02:56,  3.14s/it][A
+Processing questions for conversation 2:  72%|███████▏  | 138/193 [06:32<02:47,  3.05s/it][A
+Processing questions for conversation 2:  72%|███████▏  | 139/193 [06:36<02:59,  3.32s/it][A
+Processing questions for conversation 2:  73%|███████▎  | 140/193 [06:39<03:03,  3.46s/it][A
+Processing questions for conversation 2:  73%|███████▎  | 141/193 [06:42<02:49,  3.26s/it][A
+Processing questions for conversation 2:  74%|███████▎  | 142/193 [06:45<02:32,  2.99s/it][A
+Processing questions for conversation 2:  74%|███████▍  | 143/193 [06:48<02:36,  3.12s/it][A
+Processing questions for conversation 2:  75%|███████▍  | 144/193 [06:50<02:20,  2.86s/it][A
+Processing questions for conversation 2:  75%|███████▌  | 145/193 [06:53<02:12,  2.77s/it][A
+Processing questions for conversation 2:  76%|███████▌  | 146/193 [06:55<02:05,  2.67s/it][A
+Processing questions for conversation 2:  76%|███████▌  | 147/193 [06:58<02:09,  2.80s/it][A
+Processing questions for conversation 2:  77%|███████▋  | 148/193 [07:01<02:07,  2.84s/it][A
+Processing questions for conversation 2:  77%|███████▋  | 149/193 [07:04<02:04,  2.82s/it][A
+Processing questions for conversation 2:  78%|███████▊  | 150/193 [07:07<02:00,  2.81s/it][A
+Processing questions for conversation 2:  78%|███████▊  | 151/193 [07:09<01:49,  2.61s/it][A
+Processing questions for conversation 2:  79%|███████▉  | 152/193 [07:12<01:51,  2.72s/it][A
+Processing questions for conversation 2:  79%|███████▉  | 153/193 [07:15<01:50,  2.76s/it][A
+Processing questions for conversation 2:  80%|███████▉  | 154/193 [07:18<01:48,  2.79s/it][A
+Processing questions for conversation 2:  80%|████████  | 155/193 [07:20<01:39,  2.61s/it][A
+Processing questions for conversation 2:  81%|████████  | 156/193 [07:22<01:32,  2.49s/it][A
+Processing questions for conversation 2:  81%|████████▏ | 157/193 [07:25<01:31,  2.54s/it][A
+Processing questions for conversation 2:  82%|████████▏ | 158/193 [07:28<01:31,  2.61s/it][A
+Processing questions for conversation 2:  82%|████████▏ | 159/193 [07:30<01:29,  2.63s/it][A
+Processing questions for conversation 2:  83%|████████▎ | 160/193 [07:33<01:24,  2.55s/it][A
+Processing questions for conversation 2:  83%|████████▎ | 161/193 [07:36<01:27,  2.74s/it][A
+Processing questions for conversation 2:  84%|████████▍ | 162/193 [07:38<01:21,  2.64s/it][A
+Processing questions for conversation 2:  84%|████████▍ | 163/193 [07:41<01:16,  2.57s/it][A
+Processing questions for conversation 2:  85%|████████▍ | 164/193 [07:44<01:17,  2.69s/it][A
+Processing questions for conversation 2:  85%|████████▌ | 165/193 [07:46<01:14,  2.65s/it][A
+Processing questions for conversation 2:  86%|████████▌ | 166/193 [07:49<01:13,  2.71s/it][A
+Processing questions for conversation 2:  87%|████████▋ | 167/193 [07:52<01:16,  2.95s/it][A
+Processing questions for conversation 2:  87%|████████▋ | 168/193 [07:55<01:12,  2.92s/it][A
+Processing questions for conversation 2:  88%|████████▊ | 169/193 [07:58<01:10,  2.94s/it][A
+Processing questions for conversation 2:  88%|████████▊ | 170/193 [08:01<01:03,  2.75s/it][A
+Processing questions for conversation 2:  89%|████████▊ | 171/193 [08:03<01:00,  2.74s/it][A
+Processing questions for conversation 2:  89%|████████▉ | 172/193 [08:06<00:55,  2.64s/it][A
+Processing questions for conversation 2:  90%|████████▉ | 173/193 [08:09<00:55,  2.78s/it][A
+Processing questions for conversation 2:  90%|█████████ | 174/193 [08:11<00:51,  2.71s/it][A
+Processing questions for conversation 2:  91%|█████████ | 175/193 [08:14<00:46,  2.60s/it][A
+Processing questions for conversation 2:  91%|█████████ | 176/193 [08:16<00:42,  2.53s/it][A
+Processing questions for conversation 2:  92%|█████████▏| 177/193 [08:18<00:38,  2.38s/it][A
+Processing questions for conversation 2:  92%|█████████▏| 178/193 [08:21<00:37,  2.47s/it][A
+Processing questions for conversation 2:  93%|█████████▎| 179/193 [08:24<00:36,  2.62s/it][A
+Processing questions for conversation 2:  93%|█████████▎| 180/193 [08:27<00:36,  2.82s/it][A
+Processing questions for conversation 2:  94%|█████████▍| 181/193 [08:29<00:32,  2.71s/it][A
+Processing questions for conversation 2:  94%|█████████▍| 182/193 [08:32<00:28,  2.63s/it][A
+Processing questions for conversation 2:  95%|█████████▍| 183/193 [08:35<00:26,  2.64s/it][A
+Processing questions for conversation 2:  95%|█████████▌| 184/193 [08:38<00:24,  2.74s/it][A
+Processing questions for conversation 2:  96%|█████████▌| 185/193 [08:40<00:21,  2.69s/it][A
+Processing questions for conversation 2:  96%|█████████▋| 186/193 [08:43<00:18,  2.59s/it][A
+Processing questions for conversation 2:  97%|█████████▋| 187/193 [08:46<00:16,  2.78s/it][A
+Processing questions for conversation 2:  97%|█████████▋| 188/193 [08:48<00:13,  2.67s/it][A
+Processing questions for conversation 2:  98%|█████████▊| 189/193 [08:51<00:11,  2.79s/it][A
+Processing questions for conversation 2:  98%|█████████▊| 190/193 [08:53<00:07,  2.63s/it][A
+Processing questions for conversation 2:  99%|█████████▉| 191/193 [08:56<00:05,  2.61s/it][A
+Processing questions for conversation 2:  99%|█████████▉| 192/193 [08:59<00:02,  2.69s/it][A
+Processing questions for conversation 2: 100%|██████████| 193/193 [09:01<00:00,  2.65s/it][A
+                                                                                          [AProcessing conversations:  30%|███       | 3/10 [22:17<52:41, 451.64s/it]
+Processing questions for conversation 3:   0%|          | 0/260 [00:00<?, ?it/s][A
+Processing questions for conversation 3:   0%|          | 1/260 [00:02<12:19,  2.86s/it][A
+Processing questions for conversation 3:   1%|          | 2/260 [00:05<11:15,  2.62s/it][A
+Processing questions for conversation 3:   1%|          | 3/260 [00:08<11:30,  2.69s/it][A
+Processing questions for conversation 3:   2%|▏         | 4/260 [00:09<10:09,  2.38s/it][A
+Processing questions for conversation 3:   2%|▏         | 5/260 [00:12<10:08,  2.39s/it][A
+Processing questions for conversation 3:   2%|▏         | 6/260 [00:14<09:36,  2.27s/it][A
+Processing questions for conversation 3:   3%|▎         | 7/260 [00:16<09:41,  2.30s/it][A
+Processing questions for conversation 3:   3%|▎         | 8/260 [00:18<09:18,  2.22s/it][A
+Processing questions for conversation 3:   3%|▎         | 9/260 [00:21<09:51,  2.36s/it][A
+Processing questions for conversation 3:   4%|▍         | 10/260 [00:24<10:04,  2.42s/it][A
+Processing questions for conversation 3:   4%|▍         | 11/260 [00:26<10:13,  2.46s/it][A
+Processing questions for conversation 3:   5%|▍         | 12/260 [00:28<09:31,  2.30s/it][A
+Processing questions for conversation 3:   5%|▌         | 13/260 [00:30<09:02,  2.20s/it][A
+Processing questions for conversation 3:   5%|▌         | 14/260 [00:32<08:49,  2.15s/it][A
+Processing questions for conversation 3:   6%|▌         | 15/260 [00:34<09:02,  2.21s/it][A
+Processing questions for conversation 3:   6%|▌         | 16/260 [00:37<08:55,  2.19s/it][A
+Processing questions for conversation 3:   7%|▋         | 17/260 [00:39<09:19,  2.30s/it][A
+Processing questions for conversation 3:   7%|▋         | 18/260 [00:42<10:28,  2.60s/it][A
+Processing questions for conversation 3:   7%|▋         | 19/260 [00:45<10:05,  2.51s/it][A
+Processing questions for conversation 3:   8%|▊         | 20/260 [00:47<09:54,  2.48s/it][A
+Processing questions for conversation 3:   8%|▊         | 21/260 [00:50<10:57,  2.75s/it][A
+Processing questions for conversation 3:   8%|▊         | 22/260 [00:53<10:03,  2.54s/it][A
+Processing questions for conversation 3:   9%|▉         | 23/260 [00:55<09:55,  2.51s/it][A
+Processing questions for conversation 3:   9%|▉         | 24/260 [00:58<09:56,  2.53s/it][A
+Processing questions for conversation 3:  10%|▉         | 25/260 [01:00<10:16,  2.62s/it][A
+Processing questions for conversation 3:  10%|█         | 26/260 [01:03<10:02,  2.57s/it][A
+Processing questions for conversation 3:  10%|█         | 27/260 [01:05<09:09,  2.36s/it][A
+Processing questions for conversation 3:  11%|█         | 28/260 [01:08<09:58,  2.58s/it][A
+Processing questions for conversation 3:  11%|█         | 29/260 [01:11<10:22,  2.69s/it][A
+Processing questions for conversation 3:  12%|█▏        | 30/260 [01:14<11:07,  2.90s/it][A
+Processing questions for conversation 3:  12%|█▏        | 31/260 [01:16<10:11,  2.67s/it][A
+Processing questions for conversation 3:  12%|█▏        | 32/260 [01:19<10:02,  2.64s/it][A
+Processing questions for conversation 3:  13%|█▎        | 33/260 [01:21<09:53,  2.61s/it][A
+Processing questions for conversation 3:  13%|█▎        | 34/260 [01:23<09:05,  2.41s/it][A
+Processing questions for conversation 3:  13%|█▎        | 35/260 [01:26<09:13,  2.46s/it][A
+Processing questions for conversation 3:  14%|█▍        | 36/260 [01:28<09:11,  2.46s/it][A
+Processing questions for conversation 3:  14%|█▍        | 37/260 [01:31<08:52,  2.39s/it][A
+Processing questions for conversation 3:  15%|█▍        | 38/260 [01:33<08:22,  2.26s/it][A
+Processing questions for conversation 3:  15%|█▌        | 39/260 [01:35<08:39,  2.35s/it][A
+Processing questions for conversation 3:  15%|█▌        | 40/260 [01:37<08:22,  2.29s/it][A
+Processing questions for conversation 3:  16%|█▌        | 41/260 [01:39<08:13,  2.25s/it][A
+Processing questions for conversation 3:  16%|█▌        | 42/260 [01:42<08:37,  2.38s/it][A
+Processing questions for conversation 3:  17%|█▋        | 43/260 [01:44<08:21,  2.31s/it][A
+Processing questions for conversation 3:  17%|█▋        | 44/260 [01:46<08:09,  2.27s/it][A
+Processing questions for conversation 3:  17%|█▋        | 45/260 [01:49<08:31,  2.38s/it][A
+Processing questions for conversation 3:  18%|█▊        | 46/260 [01:52<08:47,  2.47s/it][A
+Processing questions for conversation 3:  18%|█▊        | 47/260 [01:54<08:05,  2.28s/it][A
+Processing questions for conversation 3:  18%|█▊        | 48/260 [01:56<08:03,  2.28s/it][A
+Processing questions for conversation 3:  19%|█▉        | 49/260 [01:58<07:41,  2.19s/it][A
+Processing questions for conversation 3:  19%|█▉        | 50/260 [02:01<08:14,  2.36s/it][A
+Processing questions for conversation 3:  20%|█▉        | 51/260 [02:03<08:42,  2.50s/it][A
+Processing questions for conversation 3:  20%|██        | 52/260 [02:06<09:00,  2.60s/it][A
+Processing questions for conversation 3:  20%|██        | 53/260 [02:09<08:57,  2.59s/it][A
+Processing questions for conversation 3:  21%|██        | 54/260 [02:11<08:52,  2.59s/it][A
+Processing questions for conversation 3:  21%|██        | 55/260 [02:14<08:41,  2.55s/it][A
+Processing questions for conversation 3:  22%|██▏       | 56/260 [02:16<08:02,  2.37s/it][A
+Processing questions for conversation 3:  22%|██▏       | 57/260 [02:18<08:01,  2.37s/it][A
+Processing questions for conversation 3:  22%|██▏       | 58/260 [02:21<08:39,  2.57s/it][A
+Processing questions for conversation 3:  23%|██▎       | 59/260 [02:23<08:06,  2.42s/it][A
+Processing questions for conversation 3:  23%|██▎       | 60/260 [02:26<08:04,  2.42s/it][A
+Processing questions for conversation 3:  23%|██▎       | 61/260 [02:29<08:36,  2.60s/it][A
+Processing questions for conversation 3:  24%|██▍       | 62/260 [02:31<08:10,  2.48s/it][A
+Processing questions for conversation 3:  24%|██▍       | 63/260 [02:33<07:32,  2.30s/it][A
+Processing questions for conversation 3:  25%|██▍       | 64/260 [02:35<07:03,  2.16s/it][A
+Processing questions for conversation 3:  25%|██▌       | 65/260 [02:37<07:31,  2.31s/it][A
+Processing questions for conversation 3:  25%|██▌       | 66/260 [02:40<07:43,  2.39s/it][A
+Processing questions for conversation 3:  26%|██▌       | 67/260 [02:42<07:51,  2.44s/it][A
+Processing questions for conversation 3:  26%|██▌       | 68/260 [02:45<07:44,  2.42s/it][A
+Processing questions for conversation 3:  27%|██▋       | 69/260 [02:47<07:31,  2.36s/it][A
+Processing questions for conversation 3:  27%|██▋       | 70/260 [02:49<07:34,  2.39s/it][A
+Processing questions for conversation 3:  27%|██▋       | 71/260 [02:52<07:40,  2.44s/it][A
+Processing questions for conversation 3:  28%|██▊       | 72/260 [02:55<07:57,  2.54s/it][A
+Processing questions for conversation 3:  28%|██▊       | 73/260 [02:59<09:25,  3.02s/it][A
+Processing questions for conversation 3:  28%|██▊       | 74/260 [03:02<08:59,  2.90s/it][A
+Processing questions for conversation 3:  29%|██▉       | 75/260 [03:04<08:43,  2.83s/it][A
+Processing questions for conversation 3:  29%|██▉       | 76/260 [03:07<08:20,  2.72s/it][A
+Processing questions for conversation 3:  30%|██▉       | 77/260 [03:09<08:14,  2.70s/it][A
+Processing questions for conversation 3:  30%|███       | 78/260 [03:12<07:52,  2.60s/it][A
+Processing questions for conversation 3:  30%|███       | 79/260 [03:14<07:36,  2.52s/it][A
+Processing questions for conversation 3:  31%|███       | 80/260 [03:16<07:08,  2.38s/it][A
+Processing questions for conversation 3:  31%|███       | 81/260 [03:18<06:42,  2.25s/it][A
+Processing questions for conversation 3:  32%|███▏      | 82/260 [03:20<06:18,  2.13s/it][A
+Processing questions for conversation 3:  32%|███▏      | 83/260 [03:22<05:55,  2.01s/it][A
+Processing questions for conversation 3:  32%|███▏      | 84/260 [03:24<05:56,  2.03s/it][A
+Processing questions for conversation 3:  33%|███▎      | 85/260 [03:27<07:12,  2.47s/it][A
+Processing questions for conversation 3:  33%|███▎      | 86/260 [03:29<06:54,  2.38s/it][A
+Processing questions for conversation 3:  33%|███▎      | 87/260 [03:31<06:36,  2.29s/it][A
+Processing questions for conversation 3:  34%|███▍      | 88/260 [03:33<06:09,  2.15s/it][A
+Processing questions for conversation 3:  34%|███▍      | 89/260 [03:36<06:25,  2.25s/it][A
+Processing questions for conversation 3:  35%|███▍      | 90/260 [03:38<06:34,  2.32s/it][A
+Processing questions for conversation 3:  35%|███▌      | 91/260 [03:40<06:22,  2.26s/it][A
+Processing questions for conversation 3:  35%|███▌      | 92/260 [03:44<07:22,  2.63s/it][A
+Processing questions for conversation 3:  36%|███▌      | 93/260 [04:06<23:28,  8.43s/it][A
+Processing questions for conversation 3:  36%|███▌      | 94/260 [04:09<18:53,  6.83s/it][A
+Processing questions for conversation 3:  37%|███▋      | 95/260 [04:12<15:37,  5.68s/it][A
+Processing questions for conversation 3:  37%|███▋      | 96/260 [04:15<13:01,  4.77s/it][A
+Processing questions for conversation 3:  37%|███▋      | 97/260 [04:16<10:31,  3.87s/it][A
+Processing questions for conversation 3:  38%|███▊      | 98/260 [04:19<09:28,  3.51s/it][A
+Processing questions for conversation 3:  38%|███▊      | 99/260 [04:21<08:31,  3.18s/it][A
+Processing questions for conversation 3:  38%|███▊      | 100/260 [04:24<07:54,  2.97s/it][A
+Processing questions for conversation 3:  39%|███▉      | 101/260 [04:26<07:18,  2.75s/it][A
+Processing questions for conversation 3:  39%|███▉      | 102/260 [04:29<07:24,  2.81s/it][A
+Processing questions for conversation 3:  40%|███▉      | 103/260 [04:31<06:57,  2.66s/it][A
+Processing questions for conversation 3:  40%|████      | 104/260 [04:34<06:56,  2.67s/it][A
+Processing questions for conversation 3:  40%|████      | 105/260 [04:37<07:03,  2.73s/it][A
+Processing questions for conversation 3:  41%|████      | 106/260 [04:41<08:18,  3.23s/it][A
+Processing questions for conversation 3:  41%|████      | 107/260 [04:44<07:43,  3.03s/it][A
+Processing questions for conversation 3:  42%|████▏     | 108/260 [04:46<07:10,  2.83s/it][A
+Processing questions for conversation 3:  42%|████▏     | 109/260 [04:50<07:51,  3.12s/it][A
+Processing questions for conversation 3:  42%|████▏     | 110/260 [04:52<07:13,  2.89s/it][A
+Processing questions for conversation 3:  43%|████▎     | 111/260 [04:54<06:27,  2.60s/it][A
+Processing questions for conversation 3:  43%|████▎     | 112/260 [04:57<06:10,  2.50s/it][A
+Processing questions for conversation 3:  43%|████▎     | 113/260 [04:59<06:14,  2.55s/it][A
+Processing questions for conversation 3:  44%|████▍     | 114/260 [05:01<05:49,  2.39s/it][A
+Processing questions for conversation 3:  44%|████▍     | 115/260 [05:03<05:36,  2.32s/it][A
+Processing questions for conversation 3:  45%|████▍     | 116/260 [05:06<05:38,  2.35s/it][A
+Processing questions for conversation 3:  45%|████▌     | 117/260 [05:09<06:04,  2.55s/it][A
+Processing questions for conversation 3:  45%|████▌     | 118/260 [05:12<06:25,  2.72s/it][A
+Processing questions for conversation 3:  46%|████▌     | 119/260 [05:15<06:18,  2.69s/it][A
+Processing questions for conversation 3:  46%|████▌     | 120/260 [05:18<06:50,  2.93s/it][A
+Processing questions for conversation 3:  47%|████▋     | 121/260 [05:21<06:36,  2.85s/it][A
+Processing questions for conversation 3:  47%|████▋     | 122/260 [05:23<06:12,  2.70s/it][A
+Processing questions for conversation 3:  47%|████▋     | 123/260 [05:26<06:25,  2.82s/it][A
+Processing questions for conversation 3:  48%|████▊     | 124/260 [05:29<06:20,  2.80s/it][A
+Processing questions for conversation 3:  48%|████▊     | 125/260 [05:32<06:19,  2.81s/it][A
+Processing questions for conversation 3:  48%|████▊     | 126/260 [05:34<05:58,  2.68s/it][A
+Processing questions for conversation 3:  49%|████▉     | 127/260 [05:38<06:25,  2.90s/it][A
+Processing questions for conversation 3:  49%|████▉     | 128/260 [05:40<06:19,  2.87s/it][A
+Processing questions for conversation 3:  50%|████▉     | 129/260 [05:43<05:52,  2.69s/it][A
+Processing questions for conversation 3:  50%|█████     | 130/260 [05:45<05:31,  2.55s/it][A
+Processing questions for conversation 3:  50%|█████     | 131/260 [05:48<05:35,  2.60s/it][A
+Processing questions for conversation 3:  51%|█████     | 132/260 [05:51<05:46,  2.71s/it][A
+Processing questions for conversation 3:  51%|█████     | 133/260 [05:53<05:50,  2.76s/it][A
+Processing questions for conversation 3:  52%|█████▏    | 134/260 [05:56<05:32,  2.64s/it][A
+Processing questions for conversation 3:  52%|█████▏    | 135/260 [05:59<05:37,  2.70s/it][A
+Processing questions for conversation 3:  52%|█████▏    | 136/260 [06:01<05:32,  2.68s/it][A
+Processing questions for conversation 3:  53%|█████▎    | 137/260 [06:04<05:45,  2.81s/it][A
+Processing questions for conversation 3:  53%|█████▎    | 138/260 [06:07<05:49,  2.86s/it][A
+Processing questions for conversation 3:  53%|█████▎    | 139/260 [06:10<05:42,  2.83s/it][A
+Processing questions for conversation 3:  54%|█████▍    | 140/260 [06:25<12:39,  6.33s/it][A
+Processing questions for conversation 3:  54%|█████▍    | 141/260 [06:28<10:48,  5.45s/it][A
+Processing questions for conversation 3:  55%|█████▍    | 142/260 [06:31<09:25,  4.79s/it][A
+Processing questions for conversation 3:  55%|█████▌    | 143/260 [06:33<07:44,  3.97s/it][A
+Processing questions for conversation 3:  55%|█████▌    | 144/260 [06:37<07:23,  3.82s/it][A
+Processing questions for conversation 3:  56%|█████▌    | 145/260 [06:40<06:53,  3.60s/it][A
+Processing questions for conversation 3:  56%|█████▌    | 146/260 [06:43<06:18,  3.32s/it][A
+Processing questions for conversation 3:  57%|█████▋    | 147/260 [06:55<11:14,  5.97s/it][A
+Processing questions for conversation 3:  57%|█████▋    | 148/260 [06:58<09:51,  5.28s/it][A
+Processing questions for conversation 3:  57%|█████▋    | 149/260 [07:03<09:09,  4.95s/it][A
+Processing questions for conversation 3:  58%|█████▊    | 150/260 [07:06<08:02,  4.39s/it][A
+Processing questions for conversation 3:  58%|█████▊    | 151/260 [07:09<07:12,  3.96s/it][A
+Processing questions for conversation 3:  58%|█████▊    | 152/260 [07:11<06:25,  3.57s/it][A
+Processing questions for conversation 3:  59%|█████▉    | 153/260 [07:14<06:03,  3.40s/it][A
+Processing questions for conversation 3:  59%|█████▉    | 154/260 [07:18<06:05,  3.44s/it][A
+Processing questions for conversation 3:  60%|█████▉    | 155/260 [07:21<05:51,  3.35s/it][A
+Processing questions for conversation 3:  60%|██████    | 156/260 [07:24<05:25,  3.13s/it][A
+Processing questions for conversation 3:  60%|██████    | 157/260 [07:26<05:14,  3.05s/it][A
+Processing questions for conversation 3:  61%|██████    | 158/260 [07:30<05:28,  3.22s/it][A
+Processing questions for conversation 3:  61%|██████    | 159/260 [07:33<05:29,  3.26s/it][A
+Processing questions for conversation 3:  62%|██████▏   | 160/260 [07:37<05:37,  3.37s/it][A
+Processing questions for conversation 3:  62%|██████▏   | 161/260 [07:40<05:10,  3.14s/it][A
+Processing questions for conversation 3:  62%|██████▏   | 162/260 [07:43<05:09,  3.16s/it][A
+Processing questions for conversation 3:  63%|██████▎   | 163/260 [07:46<04:52,  3.01s/it][A
+Processing questions for conversation 3:  63%|██████▎   | 164/260 [07:49<05:04,  3.18s/it][A
+Processing questions for conversation 3:  63%|██████▎   | 165/260 [07:54<05:45,  3.64s/it][A
+Processing questions for conversation 3:  64%|██████▍   | 166/260 [07:57<05:26,  3.47s/it][A
+Processing questions for conversation 3:  64%|██████▍   | 167/260 [07:59<04:54,  3.17s/it][A
+Processing questions for conversation 3:  65%|██████▍   | 168/260 [08:02<04:45,  3.10s/it][A
+Processing questions for conversation 3:  65%|██████▌   | 169/260 [08:05<04:30,  2.97s/it][A
+Processing questions for conversation 3:  65%|██████▌   | 170/260 [08:08<04:18,  2.87s/it][A
+Processing questions for conversation 3:  66%|██████▌   | 171/260 [08:17<07:10,  4.84s/it][A
+Processing questions for conversation 3:  66%|██████▌   | 172/260 [08:20<06:25,  4.38s/it][A
+Processing questions for conversation 3:  67%|██████▋   | 173/260 [08:23<05:37,  3.88s/it][A
+Processing questions for conversation 3:  67%|██████▋   | 174/260 [08:26<05:15,  3.67s/it][A
+Processing questions for conversation 3:  67%|██████▋   | 175/260 [08:29<04:59,  3.53s/it][A
+Processing questions for conversation 3:  68%|██████▊   | 176/260 [08:33<04:51,  3.47s/it][A
+Processing questions for conversation 3:  68%|██████▊   | 177/260 [08:36<04:36,  3.33s/it][A
+Processing questions for conversation 3:  68%|██████▊   | 178/260 [08:38<04:14,  3.10s/it][A
+Processing questions for conversation 3:  69%|██████▉   | 179/260 [08:41<04:04,  3.01s/it][A
+Processing questions for conversation 3:  69%|██████▉   | 180/260 [08:44<04:08,  3.10s/it][A
+Processing questions for conversation 3:  70%|██████▉   | 181/260 [08:48<04:05,  3.11s/it][A
+Processing questions for conversation 3:  70%|███████   | 182/260 [08:51<04:08,  3.19s/it][A
+Processing questions for conversation 3:  70%|███████   | 183/260 [08:55<04:26,  3.46s/it][A
+Processing questions for conversation 3:  71%|███████   | 184/260 [08:58<04:00,  3.16s/it][A
+Processing questions for conversation 3:  71%|███████   | 185/260 [09:01<03:59,  3.19s/it][A
+Processing questions for conversation 3:  72%|███████▏  | 186/260 [09:03<03:39,  2.97s/it][A
+Processing questions for conversation 3:  72%|███████▏  | 187/260 [09:06<03:35,  2.95s/it][A
+Processing questions for conversation 3:  72%|███████▏  | 188/260 [09:09<03:22,  2.82s/it][A
+Processing questions for conversation 3:  73%|███████▎  | 189/260 [09:12<03:21,  2.84s/it][A
+Processing questions for conversation 3:  73%|███████▎  | 190/260 [09:14<03:06,  2.66s/it][A
+Processing questions for conversation 3:  73%|███████▎  | 191/260 [09:17<03:16,  2.85s/it][A
+Processing questions for conversation 3:  74%|███████▍  | 192/260 [09:21<03:27,  3.05s/it][A
+Processing questions for conversation 3:  74%|███████▍  | 193/260 [09:25<03:47,  3.40s/it][A
+Processing questions for conversation 3:  75%|███████▍  | 194/260 [09:28<03:45,  3.42s/it][A
+Processing questions for conversation 3:  75%|███████▌  | 195/260 [09:31<03:30,  3.23s/it][A
+Processing questions for conversation 3:  75%|███████▌  | 196/260 [09:34<03:18,  3.10s/it][A
+Processing questions for conversation 3:  76%|███████▌  | 197/260 [09:37<03:09,  3.00s/it][A
+Processing questions for conversation 3:  76%|███████▌  | 198/260 [09:39<02:59,  2.89s/it][A
+Processing questions for conversation 3:  77%|███████▋  | 199/260 [09:42<02:54,  2.86s/it][A
+Processing questions for conversation 3:  77%|███████▋  | 200/260 [09:45<02:46,  2.77s/it][A
+Processing questions for conversation 3:  77%|███████▋  | 201/260 [09:47<02:40,  2.72s/it][A
+Processing questions for conversation 3:  78%|███████▊  | 202/260 [09:50<02:35,  2.69s/it][A
+Processing questions for conversation 3:  78%|███████▊  | 203/260 [09:53<02:36,  2.74s/it][A
+Processing questions for conversation 3:  78%|███████▊  | 204/260 [09:55<02:26,  2.62s/it][A
+Processing questions for conversation 3:  79%|███████▉  | 205/260 [09:58<02:25,  2.64s/it][A
+Processing questions for conversation 3:  79%|███████▉  | 206/260 [10:01<02:26,  2.71s/it][A
+Processing questions for conversation 3:  80%|███████▉  | 207/260 [10:04<02:29,  2.83s/it][A
+Processing questions for conversation 3:  80%|████████  | 208/260 [10:07<02:33,  2.96s/it][A
+Processing questions for conversation 3:  80%|████████  | 209/260 [10:11<02:44,  3.23s/it][A
+Processing questions for conversation 3:  81%|████████  | 210/260 [10:14<02:37,  3.14s/it][A
+Processing questions for conversation 3:  81%|████████  | 211/260 [10:17<02:36,  3.19s/it][A
+Processing questions for conversation 3:  82%|████████▏ | 212/260 [10:19<02:18,  2.89s/it][A
+Processing questions for conversation 3:  82%|████████▏ | 213/260 [10:22<02:07,  2.72s/it][A
+Processing questions for conversation 3:  82%|████████▏ | 214/260 [10:24<01:57,  2.55s/it][A
+Processing questions for conversation 3:  83%|████████▎ | 215/260 [10:27<02:05,  2.80s/it][A
+Processing questions for conversation 3:  83%|████████▎ | 216/260 [10:31<02:11,  3.00s/it][A
+Processing questions for conversation 3:  83%|████████▎ | 217/260 [10:34<02:12,  3.08s/it][A
+Processing questions for conversation 3:  84%|████████▍ | 218/260 [10:37<02:09,  3.08s/it][A
+Processing questions for conversation 3:  84%|████████▍ | 219/260 [10:40<02:06,  3.08s/it][A
+Processing questions for conversation 3:  85%|████████▍ | 220/260 [10:42<01:55,  2.89s/it][A
+Processing questions for conversation 3:  85%|████████▌ | 221/260 [10:45<01:48,  2.78s/it][A
+Processing questions for conversation 3:  85%|████████▌ | 222/260 [10:48<01:44,  2.76s/it][A
+Processing questions for conversation 3:  86%|████████▌ | 223/260 [10:50<01:36,  2.60s/it][A
+Processing questions for conversation 3:  86%|████████▌ | 224/260 [10:59<02:38,  4.41s/it][A
+Processing questions for conversation 3:  87%|████████▋ | 225/260 [11:02<02:24,  4.12s/it][A
+Processing questions for conversation 3:  87%|████████▋ | 226/260 [11:05<02:10,  3.84s/it][A
+Processing questions for conversation 3:  87%|████████▋ | 227/260 [11:09<02:04,  3.76s/it][A
+Processing questions for conversation 3:  88%|████████▊ | 228/260 [11:13<02:04,  3.90s/it][A
+Processing questions for conversation 3:  88%|████████▊ | 229/260 [11:16<01:52,  3.62s/it][A
+Processing questions for conversation 3:  88%|████████▊ | 230/260 [11:19<01:40,  3.36s/it][A
+Processing questions for conversation 3:  89%|████████▉ | 231/260 [11:21<01:30,  3.12s/it][A
+Processing questions for conversation 3:  89%|████████▉ | 232/260 [11:24<01:27,  3.14s/it][A
+Processing questions for conversation 3:  90%|████████▉ | 233/260 [11:27<01:23,  3.11s/it][A
+Processing questions for conversation 3:  90%|█████████ | 234/260 [11:30<01:19,  3.07s/it][A
+Processing questions for conversation 3:  90%|█████████ | 235/260 [11:34<01:19,  3.19s/it][A
+Processing questions for conversation 3:  91%|█████████ | 236/260 [11:38<01:21,  3.38s/it][A
+Processing questions for conversation 3:  91%|█████████ | 237/260 [11:41<01:13,  3.19s/it][A
+Processing questions for conversation 3:  92%|█████████▏| 238/260 [11:44<01:10,  3.21s/it][A
+Processing questions for conversation 3:  92%|█████████▏| 239/260 [11:47<01:06,  3.16s/it][A
+Processing questions for conversation 3:  92%|█████████▏| 240/260 [11:50<01:01,  3.06s/it][A
+Processing questions for conversation 3:  93%|█████████▎| 241/260 [11:53<00:59,  3.14s/it][A
+Processing questions for conversation 3:  93%|█████████▎| 242/260 [11:56<00:56,  3.11s/it][A
+Processing questions for conversation 3:  93%|█████████▎| 243/260 [11:59<00:52,  3.07s/it][A
+Processing questions for conversation 3:  94%|█████████▍| 244/260 [12:01<00:45,  2.83s/it][A
+Processing questions for conversation 3:  94%|█████████▍| 245/260 [12:05<00:44,  2.99s/it][A
+Processing questions for conversation 3:  95%|█████████▍| 246/260 [12:09<00:46,  3.32s/it][A
+Processing questions for conversation 3:  95%|█████████▌| 247/260 [12:13<00:46,  3.55s/it][A
+Processing questions for conversation 3:  95%|█████████▌| 248/260 [12:15<00:39,  3.26s/it][A
+Processing questions for conversation 3:  96%|█████████▌| 249/260 [12:20<00:39,  3.63s/it][A
+Processing questions for conversation 3:  96%|█████████▌| 250/260 [12:23<00:34,  3.43s/it][A
+Processing questions for conversation 3:  97%|█████████▋| 251/260 [12:26<00:29,  3.30s/it][A
+Processing questions for conversation 3:  97%|█████████▋| 252/260 [12:29<00:26,  3.30s/it][A
+Processing questions for conversation 3:  97%|█████████▋| 253/260 [12:32<00:21,  3.08s/it][A
+Processing questions for conversation 3:  98%|█████████▊| 254/260 [12:35<00:18,  3.14s/it][A
+Processing questions for conversation 3:  98%|█████████▊| 255/260 [12:38<00:15,  3.03s/it][A
+Processing questions for conversation 3:  98%|█████████▊| 256/260 [12:40<00:11,  2.91s/it][A
+Processing questions for conversation 3:  99%|█████████▉| 257/260 [12:43<00:08,  2.89s/it][A
+Processing questions for conversation 3:  99%|█████████▉| 258/260 [12:46<00:05,  2.88s/it][A
+Processing questions for conversation 3: 100%|█████████▉| 259/260 [12:56<00:04,  4.95s/it][A
+Processing questions for conversation 3: 100%|██████████| 260/260 [13:00<00:00,  4.61s/it][A
+                                                                                          [AProcessing conversations:  40%|████      | 4/10 [35:17<58:08, 581.34s/it]
+Processing questions for conversation 4:   0%|          | 0/242 [00:00<?, ?it/s][A
+Processing questions for conversation 4:   0%|          | 1/242 [00:03<12:28,  3.11s/it][A
+Processing questions for conversation 4:   1%|          | 2/242 [00:06<13:18,  3.33s/it][A
+Processing questions for conversation 4:   1%|          | 3/242 [00:09<11:39,  2.93s/it][A
+Processing questions for conversation 4:   2%|▏         | 4/242 [00:12<12:18,  3.10s/it][A
+Processing questions for conversation 4:   2%|▏         | 5/242 [00:14<10:54,  2.76s/it][A
+Processing questions for conversation 4:   2%|▏         | 6/242 [00:16<10:02,  2.55s/it][A
+Processing questions for conversation 4:   3%|▎         | 7/242 [00:18<09:34,  2.45s/it][A
+Processing questions for conversation 4:   3%|▎         | 8/242 [00:21<09:58,  2.56s/it][A
+Processing questions for conversation 4:   4%|▎         | 9/242 [00:23<09:32,  2.46s/it][A
+Processing questions for conversation 4:   4%|▍         | 10/242 [00:26<10:07,  2.62s/it][A
+Processing questions for conversation 4:   5%|▍         | 11/242 [00:29<10:28,  2.72s/it][A
+Processing questions for conversation 4:   5%|▍         | 12/242 [00:33<11:09,  2.91s/it][A
+Processing questions for conversation 4:   5%|▌         | 13/242 [00:35<10:38,  2.79s/it][A
+Processing questions for conversation 4:   6%|▌         | 14/242 [00:38<10:33,  2.78s/it][A
+Processing questions for conversation 4:   6%|▌         | 15/242 [00:41<10:45,  2.84s/it][A
+Processing questions for conversation 4:   7%|▋         | 16/242 [00:43<10:02,  2.67s/it][A
+Processing questions for conversation 4:   7%|▋         | 17/242 [00:47<11:05,  2.96s/it][A
+Processing questions for conversation 4:   7%|▋         | 18/242 [00:50<10:39,  2.85s/it][A
+Processing questions for conversation 4:   8%|▊         | 19/242 [00:53<11:18,  3.04s/it][A
+Processing questions for conversation 4:   8%|▊         | 20/242 [00:55<10:08,  2.74s/it][A
+Processing questions for conversation 4:   9%|▊         | 21/242 [00:57<09:13,  2.50s/it][A
+Processing questions for conversation 4:   9%|▉         | 22/242 [00:59<08:45,  2.39s/it][A
+Processing questions for conversation 4:  10%|▉         | 23/242 [01:03<09:57,  2.73s/it][A
+Processing questions for conversation 4:  10%|▉         | 24/242 [01:05<09:50,  2.71s/it][A
+Processing questions for conversation 4:  10%|█         | 25/242 [01:09<10:54,  3.01s/it][A
+Processing questions for conversation 4:  11%|█         | 26/242 [01:12<10:39,  2.96s/it][A
+Processing questions for conversation 4:  11%|█         | 27/242 [01:14<09:44,  2.72s/it][A
+Processing questions for conversation 4:  12%|█▏        | 28/242 [01:16<09:19,  2.61s/it][A
+Processing questions for conversation 4:  12%|█▏        | 29/242 [01:19<09:31,  2.68s/it][A
+Processing questions for conversation 4:  12%|█▏        | 30/242 [01:22<09:55,  2.81s/it][A
+Processing questions for conversation 4:  13%|█▎        | 31/242 [01:25<09:27,  2.69s/it][A
+Processing questions for conversation 4:  13%|█▎        | 32/242 [01:27<08:52,  2.54s/it][A
+Processing questions for conversation 4:  14%|█▎        | 33/242 [01:29<08:17,  2.38s/it][A
+Processing questions for conversation 4:  14%|█▍        | 34/242 [01:32<09:05,  2.62s/it][A
+Processing questions for conversation 4:  14%|█▍        | 35/242 [01:34<08:46,  2.55s/it][A
+Processing questions for conversation 4:  15%|█▍        | 36/242 [01:37<08:58,  2.62s/it][A
+Processing questions for conversation 4:  15%|█▌        | 37/242 [01:40<09:30,  2.78s/it][A
+Processing questions for conversation 4:  16%|█▌        | 38/242 [01:44<10:04,  2.96s/it][A
+Processing questions for conversation 4:  16%|█▌        | 39/242 [01:46<08:51,  2.62s/it][A
+Processing questions for conversation 4:  17%|█▋        | 40/242 [01:48<08:57,  2.66s/it][A
+Processing questions for conversation 4:  17%|█▋        | 41/242 [01:52<09:39,  2.88s/it][A
+Processing questions for conversation 4:  17%|█▋        | 42/242 [01:54<09:16,  2.78s/it][A
+Processing questions for conversation 4:  18%|█▊        | 43/242 [01:56<08:30,  2.57s/it][A
+Processing questions for conversation 4:  18%|█▊        | 44/242 [01:59<08:32,  2.59s/it][A
+Processing questions for conversation 4:  19%|█▊        | 45/242 [02:02<09:06,  2.77s/it][A
+Processing questions for conversation 4:  19%|█▉        | 46/242 [02:04<08:28,  2.59s/it][A
+Processing questions for conversation 4:  19%|█▉        | 47/242 [02:07<08:18,  2.56s/it][A
+Processing questions for conversation 4:  20%|█▉        | 48/242 [02:10<08:28,  2.62s/it][A
+Processing questions for conversation 4:  20%|██        | 49/242 [02:13<08:39,  2.69s/it][A
+Processing questions for conversation 4:  21%|██        | 50/242 [02:15<08:36,  2.69s/it][A
+Processing questions for conversation 4:  21%|██        | 51/242 [02:18<08:56,  2.81s/it][A
+Processing questions for conversation 4:  21%|██▏       | 52/242 [02:21<08:53,  2.81s/it][A
+Processing questions for conversation 4:  22%|██▏       | 53/242 [02:24<08:41,  2.76s/it][A
+Processing questions for conversation 4:  22%|██▏       | 54/242 [02:26<08:28,  2.71s/it][A
+Processing questions for conversation 4:  23%|██▎       | 55/242 [02:29<08:52,  2.85s/it][A
+Processing questions for conversation 4:  23%|██▎       | 56/242 [02:32<08:50,  2.85s/it][A
+Processing questions for conversation 4:  24%|██▎       | 57/242 [02:35<08:25,  2.73s/it][A
+Processing questions for conversation 4:  24%|██▍       | 58/242 [02:43<13:04,  4.27s/it][A
+Processing questions for conversation 4:  24%|██▍       | 59/242 [02:47<12:57,  4.25s/it][A
+Processing questions for conversation 4:  25%|██▍       | 60/242 [02:50<11:55,  3.93s/it][A
+Processing questions for conversation 4:  25%|██▌       | 61/242 [02:53<10:38,  3.52s/it][A
+Processing questions for conversation 4:  26%|██▌       | 62/242 [02:55<09:47,  3.26s/it][A
+Processing questions for conversation 4:  26%|██▌       | 63/242 [02:58<09:05,  3.05s/it][A
+Processing questions for conversation 4:  26%|██▋       | 64/242 [03:01<09:15,  3.12s/it][A
+Processing questions for conversation 4:  27%|██▋       | 65/242 [03:04<09:04,  3.08s/it][A
+Processing questions for conversation 4:  27%|██▋       | 66/242 [03:07<08:38,  2.94s/it][A
+Processing questions for conversation 4:  28%|██▊       | 67/242 [03:09<08:20,  2.86s/it][A
+Processing questions for conversation 4:  28%|██▊       | 68/242 [03:14<09:23,  3.24s/it][A
+Processing questions for conversation 4:  29%|██▊       | 69/242 [03:16<08:55,  3.09s/it][A
+Processing questions for conversation 4:  29%|██▉       | 70/242 [03:19<08:42,  3.04s/it][A
+Processing questions for conversation 4:  29%|██▉       | 71/242 [03:22<08:28,  2.97s/it][A
+Processing questions for conversation 4:  30%|██▉       | 72/242 [03:25<08:46,  3.10s/it][A
+Processing questions for conversation 4:  30%|███       | 73/242 [03:28<08:26,  3.00s/it][A
+Processing questions for conversation 4:  31%|███       | 74/242 [03:31<08:17,  2.96s/it][A
+Processing questions for conversation 4:  31%|███       | 75/242 [03:34<08:35,  3.09s/it][A
+Processing questions for conversation 4:  31%|███▏      | 76/242 [03:37<07:50,  2.83s/it][A
+Processing questions for conversation 4:  32%|███▏      | 77/242 [03:40<07:56,  2.89s/it][A
+Processing questions for conversation 4:  32%|███▏      | 78/242 [03:42<07:29,  2.74s/it][A
+Processing questions for conversation 4:  33%|███▎      | 79/242 [03:45<07:37,  2.81s/it][A
+Processing questions for conversation 4:  33%|███▎      | 80/242 [03:48<07:40,  2.84s/it][A
+Processing questions for conversation 4:  33%|███▎      | 81/242 [03:50<07:06,  2.65s/it][A
+Processing questions for conversation 4:  34%|███▍      | 82/242 [03:53<07:14,  2.72s/it][A
+Processing questions for conversation 4:  34%|███▍      | 83/242 [03:56<07:13,  2.73s/it][A
+Processing questions for conversation 4:  35%|███▍      | 84/242 [03:58<07:03,  2.68s/it][A
+Processing questions for conversation 4:  35%|███▌      | 85/242 [04:01<07:08,  2.73s/it][A
+Processing questions for conversation 4:  36%|███▌      | 86/242 [04:04<07:08,  2.75s/it][A
+Processing questions for conversation 4:  36%|███▌      | 87/242 [04:07<07:01,  2.72s/it][A
+Processing questions for conversation 4:  36%|███▋      | 88/242 [04:10<07:05,  2.76s/it][A
+Processing questions for conversation 4:  37%|███▋      | 89/242 [04:12<06:44,  2.65s/it][A
+Processing questions for conversation 4:  37%|███▋      | 90/242 [04:14<06:27,  2.55s/it][A
+Processing questions for conversation 4:  38%|███▊      | 91/242 [04:17<06:49,  2.71s/it][A
+Processing questions for conversation 4:  38%|███▊      | 92/242 [04:20<06:53,  2.76s/it][A
+Processing questions for conversation 4:  38%|███▊      | 93/242 [04:23<07:13,  2.91s/it][A
+Processing questions for conversation 4:  39%|███▉      | 94/242 [04:26<07:13,  2.93s/it][A
+Processing questions for conversation 4:  39%|███▉      | 95/242 [04:29<06:59,  2.85s/it][A
+Processing questions for conversation 4:  40%|███▉      | 96/242 [04:32<06:56,  2.85s/it][A
+Processing questions for conversation 4:  40%|████      | 97/242 [04:35<06:47,  2.81s/it][A
+Processing questions for conversation 4:  40%|████      | 98/242 [04:38<06:55,  2.89s/it][A
+Processing questions for conversation 4:  41%|████      | 99/242 [04:40<06:38,  2.79s/it][A
+Processing questions for conversation 4:  41%|████▏     | 100/242 [04:43<06:24,  2.70s/it][A
+Processing questions for conversation 4:  42%|████▏     | 101/242 [04:46<06:24,  2.73s/it][A
+Processing questions for conversation 4:  42%|████▏     | 102/242 [04:48<06:15,  2.68s/it][A
+Processing questions for conversation 4:  43%|████▎     | 103/242 [04:52<06:54,  2.98s/it][A
+Processing questions for conversation 4:  43%|████▎     | 104/242 [04:54<06:33,  2.85s/it][A
+Processing questions for conversation 4:  43%|████▎     | 105/242 [04:57<06:35,  2.89s/it][A
+Processing questions for conversation 4:  44%|████▍     | 106/242 [05:02<07:51,  3.46s/it][A
+Processing questions for conversation 4:  44%|████▍     | 107/242 [05:06<08:05,  3.59s/it][A
+Processing questions for conversation 4:  45%|████▍     | 108/242 [05:09<07:50,  3.51s/it][A
+Processing questions for conversation 4:  45%|████▌     | 109/242 [05:12<07:09,  3.23s/it][A
+Processing questions for conversation 4:  45%|████▌     | 110/242 [05:15<07:03,  3.21s/it][A
+Processing questions for conversation 4:  46%|████▌     | 111/242 [05:19<07:10,  3.29s/it][A
+Processing questions for conversation 4:  46%|████▋     | 112/242 [05:22<07:06,  3.28s/it][A
+Processing questions for conversation 4:  47%|████▋     | 113/242 [05:25<06:47,  3.16s/it][A
+Processing questions for conversation 4:  47%|████▋     | 114/242 [05:28<06:44,  3.16s/it][A
+Processing questions for conversation 4:  48%|████▊     | 115/242 [05:30<06:06,  2.89s/it][A
+Processing questions for conversation 4:  48%|████▊     | 116/242 [05:33<06:09,  2.93s/it][A
+Processing questions for conversation 4:  48%|████▊     | 117/242 [05:42<09:33,  4.59s/it][A
+Processing questions for conversation 4:  49%|████▉     | 118/242 [05:45<08:40,  4.20s/it][A
+Processing questions for conversation 4:  49%|████▉     | 119/242 [05:48<07:54,  3.86s/it][A
+Processing questions for conversation 4:  50%|████▉     | 120/242 [05:52<07:51,  3.87s/it][A
+Processing questions for conversation 4:  50%|█████     | 121/242 [05:55<07:30,  3.72s/it][A
+Processing questions for conversation 4:  50%|█████     | 122/242 [05:58<06:44,  3.37s/it][A
+Processing questions for conversation 4:  51%|█████     | 123/242 [06:00<06:15,  3.16s/it][A
+Processing questions for conversation 4:  51%|█████     | 124/242 [06:03<05:44,  2.92s/it][A
+Processing questions for conversation 4:  52%|█████▏    | 125/242 [06:05<05:33,  2.85s/it][A
+Processing questions for conversation 4:  52%|█████▏    | 126/242 [06:08<05:23,  2.79s/it][A
+Processing questions for conversation 4:  52%|█████▏    | 127/242 [06:11<05:29,  2.87s/it][A
+Processing questions for conversation 4:  53%|█████▎    | 128/242 [06:14<05:26,  2.87s/it][A
+Processing questions for conversation 4:  53%|█████▎    | 129/242 [06:17<05:15,  2.80s/it][A
+Processing questions for conversation 4:  54%|█████▎    | 130/242 [06:20<05:27,  2.93s/it][A
+Processing questions for conversation 4:  54%|█████▍    | 131/242 [06:23<05:36,  3.03s/it][A
+Processing questions for conversation 4:  55%|█████▍    | 132/242 [06:27<05:47,  3.16s/it][A
+Processing questions for conversation 4:  55%|█████▍    | 133/242 [06:29<05:28,  3.01s/it][A
+Processing questions for conversation 4:  55%|█████▌    | 134/242 [06:32<05:17,  2.94s/it][A
+Processing questions for conversation 4:  56%|█████▌    | 135/242 [06:35<05:12,  2.92s/it][A
+Processing questions for conversation 4:  56%|█████▌    | 136/242 [06:38<05:11,  2.93s/it][A
+Processing questions for conversation 4:  57%|█████▋    | 137/242 [06:40<04:52,  2.79s/it][A
+Processing questions for conversation 4:  57%|█████▋    | 138/242 [06:43<04:52,  2.81s/it][A
+Processing questions for conversation 4:  57%|█████▋    | 139/242 [06:46<04:51,  2.83s/it][A
+Processing questions for conversation 4:  58%|█████▊    | 140/242 [06:49<04:47,  2.82s/it][A
+Processing questions for conversation 4:  58%|█████▊    | 141/242 [06:52<04:45,  2.83s/it][A
+Processing questions for conversation 4:  59%|█████▊    | 142/242 [06:55<04:44,  2.84s/it][A
+Processing questions for conversation 4:  59%|█████▉    | 143/242 [06:57<04:41,  2.84s/it][A
+Processing questions for conversation 4:  60%|█████▉    | 144/242 [07:01<04:51,  2.97s/it][A
+Processing questions for conversation 4:  60%|█████▉    | 145/242 [07:03<04:39,  2.89s/it][A
+Processing questions for conversation 4:  60%|██████    | 146/242 [07:06<04:41,  2.94s/it][A
+Processing questions for conversation 4:  61%|██████    | 147/242 [07:10<04:46,  3.01s/it][A
+Processing questions for conversation 4:  61%|██████    | 148/242 [07:12<04:24,  2.82s/it][A
+Processing questions for conversation 4:  62%|██████▏   | 149/242 [07:15<04:26,  2.86s/it][A
+Processing questions for conversation 4:  62%|██████▏   | 150/242 [07:18<04:18,  2.81s/it][A
+Processing questions for conversation 4:  62%|██████▏   | 151/242 [07:21<04:41,  3.10s/it][A
+Processing questions for conversation 4:  63%|██████▎   | 152/242 [07:23<04:02,  2.69s/it][A
+Processing questions for conversation 4:  63%|██████▎   | 153/242 [07:26<03:58,  2.68s/it][A
+Processing questions for conversation 4:  64%|██████▎   | 154/242 [07:29<03:56,  2.68s/it][A
+Processing questions for conversation 4:  64%|██████▍   | 155/242 [07:32<04:08,  2.86s/it][A
+Processing questions for conversation 4:  64%|██████▍   | 156/242 [07:34<03:58,  2.77s/it][A
+Processing questions for conversation 4:  65%|██████▍   | 157/242 [07:37<03:53,  2.75s/it][A
+Processing questions for conversation 4:  65%|██████▌   | 158/242 [07:39<03:38,  2.60s/it][A
+Processing questions for conversation 4:  66%|██████▌   | 159/242 [07:42<03:50,  2.78s/it][A
+Processing questions for conversation 4:  66%|██████▌   | 160/242 [07:44<03:23,  2.48s/it][A
+Processing questions for conversation 4:  67%|██████▋   | 161/242 [07:47<03:27,  2.57s/it][A
+Processing questions for conversation 4:  67%|██████▋   | 162/242 [07:49<03:19,  2.49s/it][A
+Processing questions for conversation 4:  67%|██████▋   | 163/242 [07:51<03:06,  2.36s/it][A
+Processing questions for conversation 4:  68%|██████▊   | 164/242 [07:54<03:04,  2.36s/it][A
+Processing questions for conversation 4:  68%|██████▊   | 165/242 [07:56<03:06,  2.43s/it][A
+Processing questions for conversation 4:  69%|██████▊   | 166/242 [07:59<03:15,  2.58s/it][A
+Processing questions for conversation 4:  69%|██████▉   | 167/242 [08:01<03:02,  2.43s/it][A
+Processing questions for conversation 4:  69%|██████▉   | 168/242 [08:05<03:21,  2.72s/it][A
+Processing questions for conversation 4:  70%|██████▉   | 169/242 [08:08<03:23,  2.79s/it][A
+Processing questions for conversation 4:  70%|███████   | 170/242 [08:10<03:18,  2.76s/it][A
+Processing questions for conversation 4:  71%|███████   | 171/242 [08:13<03:09,  2.67s/it][A
+Processing questions for conversation 4:  71%|███████   | 172/242 [08:16<03:10,  2.71s/it][A
+Processing questions for conversation 4:  71%|███████▏  | 173/242 [08:18<02:55,  2.55s/it][A
+Processing questions for conversation 4:  72%|███████▏  | 174/242 [08:21<02:57,  2.62s/it][A
+Processing questions for conversation 4:  72%|███████▏  | 175/242 [08:23<02:54,  2.61s/it][A
+Processing questions for conversation 4:  73%|███████▎  | 176/242 [08:26<02:57,  2.69s/it][A
+Processing questions for conversation 4:  73%|███████▎  | 177/242 [08:29<02:55,  2.70s/it][A
+Processing questions for conversation 4:  74%|███████▎  | 178/242 [08:32<02:55,  2.74s/it][A
+Processing questions for conversation 4:  74%|███████▍  | 179/242 [08:34<02:52,  2.73s/it][A
+Processing questions for conversation 4:  74%|███████▍  | 180/242 [08:36<02:34,  2.49s/it][A
+Processing questions for conversation 4:  75%|███████▍  | 181/242 [08:39<02:37,  2.57s/it][A
+Processing questions for conversation 4:  75%|███████▌  | 182/242 [08:41<02:30,  2.51s/it][A
+Processing questions for conversation 4:  76%|███████▌  | 183/242 [08:45<02:43,  2.78s/it][A
+Processing questions for conversation 4:  76%|███████▌  | 184/242 [08:48<02:42,  2.80s/it][A
+Processing questions for conversation 4:  76%|███████▋  | 185/242 [08:51<02:45,  2.91s/it][A
+Processing questions for conversation 4:  77%|███████▋  | 186/242 [08:54<02:54,  3.12s/it][A
+Processing questions for conversation 4:  77%|███████▋  | 187/242 [08:57<02:43,  2.97s/it][A
+Processing questions for conversation 4:  78%|███████▊  | 188/242 [09:00<02:32,  2.83s/it][A
+Processing questions for conversation 4:  78%|███████▊  | 189/242 [09:03<02:33,  2.90s/it][A
+Processing questions for conversation 4:  79%|███████▊  | 190/242 [09:05<02:20,  2.70s/it][A
+Processing questions for conversation 4:  79%|███████▉  | 191/242 [09:07<02:10,  2.55s/it][A
+Processing questions for conversation 4:  79%|███████▉  | 192/242 [09:10<02:11,  2.63s/it][A
+Processing questions for conversation 4:  80%|███████▉  | 193/242 [09:13<02:12,  2.71s/it][A
+Processing questions for conversation 4:  80%|████████  | 194/242 [09:16<02:16,  2.84s/it][A
+Processing questions for conversation 4:  81%|████████  | 195/242 [09:18<02:07,  2.70s/it][A
+Processing questions for conversation 4:  81%|████████  | 196/242 [09:23<02:27,  3.20s/it][A
+Processing questions for conversation 4:  81%|████████▏ | 197/242 [09:26<02:21,  3.14s/it][A
+Processing questions for conversation 4:  82%|████████▏ | 198/242 [09:28<02:06,  2.87s/it][A
+Processing questions for conversation 4:  82%|████████▏ | 199/242 [09:30<01:59,  2.78s/it][A
+Processing questions for conversation 4:  83%|████████▎ | 200/242 [09:33<01:54,  2.72s/it][A
+Processing questions for conversation 4:  83%|████████▎ | 201/242 [09:36<01:52,  2.73s/it][A
+Processing questions for conversation 4:  83%|████████▎ | 202/242 [09:39<01:52,  2.80s/it][A
+Processing questions for conversation 4:  84%|████████▍ | 203/242 [09:41<01:41,  2.60s/it][A
+Processing questions for conversation 4:  84%|████████▍ | 204/242 [09:44<01:41,  2.68s/it][A
+Processing questions for conversation 4:  85%|████████▍ | 205/242 [09:47<01:41,  2.73s/it][A
+Processing questions for conversation 4:  85%|████████▌ | 206/242 [09:50<01:40,  2.79s/it][A
+Processing questions for conversation 4:  86%|████████▌ | 207/242 [09:52<01:34,  2.71s/it][A
+Processing questions for conversation 4:  86%|████████▌ | 208/242 [09:55<01:38,  2.91s/it][A
+Processing questions for conversation 4:  86%|████████▋ | 209/242 [09:58<01:32,  2.80s/it][A
+Processing questions for conversation 4:  87%|████████▋ | 210/242 [10:01<01:34,  2.95s/it][A
+Processing questions for conversation 4:  87%|████████▋ | 211/242 [10:04<01:26,  2.79s/it][A
+Processing questions for conversation 4:  88%|████████▊ | 212/242 [10:06<01:20,  2.69s/it][A
+Processing questions for conversation 4:  88%|████████▊ | 213/242 [10:09<01:18,  2.71s/it][A
+Processing questions for conversation 4:  88%|████████▊ | 214/242 [10:12<01:21,  2.90s/it][A
+Processing questions for conversation 4:  89%|████████▉ | 215/242 [10:15<01:16,  2.85s/it][A
+Processing questions for conversation 4:  89%|████████▉ | 216/242 [10:18<01:14,  2.86s/it][A
+Processing questions for conversation 4:  90%|████████▉ | 217/242 [10:21<01:15,  3.02s/it][A
+Processing questions for conversation 4:  90%|█████████ | 218/242 [10:24<01:07,  2.81s/it][A
+Processing questions for conversation 4:  90%|█████████ | 219/242 [10:26<01:03,  2.74s/it][A
+Processing questions for conversation 4:  91%|█████████ | 220/242 [10:29<01:02,  2.83s/it][A
+Processing questions for conversation 4:  91%|█████████▏| 221/242 [10:32<01:01,  2.92s/it][A
+Processing questions for conversation 4:  92%|█████████▏| 222/242 [10:36<01:03,  3.19s/it][A
+Processing questions for conversation 4:  92%|█████████▏| 223/242 [10:39<00:56,  2.98s/it][A
+Processing questions for conversation 4:  93%|█████████▎| 224/242 [10:42<00:55,  3.06s/it][A
+Processing questions for conversation 4:  93%|█████████▎| 225/242 [10:45<00:49,  2.92s/it][A
+Processing questions for conversation 4:  93%|█████████▎| 226/242 [10:48<00:49,  3.08s/it][A
+Processing questions for conversation 4:  94%|█████████▍| 227/242 [10:51<00:45,  3.04s/it][A
+Processing questions for conversation 4:  94%|█████████▍| 228/242 [10:55<00:45,  3.22s/it][A
+Processing questions for conversation 4:  95%|█████████▍| 229/242 [10:58<00:42,  3.30s/it][A
+Processing questions for conversation 4:  95%|█████████▌| 230/242 [11:01<00:38,  3.20s/it][A
+Processing questions for conversation 4:  95%|█████████▌| 231/242 [11:05<00:36,  3.32s/it][A
+Processing questions for conversation 4:  96%|█████████▌| 232/242 [11:07<00:30,  3.00s/it][A
+Processing questions for conversation 4:  96%|█████████▋| 233/242 [11:10<00:26,  2.94s/it][A
+Processing questions for conversation 4:  97%|█████████▋| 234/242 [11:12<00:22,  2.76s/it][A
+Processing questions for conversation 4:  97%|█████████▋| 235/242 [11:14<00:18,  2.64s/it][A
+Processing questions for conversation 4:  98%|█████████▊| 236/242 [11:17<00:15,  2.60s/it][A
+Processing questions for conversation 4:  98%|█████████▊| 237/242 [11:20<00:13,  2.72s/it][A
+Processing questions for conversation 4:  98%|█████████▊| 238/242 [11:23<00:10,  2.73s/it][A
+Processing questions for conversation 4:  99%|█████████▉| 239/242 [11:25<00:07,  2.64s/it][A
+Processing questions for conversation 4:  99%|█████████▉| 240/242 [11:28<00:05,  2.59s/it][A
+Processing questions for conversation 4: 100%|█████████▉| 241/242 [11:30<00:02,  2.59s/it][A
+Processing questions for conversation 4: 100%|██████████| 242/242 [11:32<00:00,  2.47s/it][A
+                                                                                          [AProcessing conversations:  50%|█████     | 5/10 [46:50<51:47, 621.53s/it]
+Processing questions for conversation 5:   0%|          | 0/158 [00:00<?, ?it/s][A
+Processing questions for conversation 5:   1%|          | 1/158 [00:02<05:56,  2.27s/it][A
+Processing questions for conversation 5:   1%|▏         | 2/158 [00:04<06:30,  2.50s/it][A
+Processing questions for conversation 5:   2%|▏         | 3/158 [00:07<06:32,  2.53s/it][A
+Processing questions for conversation 5:   3%|▎         | 4/158 [00:10<06:41,  2.61s/it][A
+Processing questions for conversation 5:   3%|▎         | 5/158 [00:13<07:08,  2.80s/it][A
+Processing questions for conversation 5:   4%|▍         | 6/158 [00:16<07:01,  2.77s/it][A
+Processing questions for conversation 5:   4%|▍         | 7/158 [00:18<06:53,  2.74s/it][A
+Processing questions for conversation 5:   5%|▌         | 8/158 [00:21<06:43,  2.69s/it][A
+Processing questions for conversation 5:   6%|▌         | 9/158 [00:24<06:39,  2.68s/it][A
+Processing questions for conversation 5:   6%|▋         | 10/158 [00:26<06:25,  2.61s/it][A
+Processing questions for conversation 5:   7%|▋         | 11/158 [00:29<06:21,  2.60s/it][A
+Processing questions for conversation 5:   8%|▊         | 12/158 [00:31<06:04,  2.50s/it][A
+Processing questions for conversation 5:   8%|▊         | 13/158 [00:33<05:55,  2.45s/it][A
+Processing questions for conversation 5:   9%|▉         | 14/158 [00:36<05:51,  2.44s/it][A
+Processing questions for conversation 5:   9%|▉         | 15/158 [00:38<05:59,  2.51s/it][A
+Processing questions for conversation 5:  10%|█         | 16/158 [00:41<05:59,  2.53s/it][A
+Processing questions for conversation 5:  11%|█         | 17/158 [00:43<06:03,  2.58s/it][A
+Processing questions for conversation 5:  11%|█▏        | 18/158 [00:46<06:07,  2.63s/it][A
+Processing questions for conversation 5:  12%|█▏        | 19/158 [00:49<06:18,  2.72s/it][A
+Processing questions for conversation 5:  13%|█▎        | 20/158 [00:54<07:47,  3.39s/it][A
+Processing questions for conversation 5:  13%|█▎        | 21/158 [00:57<07:19,  3.21s/it][A
+Processing questions for conversation 5:  14%|█▍        | 22/158 [00:59<06:48,  3.01s/it][A
+Processing questions for conversation 5:  15%|█▍        | 23/158 [01:02<06:40,  2.97s/it][A
+Processing questions for conversation 5:  15%|█▌        | 24/158 [01:05<06:17,  2.81s/it][A
+Processing questions for conversation 5:  16%|█▌        | 25/158 [01:08<06:29,  2.93s/it][A
+Processing questions for conversation 5:  16%|█▋        | 26/158 [01:11<06:31,  2.96s/it][A
+Processing questions for conversation 5:  17%|█▋        | 27/158 [01:14<06:19,  2.90s/it][A
+Processing questions for conversation 5:  18%|█▊        | 28/158 [01:16<06:03,  2.80s/it][A
+Processing questions for conversation 5:  18%|█▊        | 29/158 [01:19<05:55,  2.76s/it][A
+Processing questions for conversation 5:  19%|█▉        | 30/158 [01:21<05:29,  2.57s/it][A
+Processing questions for conversation 5:  20%|█▉        | 31/158 [01:25<06:17,  2.97s/it][A
+Processing questions for conversation 5:  20%|██        | 32/158 [01:28<06:03,  2.88s/it][A
+Processing questions for conversation 5:  21%|██        | 33/158 [01:30<05:52,  2.82s/it][A
+Processing questions for conversation 5:  22%|██▏       | 34/158 [01:41<10:49,  5.24s/it][A
+Processing questions for conversation 5:  22%|██▏       | 35/158 [01:46<10:23,  5.07s/it][A
+Processing questions for conversation 5:  23%|██▎       | 36/158 [01:48<08:24,  4.14s/it][A
+Processing questions for conversation 5:  23%|██▎       | 37/158 [01:50<07:19,  3.63s/it][A
+Processing questions for conversation 5:  24%|██▍       | 38/158 [01:53<06:29,  3.24s/it][A
+Processing questions for conversation 5:  25%|██▍       | 39/158 [01:56<06:12,  3.13s/it][A
+Processing questions for conversation 5:  25%|██▌       | 40/158 [01:58<05:45,  2.93s/it][A
+Processing questions for conversation 5:  26%|██▌       | 41/158 [02:00<05:15,  2.70s/it][A
+Processing questions for conversation 5:  27%|██▋       | 42/158 [02:03<05:15,  2.72s/it][A
+Processing questions for conversation 5:  27%|██▋       | 43/158 [02:06<05:14,  2.74s/it][A
+Processing questions for conversation 5:  28%|██▊       | 44/158 [02:09<05:33,  2.93s/it][A
+Processing questions for conversation 5:  28%|██▊       | 45/158 [02:12<05:18,  2.82s/it][A
+Processing questions for conversation 5:  29%|██▉       | 46/158 [02:14<04:45,  2.55s/it][A
+Processing questions for conversation 5:  30%|██▉       | 47/158 [02:16<04:28,  2.42s/it][A
+Processing questions for conversation 5:  30%|███       | 48/158 [02:20<05:19,  2.91s/it][A
+Processing questions for conversation 5:  31%|███       | 49/158 [02:23<05:31,  3.04s/it][A
+Processing questions for conversation 5:  32%|███▏      | 50/158 [02:27<06:09,  3.42s/it][A
+Processing questions for conversation 5:  32%|███▏      | 51/158 [02:30<05:52,  3.29s/it][A
+Processing questions for conversation 5:  33%|███▎      | 52/158 [02:33<05:32,  3.13s/it][A
+Processing questions for conversation 5:  34%|███▎      | 53/158 [02:36<05:17,  3.02s/it][A
+Processing questions for conversation 5:  34%|███▍      | 54/158 [02:39<05:28,  3.16s/it][A
+Processing questions for conversation 5:  35%|███▍      | 55/158 [02:42<05:09,  3.01s/it][A
+Processing questions for conversation 5:  35%|███▌      | 56/158 [02:45<04:59,  2.94s/it][A
+Processing questions for conversation 5:  36%|███▌      | 57/158 [02:48<04:52,  2.89s/it][A
+Processing questions for conversation 5:  37%|███▋      | 58/158 [02:51<04:51,  2.91s/it][A
+Processing questions for conversation 5:  37%|███▋      | 59/158 [02:53<04:43,  2.87s/it][A
+Processing questions for conversation 5:  38%|███▊      | 60/158 [02:57<05:15,  3.22s/it][A
+Processing questions for conversation 5:  39%|███▊      | 61/158 [03:00<04:43,  2.92s/it][A
+Processing questions for conversation 5:  39%|███▉      | 62/158 [03:02<04:26,  2.78s/it][A
+Processing questions for conversation 5:  40%|███▉      | 63/158 [03:05<04:29,  2.84s/it][A
+Processing questions for conversation 5:  41%|████      | 64/158 [03:08<04:21,  2.78s/it][A
+Processing questions for conversation 5:  41%|████      | 65/158 [03:10<04:17,  2.77s/it][A
+Processing questions for conversation 5:  42%|████▏     | 66/158 [03:13<04:11,  2.74s/it][A
+Processing questions for conversation 5:  42%|████▏     | 67/158 [03:15<03:50,  2.53s/it][A
+Processing questions for conversation 5:  43%|████▎     | 68/158 [03:18<03:48,  2.54s/it][A
+Processing questions for conversation 5:  44%|████▎     | 69/158 [03:21<03:57,  2.67s/it][A
+Processing questions for conversation 5:  44%|████▍     | 70/158 [03:23<03:49,  2.61s/it][A
+Processing questions for conversation 5:  45%|████▍     | 71/158 [03:26<04:01,  2.77s/it][A
+Processing questions for conversation 5:  46%|████▌     | 72/158 [03:29<03:59,  2.78s/it][A
+Processing questions for conversation 5:  46%|████▌     | 73/158 [03:32<04:05,  2.89s/it][A
+Processing questions for conversation 5:  47%|████▋     | 74/158 [03:35<04:00,  2.86s/it][A
+Processing questions for conversation 5:  47%|████▋     | 75/158 [03:37<03:47,  2.74s/it][A
+Processing questions for conversation 5:  48%|████▊     | 76/158 [03:40<03:44,  2.73s/it][A
+Processing questions for conversation 5:  49%|████▊     | 77/158 [03:43<03:45,  2.79s/it][A
+Processing questions for conversation 5:  49%|████▉     | 78/158 [03:46<03:42,  2.78s/it][A
+Processing questions for conversation 5:  50%|█████     | 79/158 [03:49<03:53,  2.96s/it][A
+Processing questions for conversation 5:  51%|█████     | 80/158 [03:53<04:10,  3.21s/it][A
+Processing questions for conversation 5:  51%|█████▏    | 81/158 [03:57<04:22,  3.41s/it][A
+Processing questions for conversation 5:  52%|█████▏    | 82/158 [04:00<04:09,  3.28s/it][A
+Processing questions for conversation 5:  53%|█████▎    | 83/158 [04:03<03:52,  3.09s/it][A
+Processing questions for conversation 5:  53%|█████▎    | 84/158 [04:05<03:41,  3.00s/it][A
+Processing questions for conversation 5:  54%|█████▍    | 85/158 [04:08<03:24,  2.80s/it][A
+Processing questions for conversation 5:  54%|█████▍    | 86/158 [04:11<03:32,  2.94s/it][A
+Processing questions for conversation 5:  55%|█████▌    | 87/158 [04:14<03:33,  3.01s/it][A
+Processing questions for conversation 5:  56%|█████▌    | 88/158 [04:17<03:32,  3.04s/it][A
+Processing questions for conversation 5:  56%|█████▋    | 89/158 [04:20<03:29,  3.04s/it][A
+Processing questions for conversation 5:  57%|█████▋    | 90/158 [04:25<04:03,  3.58s/it][A
+Processing questions for conversation 5:  58%|█████▊    | 91/158 [04:28<03:41,  3.31s/it][A
+Processing questions for conversation 5:  58%|█████▊    | 92/158 [04:31<03:33,  3.23s/it][A
+Processing questions for conversation 5:  59%|█████▉    | 93/158 [04:34<03:22,  3.12s/it][A
+Processing questions for conversation 5:  59%|█████▉    | 94/158 [04:37<03:18,  3.10s/it][A
+Processing questions for conversation 5:  60%|██████    | 95/158 [04:45<04:46,  4.55s/it][A
+Processing questions for conversation 5:  61%|██████    | 96/158 [04:47<04:08,  4.02s/it][A
+Processing questions for conversation 5:  61%|██████▏   | 97/158 [04:51<03:47,  3.73s/it][A
+Processing questions for conversation 5:  62%|██████▏   | 98/158 [04:53<03:21,  3.35s/it][A
+Processing questions for conversation 5:  63%|██████▎   | 99/158 [04:56<03:15,  3.31s/it][A
+Processing questions for conversation 5:  63%|██████▎   | 100/158 [05:00<03:12,  3.32s/it][A
+Processing questions for conversation 5:  64%|██████▍   | 101/158 [05:02<02:52,  3.03s/it][A
+Processing questions for conversation 5:  65%|██████▍   | 102/158 [05:04<02:39,  2.85s/it][A
+Processing questions for conversation 5:  65%|██████▌   | 103/158 [05:07<02:37,  2.86s/it][A
+Processing questions for conversation 5:  66%|██████▌   | 104/158 [05:10<02:31,  2.80s/it][A
+Processing questions for conversation 5:  66%|██████▋   | 105/158 [05:13<02:33,  2.89s/it][A
+Processing questions for conversation 5:  67%|██████▋   | 106/158 [05:16<02:31,  2.91s/it][A
+Processing questions for conversation 5:  68%|██████▊   | 107/158 [05:18<02:19,  2.73s/it][A
+Processing questions for conversation 5:  68%|██████▊   | 108/158 [05:21<02:12,  2.66s/it][A
+Processing questions for conversation 5:  69%|██████▉   | 109/158 [05:24<02:22,  2.91s/it][A
+Processing questions for conversation 5:  70%|██████▉   | 110/158 [05:27<02:14,  2.80s/it][A
+Processing questions for conversation 5:  70%|███████   | 111/158 [05:29<02:07,  2.72s/it][A
+Processing questions for conversation 5:  71%|███████   | 112/158 [05:32<02:06,  2.74s/it][A
+Processing questions for conversation 5:  72%|███████▏  | 113/158 [05:35<02:02,  2.72s/it][A
+Processing questions for conversation 5:  72%|███████▏  | 114/158 [05:37<01:55,  2.62s/it][A
+Processing questions for conversation 5:  73%|███████▎  | 115/158 [05:40<01:52,  2.62s/it][A
+Processing questions for conversation 5:  73%|███████▎  | 116/158 [05:43<02:00,  2.88s/it][A
+Processing questions for conversation 5:  74%|███████▍  | 117/158 [05:46<01:58,  2.88s/it][A
+Processing questions for conversation 5:  75%|███████▍  | 118/158 [05:51<02:24,  3.62s/it][A
+Processing questions for conversation 5:  75%|███████▌  | 119/158 [05:55<02:15,  3.48s/it][A
+Processing questions for conversation 5:  76%|███████▌  | 120/158 [05:57<02:04,  3.27s/it][A
+Processing questions for conversation 5:  77%|███████▋  | 121/158 [06:00<01:58,  3.21s/it][A
+Processing questions for conversation 5:  77%|███████▋  | 122/158 [06:04<02:02,  3.41s/it][A
+Processing questions for conversation 5:  78%|███████▊  | 123/158 [06:07<01:53,  3.25s/it][A
+Processing questions for conversation 5:  78%|███████▊  | 124/158 [06:10<01:46,  3.13s/it][A
+Processing questions for conversation 5:  79%|███████▉  | 125/158 [06:13<01:36,  2.93s/it][A
+Processing questions for conversation 5:  80%|███████▉  | 126/158 [06:15<01:32,  2.90s/it][A
+Processing questions for conversation 5:  80%|████████  | 127/158 [06:18<01:31,  2.96s/it][A
+Processing questions for conversation 5:  81%|████████  | 128/158 [06:21<01:28,  2.96s/it][A
+Processing questions for conversation 5:  82%|████████▏ | 129/158 [06:24<01:26,  2.97s/it][A
+Processing questions for conversation 5:  82%|████████▏ | 130/158 [06:28<01:26,  3.09s/it][A
+Processing questions for conversation 5:  83%|████████▎ | 131/158 [06:30<01:19,  2.95s/it][A
+Processing questions for conversation 5:  84%|████████▎ | 132/158 [06:34<01:17,  3.00s/it][A
+Processing questions for conversation 5:  84%|████████▍ | 133/158 [06:37<01:17,  3.09s/it][A
+Processing questions for conversation 5:  85%|████████▍ | 134/158 [06:39<01:10,  2.95s/it][A
+Processing questions for conversation 5:  85%|████████▌ | 135/158 [06:42<01:03,  2.76s/it][A
+Processing questions for conversation 5:  86%|████████▌ | 136/158 [06:45<01:01,  2.81s/it][A
+Processing questions for conversation 5:  87%|████████▋ | 137/158 [06:47<00:56,  2.67s/it][A
+Processing questions for conversation 5:  87%|████████▋ | 138/158 [06:50<00:54,  2.73s/it][A
+Processing questions for conversation 5:  88%|████████▊ | 139/158 [06:53<00:52,  2.77s/it][A
+Processing questions for conversation 5:  89%|████████▊ | 140/158 [06:55<00:49,  2.73s/it][A
+Processing questions for conversation 5:  89%|████████▉ | 141/158 [09:17<12:32, 44.26s/it][A
+Processing questions for conversation 5:  90%|████████▉ | 142/158 [09:20<08:33, 32.08s/it][A
+Processing questions for conversation 5:  91%|█████████ | 143/158 [09:24<05:52, 23.47s/it][A
+Processing questions for conversation 5:  91%|█████████ | 144/158 [09:29<04:10, 17.90s/it][A
+Processing questions for conversation 5:  92%|█████████▏| 145/158 [09:32<02:55, 13.51s/it][A
+Processing questions for conversation 5:  92%|█████████▏| 146/158 [09:35<02:04, 10.39s/it][A
+Processing questions for conversation 5:  93%|█████████▎| 147/158 [09:38<01:28,  8.07s/it][A
+Processing questions for conversation 5:  94%|█████████▎| 148/158 [09:40<01:03,  6.37s/it][A
+Processing questions for conversation 5:  94%|█████████▍| 149/158 [09:43<00:47,  5.30s/it][A
+Processing questions for conversation 5:  95%|█████████▍| 150/158 [09:46<00:36,  4.54s/it][A
+Processing questions for conversation 5:  96%|█████████▌| 151/158 [09:48<00:27,  3.99s/it][A
+Processing questions for conversation 5:  96%|█████████▌| 152/158 [09:57<00:31,  5.31s/it][A
+Processing questions for conversation 5:  97%|█████████▋| 153/158 [10:00<00:23,  4.76s/it][A
+Processing questions for conversation 5:  97%|█████████▋| 154/158 [10:03<00:16,  4.10s/it][A
+Processing questions for conversation 5:  98%|█████████▊| 155/158 [10:05<00:11,  3.67s/it][A
+Processing questions for conversation 5:  99%|█████████▊| 156/158 [10:08<00:06,  3.46s/it][A
+Processing questions for conversation 5:  99%|█████████▉| 157/158 [10:11<00:03,  3.17s/it][A
+Processing questions for conversation 5: 100%|██████████| 158/158 [10:13<00:00,  2.99s/it][A
+                                                                                          [AProcessing conversations:  60%|██████    | 6/10 [57:04<41:15, 618.92s/it]
+Processing questions for conversation 6:   0%|          | 0/190 [00:00<?, ?it/s][A
+Processing questions for conversation 6:   1%|          | 1/190 [00:02<06:18,  2.00s/it][A
+Processing questions for conversation 6:   1%|          | 2/190 [00:04<06:20,  2.02s/it][A
+Processing questions for conversation 6:   2%|▏         | 3/190 [00:06<06:42,  2.15s/it][A
+Processing questions for conversation 6:   2%|▏         | 4/190 [00:09<07:18,  2.36s/it][A
+Processing questions for conversation 6:   3%|▎         | 5/190 [00:13<09:08,  2.96s/it][A
+Processing questions for conversation 6:   3%|▎         | 6/190 [00:16<09:04,  2.96s/it][A
+Processing questions for conversation 6:   4%|▎         | 7/190 [00:18<08:39,  2.84s/it][A
+Processing questions for conversation 6:   4%|▍         | 8/190 [00:21<08:25,  2.78s/it][A
+Processing questions for conversation 6:   5%|▍         | 9/190 [00:23<08:10,  2.71s/it][A
+Processing questions for conversation 6:   5%|▌         | 10/190 [00:26<07:53,  2.63s/it][A
+Processing questions for conversation 6:   6%|▌         | 11/190 [00:28<07:47,  2.61s/it][A
+Processing questions for conversation 6:   6%|▋         | 12/190 [00:31<07:25,  2.50s/it][A
+Processing questions for conversation 6:   7%|▋         | 13/190 [00:34<07:48,  2.65s/it][A
+Processing questions for conversation 6:   7%|▋         | 14/190 [00:36<07:46,  2.65s/it][A
+Processing questions for conversation 6:   8%|▊         | 15/190 [00:39<07:50,  2.69s/it][A
+Processing questions for conversation 6:   8%|▊         | 16/190 [00:42<07:51,  2.71s/it][A
+Processing questions for conversation 6:   9%|▉         | 17/190 [00:44<07:37,  2.65s/it][A
+Processing questions for conversation 6:   9%|▉         | 18/190 [00:49<09:35,  3.35s/it][A
+Processing questions for conversation 6:  10%|█         | 19/190 [00:52<08:54,  3.12s/it][A
+Processing questions for conversation 6:  11%|█         | 20/190 [00:55<08:51,  3.12s/it][A
+Processing questions for conversation 6:  11%|█         | 21/190 [01:07<16:13,  5.76s/it][A
+Processing questions for conversation 6:  12%|█▏        | 22/190 [01:10<13:51,  4.95s/it][A
+Processing questions for conversation 6:  12%|█▏        | 23/190 [01:12<11:46,  4.23s/it][A
+Processing questions for conversation 6:  13%|█▎        | 24/190 [01:15<10:08,  3.67s/it][A
+Processing questions for conversation 6:  13%|█▎        | 25/190 [01:18<09:26,  3.43s/it][A
+Processing questions for conversation 6:  14%|█▎        | 26/190 [01:29<15:57,  5.84s/it][A
+Processing questions for conversation 6:  14%|█▍        | 27/190 [01:31<12:53,  4.74s/it][A
+Processing questions for conversation 6:  15%|█▍        | 28/190 [01:34<11:00,  4.08s/it][A
+Processing questions for conversation 6:  15%|█▌        | 29/190 [01:36<09:43,  3.63s/it][A
+Processing questions for conversation 6:  16%|█▌        | 30/190 [01:40<09:53,  3.71s/it][A
+Processing questions for conversation 6:  16%|█▋        | 31/190 [01:43<08:43,  3.29s/it][A
+Processing questions for conversation 6:  17%|█▋        | 32/190 [01:46<08:20,  3.17s/it][A
+Processing questions for conversation 6:  17%|█▋        | 33/190 [01:49<08:07,  3.11s/it][A
+Processing questions for conversation 6:  18%|█▊        | 34/190 [01:51<07:53,  3.03s/it][A
+Processing questions for conversation 6:  18%|█▊        | 35/190 [01:54<07:14,  2.80s/it][A
+Processing questions for conversation 6:  19%|█▉        | 36/190 [01:56<06:50,  2.67s/it][A
+Processing questions for conversation 6:  19%|█▉        | 37/190 [01:58<06:38,  2.61s/it][A
+Processing questions for conversation 6:  20%|██        | 38/190 [02:08<11:57,  4.72s/it][A
+Processing questions for conversation 6:  21%|██        | 39/190 [02:11<10:23,  4.13s/it][A
+Processing questions for conversation 6:  21%|██        | 40/190 [02:13<09:04,  3.63s/it][A
+Processing questions for conversation 6:  22%|██▏       | 41/190 [02:16<08:07,  3.27s/it][A
+Processing questions for conversation 6:  22%|██▏       | 42/190 [02:18<07:32,  3.06s/it][A
+Processing questions for conversation 6:  23%|██▎       | 43/190 [02:21<07:30,  3.06s/it][A
+Processing questions for conversation 6:  23%|██▎       | 44/190 [02:24<07:09,  2.94s/it][A
+Processing questions for conversation 6:  24%|██▎       | 45/190 [02:26<06:41,  2.77s/it][A
+Processing questions for conversation 6:  24%|██▍       | 46/190 [02:29<06:47,  2.83s/it][A
+Processing questions for conversation 6:  25%|██▍       | 47/190 [02:32<06:50,  2.87s/it][A
+Processing questions for conversation 6:  25%|██▌       | 48/190 [02:35<06:47,  2.87s/it][A
+Processing questions for conversation 6:  26%|██▌       | 49/190 [02:38<06:57,  2.96s/it][A
+Processing questions for conversation 6:  26%|██▋       | 50/190 [02:41<06:33,  2.81s/it][A
+Processing questions for conversation 6:  27%|██▋       | 51/190 [02:43<05:54,  2.55s/it][A
+Processing questions for conversation 6:  27%|██▋       | 52/190 [02:45<05:43,  2.49s/it][A
+Processing questions for conversation 6:  28%|██▊       | 53/190 [02:48<05:56,  2.60s/it][A
+Processing questions for conversation 6:  28%|██▊       | 54/190 [02:51<06:18,  2.78s/it][A
+Processing questions for conversation 6:  29%|██▉       | 55/190 [02:54<06:02,  2.68s/it][A
+Processing questions for conversation 6:  29%|██▉       | 56/190 [02:57<06:10,  2.77s/it][A
+Processing questions for conversation 6:  30%|███       | 57/190 [03:00<06:20,  2.86s/it][A
+Processing questions for conversation 6:  31%|███       | 58/190 [03:03<06:38,  3.02s/it][A
+Processing questions for conversation 6:  31%|███       | 59/190 [03:06<06:33,  3.00s/it][A
+Processing questions for conversation 6:  32%|███▏      | 60/190 [03:09<06:44,  3.11s/it][A
+Processing questions for conversation 6:  32%|███▏      | 61/190 [03:12<06:31,  3.04s/it][A
+Processing questions for conversation 6:  33%|███▎      | 62/190 [03:16<06:42,  3.14s/it][A
+Processing questions for conversation 6:  33%|███▎      | 63/190 [03:18<06:24,  3.03s/it][A
+Processing questions for conversation 6:  34%|███▎      | 64/190 [03:22<06:27,  3.07s/it][A
+Processing questions for conversation 6:  34%|███▍      | 65/190 [03:25<06:28,  3.10s/it][A
+Processing questions for conversation 6:  35%|███▍      | 66/190 [03:28<06:27,  3.12s/it][A
+Processing questions for conversation 6:  35%|███▌      | 67/190 [03:31<06:26,  3.14s/it][A
+Processing questions for conversation 6:  36%|███▌      | 68/190 [03:34<06:16,  3.09s/it][A
+Processing questions for conversation 6:  36%|███▋      | 69/190 [03:37<05:58,  2.96s/it][A
+Processing questions for conversation 6:  37%|███▋      | 70/190 [03:40<05:47,  2.90s/it][A
+Processing questions for conversation 6:  37%|███▋      | 71/190 [03:42<05:40,  2.86s/it][A
+Processing questions for conversation 6:  38%|███▊      | 72/190 [03:45<05:37,  2.86s/it][A
+Processing questions for conversation 6:  38%|███▊      | 73/190 [03:48<05:27,  2.80s/it][A
+Processing questions for conversation 6:  39%|███▉      | 74/190 [03:51<05:23,  2.79s/it][A
+Processing questions for conversation 6:  39%|███▉      | 75/190 [03:54<05:41,  2.97s/it][A
+Processing questions for conversation 6:  40%|████      | 76/190 [03:57<05:49,  3.06s/it][A
+Processing questions for conversation 6:  41%|████      | 77/190 [04:00<05:24,  2.88s/it][A
+Processing questions for conversation 6:  41%|████      | 78/190 [04:03<05:29,  2.94s/it][A
+Processing questions for conversation 6:  42%|████▏     | 79/190 [04:06<05:23,  2.91s/it][A
+Processing questions for conversation 6:  42%|████▏     | 80/190 [04:09<05:22,  2.93s/it][A
+Processing questions for conversation 6:  43%|████▎     | 81/190 [04:21<10:21,  5.70s/it][A
+Processing questions for conversation 6:  43%|████▎     | 82/190 [04:24<09:02,  5.03s/it][A
+Processing questions for conversation 6:  44%|████▎     | 83/190 [04:27<07:58,  4.48s/it][A
+Processing questions for conversation 6:  44%|████▍     | 84/190 [04:30<07:03,  3.99s/it][A
+Processing questions for conversation 6:  45%|████▍     | 85/190 [04:33<06:14,  3.56s/it][A
+Processing questions for conversation 6:  45%|████▌     | 86/190 [04:36<05:48,  3.35s/it][A
+Processing questions for conversation 6:  46%|████▌     | 87/190 [04:38<05:17,  3.08s/it][A
+Processing questions for conversation 6:  46%|████▋     | 88/190 [04:41<04:55,  2.90s/it][A
+Processing questions for conversation 6:  47%|████▋     | 89/190 [04:43<04:51,  2.89s/it][A
+Processing questions for conversation 6:  47%|████▋     | 90/190 [04:47<05:16,  3.17s/it][A
+Processing questions for conversation 6:  48%|████▊     | 91/190 [04:51<05:28,  3.32s/it][A
+Processing questions for conversation 6:  48%|████▊     | 92/190 [04:54<05:20,  3.27s/it][A
+Processing questions for conversation 6:  49%|████▉     | 93/190 [04:57<05:12,  3.22s/it][A
+Processing questions for conversation 6:  49%|████▉     | 94/190 [05:00<05:04,  3.17s/it][A
+Processing questions for conversation 6:  50%|█████     | 95/190 [05:03<05:00,  3.17s/it][A
+Processing questions for conversation 6:  51%|█████     | 96/190 [05:06<04:40,  2.99s/it][A
+Processing questions for conversation 6:  51%|█████     | 97/190 [05:09<04:25,  2.86s/it][A
+Processing questions for conversation 6:  52%|█████▏    | 98/190 [05:12<04:25,  2.89s/it][A
+Processing questions for conversation 6:  52%|█████▏    | 99/190 [05:15<04:25,  2.92s/it][A
+Processing questions for conversation 6:  53%|█████▎    | 100/190 [05:17<04:03,  2.71s/it][A
+Processing questions for conversation 6:  53%|█████▎    | 101/190 [05:19<03:44,  2.52s/it][A
+Processing questions for conversation 6:  54%|█████▎    | 102/190 [05:22<03:53,  2.66s/it][A
+Processing questions for conversation 6:  54%|█████▍    | 103/190 [05:24<03:39,  2.53s/it][A
+Processing questions for conversation 6:  55%|█████▍    | 104/190 [05:26<03:36,  2.51s/it][A
+Processing questions for conversation 6:  55%|█████▌    | 105/190 [05:29<03:37,  2.55s/it][A
+Processing questions for conversation 6:  56%|█████▌    | 106/190 [05:33<03:55,  2.80s/it][A
+Processing questions for conversation 6:  56%|█████▋    | 107/190 [05:35<03:51,  2.79s/it][A
+Processing questions for conversation 6:  57%|█████▋    | 108/190 [05:38<03:43,  2.72s/it][A
+Processing questions for conversation 6:  57%|█████▋    | 109/190 [05:41<03:53,  2.89s/it][A
+Processing questions for conversation 6:  58%|█████▊    | 110/190 [05:44<03:57,  2.97s/it][A
+Processing questions for conversation 6:  58%|█████▊    | 111/190 [05:47<03:52,  2.95s/it][A
+Processing questions for conversation 6:  59%|█████▉    | 112/190 [05:49<03:33,  2.73s/it][A
+Processing questions for conversation 6:  59%|█████▉    | 113/190 [05:52<03:31,  2.75s/it][A
+Processing questions for conversation 6:  60%|██████    | 114/190 [05:56<03:49,  3.03s/it][A
+Processing questions for conversation 6:  61%|██████    | 115/190 [05:59<03:39,  2.93s/it][A
+Processing questions for conversation 6:  61%|██████    | 116/190 [06:01<03:33,  2.89s/it][A
+Processing questions for conversation 6:  62%|██████▏   | 117/190 [06:04<03:22,  2.78s/it][A
+Processing questions for conversation 6:  62%|██████▏   | 118/190 [06:07<03:22,  2.81s/it][A
+Processing questions for conversation 6:  63%|██████▎   | 119/190 [06:09<03:11,  2.70s/it][A
+Processing questions for conversation 6:  63%|██████▎   | 120/190 [06:13<03:38,  3.13s/it][A
+Processing questions for conversation 6:  64%|██████▎   | 121/190 [06:17<03:38,  3.16s/it][A
+Processing questions for conversation 6:  64%|██████▍   | 122/190 [06:20<03:44,  3.30s/it][A
+Processing questions for conversation 6:  65%|██████▍   | 123/190 [06:23<03:29,  3.13s/it][A
+Processing questions for conversation 6:  65%|██████▌   | 124/190 [06:26<03:29,  3.17s/it][A
+Processing questions for conversation 6:  66%|██████▌   | 125/190 [06:29<03:12,  2.96s/it][A
+Processing questions for conversation 6:  66%|██████▋   | 126/190 [06:31<02:53,  2.72s/it][A
+Processing questions for conversation 6:  67%|██████▋   | 127/190 [06:33<02:39,  2.53s/it][A
+Processing questions for conversation 6:  67%|██████▋   | 128/190 [06:35<02:30,  2.43s/it][A
+Processing questions for conversation 6:  68%|██████▊   | 129/190 [06:37<02:21,  2.32s/it][A
+Processing questions for conversation 6:  68%|██████▊   | 130/190 [06:39<02:13,  2.23s/it][A
+Processing questions for conversation 6:  69%|██████▉   | 131/190 [06:42<02:19,  2.37s/it][A
+Processing questions for conversation 6:  69%|██████▉   | 132/190 [06:45<02:24,  2.50s/it][A
+Processing questions for conversation 6:  70%|███████   | 133/190 [06:47<02:28,  2.60s/it][A
+Processing questions for conversation 6:  71%|███████   | 134/190 [06:50<02:21,  2.53s/it][A
+Processing questions for conversation 6:  71%|███████   | 135/190 [06:53<02:24,  2.63s/it][A
+Processing questions for conversation 6:  72%|███████▏  | 136/190 [06:56<02:34,  2.86s/it][A
+Processing questions for conversation 6:  72%|███████▏  | 137/190 [06:59<02:38,  2.98s/it][A
+Processing questions for conversation 6:  73%|███████▎  | 138/190 [07:02<02:28,  2.85s/it][A
+Processing questions for conversation 6:  73%|███████▎  | 139/190 [07:04<02:16,  2.67s/it][A
+Processing questions for conversation 6:  74%|███████▎  | 140/190 [07:07<02:15,  2.70s/it][A
+Processing questions for conversation 6:  74%|███████▍  | 141/190 [07:09<02:08,  2.63s/it][A
+Processing questions for conversation 6:  75%|███████▍  | 142/190 [07:12<02:02,  2.55s/it][A
+Processing questions for conversation 6:  75%|███████▌  | 143/190 [07:15<02:05,  2.68s/it][A
+Processing questions for conversation 6:  76%|███████▌  | 144/190 [07:19<02:21,  3.07s/it][A
+Processing questions for conversation 6:  76%|███████▋  | 145/190 [07:22<02:20,  3.13s/it][A
+Processing questions for conversation 6:  77%|███████▋  | 146/190 [07:25<02:20,  3.20s/it][A
+Processing questions for conversation 6:  77%|███████▋  | 147/190 [07:28<02:16,  3.17s/it][A
+Processing questions for conversation 6:  78%|███████▊  | 148/190 [07:32<02:15,  3.23s/it][A
+Processing questions for conversation 6:  78%|███████▊  | 149/190 [07:35<02:09,  3.15s/it][A
+Processing questions for conversation 6:  79%|███████▉  | 150/190 [07:37<01:58,  2.97s/it][A
+Processing questions for conversation 6:  79%|███████▉  | 151/190 [07:40<01:53,  2.91s/it][A
+Processing questions for conversation 6:  80%|████████  | 152/190 [07:43<01:49,  2.87s/it][A
+Processing questions for conversation 6:  81%|████████  | 153/190 [07:46<01:44,  2.82s/it][A
+Processing questions for conversation 6:  81%|████████  | 154/190 [07:49<01:42,  2.85s/it][A
+Processing questions for conversation 6:  82%|████████▏ | 155/190 [07:51<01:35,  2.73s/it][A
+Processing questions for conversation 6:  82%|████████▏ | 156/190 [07:54<01:38,  2.90s/it][A
+Processing questions for conversation 6:  83%|████████▎ | 157/190 [07:57<01:37,  2.95s/it][A
+Processing questions for conversation 6:  83%|████████▎ | 158/190 [08:01<01:38,  3.08s/it][A
+Processing questions for conversation 6:  84%|████████▎ | 159/190 [08:04<01:39,  3.20s/it][A
+Processing questions for conversation 6:  84%|████████▍ | 160/190 [08:07<01:34,  3.14s/it][A
+Processing questions for conversation 6:  85%|████████▍ | 161/190 [08:10<01:28,  3.06s/it][A
+Processing questions for conversation 6:  85%|████████▌ | 162/190 [08:13<01:25,  3.05s/it][A
+Processing questions for conversation 6:  86%|████████▌ | 163/190 [08:16<01:21,  3.02s/it][A
+Processing questions for conversation 6:  86%|████████▋ | 164/190 [08:19<01:16,  2.94s/it][A
+Processing questions for conversation 6:  87%|████████▋ | 165/190 [08:22<01:15,  3.01s/it][A
+Processing questions for conversation 6:  87%|████████▋ | 166/190 [08:24<01:07,  2.79s/it][A
+Processing questions for conversation 6:  88%|████████▊ | 167/190 [08:27<01:05,  2.83s/it][A
+Processing questions for conversation 6:  88%|████████▊ | 168/190 [08:30<01:02,  2.83s/it][A
+Processing questions for conversation 6:  89%|████████▉ | 169/190 [08:34<01:05,  3.12s/it][A
+Processing questions for conversation 6:  89%|████████▉ | 170/190 [08:37<01:01,  3.07s/it][A
+Processing questions for conversation 6:  90%|█████████ | 171/190 [08:39<00:54,  2.89s/it][A
+Processing questions for conversation 6:  91%|█████████ | 172/190 [08:42<00:49,  2.75s/it][A
+Processing questions for conversation 6:  91%|█████████ | 173/190 [08:45<00:49,  2.93s/it][A
+Processing questions for conversation 6:  92%|█████████▏| 174/190 [08:48<00:45,  2.82s/it][A
+Processing questions for conversation 6:  92%|█████████▏| 175/190 [08:50<00:41,  2.74s/it][A
+Processing questions for conversation 6:  93%|█████████▎| 176/190 [08:52<00:35,  2.54s/it][A
+Processing questions for conversation 6:  93%|█████████▎| 177/190 [08:56<00:37,  2.86s/it][A
+Processing questions for conversation 6:  94%|█████████▎| 178/190 [08:59<00:34,  2.87s/it][A
+Processing questions for conversation 6:  94%|█████████▍| 179/190 [09:02<00:34,  3.13s/it][A
+Processing questions for conversation 6:  95%|█████████▍| 180/190 [09:05<00:30,  3.05s/it][A
+Processing questions for conversation 6:  95%|█████████▌| 181/190 [09:08<00:26,  2.99s/it][A
+Processing questions for conversation 6:  96%|█████████▌| 182/190 [09:12<00:27,  3.38s/it][A
+Processing questions for conversation 6:  96%|█████████▋| 183/190 [09:15<00:22,  3.20s/it][A
+Processing questions for conversation 6:  97%|█████████▋| 184/190 [09:19<00:19,  3.25s/it][A
+Processing questions for conversation 6:  97%|█████████▋| 185/190 [09:23<00:17,  3.45s/it][A
+Processing questions for conversation 6:  98%|█████████▊| 186/190 [09:26<00:13,  3.31s/it][A
+Processing questions for conversation 6:  98%|█████████▊| 187/190 [09:29<00:09,  3.29s/it][A
+Processing questions for conversation 6:  99%|█████████▉| 188/190 [09:32<00:06,  3.20s/it][A
+Processing questions for conversation 6:  99%|█████████▉| 189/190 [09:35<00:03,  3.13s/it][A
+Processing questions for conversation 6: 100%|██████████| 190/190 [09:37<00:00,  2.96s/it][A
+                                                                                          [AProcessing conversations:  70%|███████   | 7/10 [1:06:42<30:16, 605.47s/it]
+Processing questions for conversation 7:   0%|          | 0/239 [00:00<?, ?it/s][A
+Processing questions for conversation 7:   0%|          | 1/239 [00:03<14:41,  3.70s/it][A
+Processing questions for conversation 7:   1%|          | 2/239 [00:06<12:25,  3.15s/it][A
+Processing questions for conversation 7:   1%|▏         | 3/239 [00:09<11:58,  3.04s/it][A
+Processing questions for conversation 7:   2%|▏         | 4/239 [00:11<10:46,  2.75s/it][A
+Processing questions for conversation 7:   2%|▏         | 5/239 [00:14<10:43,  2.75s/it][A
+Processing questions for conversation 7:   3%|▎         | 6/239 [00:17<10:42,  2.76s/it][A
+Processing questions for conversation 7:   3%|▎         | 7/239 [00:20<10:55,  2.83s/it][A
+Processing questions for conversation 7:   3%|▎         | 8/239 [00:23<11:05,  2.88s/it][A
+Processing questions for conversation 7:   4%|▍         | 9/239 [00:26<11:16,  2.94s/it][A
+Processing questions for conversation 7:   4%|▍         | 10/239 [00:29<11:13,  2.94s/it][A
+Processing questions for conversation 7:   5%|▍         | 11/239 [00:32<11:13,  2.95s/it][A
+Processing questions for conversation 7:   5%|▌         | 12/239 [00:34<10:45,  2.84s/it][A
+Processing questions for conversation 7:   5%|▌         | 13/239 [00:38<12:14,  3.25s/it][A
+Processing questions for conversation 7:   6%|▌         | 14/239 [00:41<11:23,  3.04s/it][A
+Processing questions for conversation 7:   6%|▋         | 15/239 [00:44<11:01,  2.95s/it][A
+Processing questions for conversation 7:   7%|▋         | 16/239 [00:46<10:26,  2.81s/it][A
+Processing questions for conversation 7:   7%|▋         | 17/239 [00:48<09:46,  2.64s/it][A
+Processing questions for conversation 7:   8%|▊         | 18/239 [00:51<09:58,  2.71s/it][A
+Processing questions for conversation 7:   8%|▊         | 19/239 [00:54<10:06,  2.76s/it][A
+Processing questions for conversation 7:   8%|▊         | 20/239 [00:57<10:24,  2.85s/it][A
+Processing questions for conversation 7:   9%|▉         | 21/239 [01:00<10:23,  2.86s/it][A
+Processing questions for conversation 7:   9%|▉         | 22/239 [01:03<10:34,  2.92s/it][A
+Processing questions for conversation 7:  10%|▉         | 23/239 [01:06<10:07,  2.81s/it][A
+Processing questions for conversation 7:  10%|█         | 24/239 [01:08<09:41,  2.71s/it][A
+Processing questions for conversation 7:  10%|█         | 25/239 [01:11<09:11,  2.58s/it][A
+Processing questions for conversation 7:  11%|█         | 26/239 [01:13<09:00,  2.54s/it][A
+Processing questions for conversation 7:  11%|█▏        | 27/239 [01:16<09:44,  2.76s/it][A
+Processing questions for conversation 7:  12%|█▏        | 28/239 [01:19<09:42,  2.76s/it][A
+Processing questions for conversation 7:  12%|█▏        | 29/239 [01:22<09:44,  2.79s/it][A
+Processing questions for conversation 7:  13%|█▎        | 30/239 [01:25<10:30,  3.02s/it][A
+Processing questions for conversation 7:  13%|█▎        | 31/239 [01:28<10:19,  2.98s/it][A
+Processing questions for conversation 7:  13%|█▎        | 32/239 [01:31<10:03,  2.92s/it][A
+Processing questions for conversation 7:  14%|█▍        | 33/239 [01:34<10:24,  3.03s/it][A
+Processing questions for conversation 7:  14%|█▍        | 34/239 [01:38<10:28,  3.07s/it][A
+Processing questions for conversation 7:  15%|█▍        | 35/239 [01:40<09:30,  2.80s/it][A
+Processing questions for conversation 7:  15%|█▌        | 36/239 [01:43<09:32,  2.82s/it][A
+Processing questions for conversation 7:  15%|█▌        | 37/239 [01:45<09:13,  2.74s/it][A
+Processing questions for conversation 7:  16%|█▌        | 38/239 [01:48<09:17,  2.77s/it][A
+Processing questions for conversation 7:  16%|█▋        | 39/239 [01:51<09:14,  2.77s/it][A
+Processing questions for conversation 7:  17%|█▋        | 40/239 [01:53<09:11,  2.77s/it][A
+Processing questions for conversation 7:  17%|█▋        | 41/239 [01:56<08:56,  2.71s/it][A
+Processing questions for conversation 7:  18%|█▊        | 42/239 [01:59<08:55,  2.72s/it][A
+Processing questions for conversation 7:  18%|█▊        | 43/239 [02:02<09:08,  2.80s/it][A
+Processing questions for conversation 7:  18%|█▊        | 44/239 [02:05<09:04,  2.79s/it][A
+Processing questions for conversation 7:  19%|█▉        | 45/239 [02:08<09:19,  2.88s/it][A
+Processing questions for conversation 7:  19%|█▉        | 46/239 [02:10<08:54,  2.77s/it][A
+Processing questions for conversation 7:  20%|█▉        | 47/239 [02:13<09:10,  2.87s/it][A
+Processing questions for conversation 7:  20%|██        | 48/239 [02:16<09:21,  2.94s/it][A
+Processing questions for conversation 7:  21%|██        | 49/239 [02:19<09:12,  2.91s/it][A
+Processing questions for conversation 7:  21%|██        | 50/239 [02:22<09:14,  2.93s/it][A
+Processing questions for conversation 7:  21%|██▏       | 51/239 [02:25<08:42,  2.78s/it][A
+Processing questions for conversation 7:  22%|██▏       | 52/239 [02:28<09:26,  3.03s/it][A
+Processing questions for conversation 7:  22%|██▏       | 53/239 [02:31<09:12,  2.97s/it][A
+Processing questions for conversation 7:  23%|██▎       | 54/239 [02:34<09:00,  2.92s/it][A
+Processing questions for conversation 7:  23%|██▎       | 55/239 [02:37<09:26,  3.08s/it][A
+Processing questions for conversation 7:  23%|██▎       | 56/239 [02:41<09:37,  3.15s/it][A
+Processing questions for conversation 7:  24%|██▍       | 57/239 [02:44<09:38,  3.18s/it][A
+Processing questions for conversation 7:  24%|██▍       | 58/239 [02:47<09:23,  3.12s/it][A
+Processing questions for conversation 7:  25%|██▍       | 59/239 [02:50<09:18,  3.10s/it][A
+Processing questions for conversation 7:  25%|██▌       | 60/239 [02:53<09:35,  3.22s/it][A
+Processing questions for conversation 7:  26%|██▌       | 61/239 [02:57<09:27,  3.19s/it][A
+Processing questions for conversation 7:  26%|██▌       | 62/239 [03:00<10:04,  3.42s/it][A
+Processing questions for conversation 7:  26%|██▋       | 63/239 [03:03<09:36,  3.28s/it][A
+Processing questions for conversation 7:  27%|██▋       | 64/239 [03:07<09:44,  3.34s/it][A
+Processing questions for conversation 7:  27%|██▋       | 65/239 [03:09<09:00,  3.11s/it][A
+Processing questions for conversation 7:  28%|██▊       | 66/239 [03:12<08:18,  2.88s/it][A
+Processing questions for conversation 7:  28%|██▊       | 67/239 [03:15<08:04,  2.82s/it][A
+Processing questions for conversation 7:  28%|██▊       | 68/239 [03:18<08:20,  2.93s/it][A
+Processing questions for conversation 7:  29%|██▉       | 69/239 [03:20<08:10,  2.88s/it][A
+Processing questions for conversation 7:  29%|██▉       | 70/239 [03:24<08:35,  3.05s/it][A
+Processing questions for conversation 7:  30%|██▉       | 71/239 [03:27<08:34,  3.06s/it][A
+Processing questions for conversation 7:  30%|███       | 72/239 [03:29<08:02,  2.89s/it][A
+Processing questions for conversation 7:  31%|███       | 73/239 [03:33<08:43,  3.16s/it][A
+Processing questions for conversation 7:  31%|███       | 74/239 [03:37<08:50,  3.21s/it][A
+Processing questions for conversation 7:  31%|███▏      | 75/239 [03:39<08:30,  3.11s/it][A
+Processing questions for conversation 7:  32%|███▏      | 76/239 [03:42<07:50,  2.89s/it][A
+Processing questions for conversation 7:  32%|███▏      | 77/239 [03:45<07:47,  2.89s/it][A
+Processing questions for conversation 7:  33%|███▎      | 78/239 [03:48<07:44,  2.89s/it][A
+Processing questions for conversation 7:  33%|███▎      | 79/239 [03:51<07:58,  2.99s/it][A
+Processing questions for conversation 7:  33%|███▎      | 80/239 [03:53<07:24,  2.80s/it][A
+Processing questions for conversation 7:  34%|███▍      | 81/239 [03:56<07:16,  2.76s/it][A
+Processing questions for conversation 7:  34%|███▍      | 82/239 [03:59<07:23,  2.83s/it][A
+Processing questions for conversation 7:  35%|███▍      | 83/239 [04:03<08:05,  3.11s/it][A
+Processing questions for conversation 7:  35%|███▌      | 84/239 [04:08<09:50,  3.81s/it][A
+Processing questions for conversation 7:  36%|███▌      | 85/239 [04:11<08:43,  3.40s/it][A
+Processing questions for conversation 7:  36%|███▌      | 86/239 [04:14<08:23,  3.29s/it][A
+Processing questions for conversation 7:  36%|███▋      | 87/239 [04:16<07:48,  3.08s/it][A
+Processing questions for conversation 7:  37%|███▋      | 88/239 [04:19<07:49,  3.11s/it][A
+Processing questions for conversation 7:  37%|███▋      | 89/239 [04:23<07:49,  3.13s/it][A
+Processing questions for conversation 7:  38%|███▊      | 90/239 [04:25<07:16,  2.93s/it][A
+Processing questions for conversation 7:  38%|███▊      | 91/239 [04:28<07:11,  2.92s/it][A
+Processing questions for conversation 7:  38%|███▊      | 92/239 [04:31<07:11,  2.93s/it][A
+Processing questions for conversation 7:  39%|███▉      | 93/239 [04:34<07:27,  3.07s/it][A
+Processing questions for conversation 7:  39%|███▉      | 94/239 [04:37<07:10,  2.97s/it][A
+Processing questions for conversation 7:  40%|███▉      | 95/239 [04:40<07:03,  2.94s/it][A
+Processing questions for conversation 7:  40%|████      | 96/239 [04:43<07:05,  2.98s/it][A
+Processing questions for conversation 7:  41%|████      | 97/239 [04:46<07:11,  3.04s/it][A
+Processing questions for conversation 7:  41%|████      | 98/239 [04:49<07:23,  3.15s/it][A
+Processing questions for conversation 7:  41%|████▏     | 99/239 [04:53<07:28,  3.21s/it][A
+Processing questions for conversation 7:  42%|████▏     | 100/239 [04:56<07:10,  3.09s/it][A
+Processing questions for conversation 7:  42%|████▏     | 101/239 [04:59<07:25,  3.23s/it][A
+Processing questions for conversation 7:  43%|████▎     | 102/239 [05:02<07:08,  3.13s/it][A
+Processing questions for conversation 7:  43%|████▎     | 103/239 [05:05<06:50,  3.02s/it][A
+Processing questions for conversation 7:  44%|████▎     | 104/239 [05:08<06:35,  2.93s/it][A
+Processing questions for conversation 7:  44%|████▍     | 105/239 [05:11<06:38,  2.97s/it][A
+Processing questions for conversation 7:  44%|████▍     | 106/239 [05:13<06:27,  2.91s/it][A
+Processing questions for conversation 7:  45%|████▍     | 107/239 [05:16<06:13,  2.83s/it][A
+Processing questions for conversation 7:  45%|████▌     | 108/239 [05:19<06:21,  2.91s/it][A
+Processing questions for conversation 7:  46%|████▌     | 109/239 [05:22<06:24,  2.96s/it][A
+Processing questions for conversation 7:  46%|████▌     | 110/239 [05:30<09:16,  4.31s/it][A
+Processing questions for conversation 7:  46%|████▋     | 111/239 [05:34<09:31,  4.46s/it][A
+Processing questions for conversation 7:  47%|████▋     | 112/239 [05:39<09:34,  4.52s/it][A
+Processing questions for conversation 7:  47%|████▋     | 113/239 [05:42<08:29,  4.04s/it][A
+Processing questions for conversation 7:  48%|████▊     | 114/239 [05:44<07:19,  3.52s/it][A
+Processing questions for conversation 7:  48%|████▊     | 115/239 [05:47<06:51,  3.32s/it][A
+Processing questions for conversation 7:  49%|████▊     | 116/239 [05:50<06:38,  3.24s/it][A
+Processing questions for conversation 7:  49%|████▉     | 117/239 [05:54<06:35,  3.24s/it][A
+Processing questions for conversation 7:  49%|████▉     | 118/239 [05:56<06:15,  3.10s/it][A
+Processing questions for conversation 7:  50%|████▉     | 119/239 [05:59<05:52,  2.94s/it][A
+Processing questions for conversation 7:  50%|█████     | 120/239 [06:02<05:57,  3.01s/it][A
+Processing questions for conversation 7:  51%|█████     | 121/239 [06:05<06:01,  3.06s/it][A
+Processing questions for conversation 7:  51%|█████     | 122/239 [06:09<06:10,  3.16s/it][A
+Processing questions for conversation 7:  51%|█████▏    | 123/239 [06:11<05:56,  3.07s/it][A
+Processing questions for conversation 7:  52%|█████▏    | 124/239 [06:14<05:49,  3.04s/it][A
+Processing questions for conversation 7:  52%|█████▏    | 125/239 [06:17<05:29,  2.89s/it][A
+Processing questions for conversation 7:  53%|█████▎    | 126/239 [06:20<05:32,  2.94s/it][A
+Processing questions for conversation 7:  53%|█████▎    | 127/239 [06:23<05:44,  3.08s/it][A
+Processing questions for conversation 7:  54%|█████▎    | 128/239 [06:27<05:48,  3.14s/it][A
+Processing questions for conversation 7:  54%|█████▍    | 129/239 [06:30<05:46,  3.15s/it][A
+Processing questions for conversation 7:  54%|█████▍    | 130/239 [06:34<06:21,  3.50s/it][A
+Processing questions for conversation 7:  55%|█████▍    | 131/239 [06:39<07:03,  3.92s/it][A
+Processing questions for conversation 7:  55%|█████▌    | 132/239 [06:43<06:56,  3.90s/it][A
+Processing questions for conversation 7:  56%|█████▌    | 133/239 [06:46<06:15,  3.54s/it][A
+Processing questions for conversation 7:  56%|█████▌    | 134/239 [06:49<05:55,  3.38s/it][A
+Processing questions for conversation 7:  56%|█████▋    | 135/239 [06:52<05:38,  3.26s/it][A
+Processing questions for conversation 7:  57%|█████▋    | 136/239 [06:55<05:35,  3.26s/it][A
+Processing questions for conversation 7:  57%|█████▋    | 137/239 [06:58<05:14,  3.08s/it][A
+Processing questions for conversation 7:  58%|█████▊    | 138/239 [07:00<05:04,  3.01s/it][A
+Processing questions for conversation 7:  58%|█████▊    | 139/239 [07:03<05:02,  3.02s/it][A
+Processing questions for conversation 7:  59%|█████▊    | 140/239 [07:07<05:01,  3.04s/it][A
+Processing questions for conversation 7:  59%|█████▉    | 141/239 [07:09<04:49,  2.95s/it][A
+Processing questions for conversation 7:  59%|█████▉    | 142/239 [07:12<04:41,  2.90s/it][A
+Processing questions for conversation 7:  60%|█████▉    | 143/239 [07:15<04:50,  3.02s/it][A
+Processing questions for conversation 7:  60%|██████    | 144/239 [07:18<04:39,  2.94s/it][A
+Processing questions for conversation 7:  61%|██████    | 145/239 [07:21<04:30,  2.88s/it][A
+Processing questions for conversation 7:  61%|██████    | 146/239 [07:24<04:25,  2.86s/it][A
+Processing questions for conversation 7:  62%|██████▏   | 147/239 [07:26<04:19,  2.82s/it][A
+Processing questions for conversation 7:  62%|██████▏   | 148/239 [07:37<07:38,  5.04s/it][A
+Processing questions for conversation 7:  62%|██████▏   | 149/239 [07:39<06:27,  4.31s/it][A
+Processing questions for conversation 7:  63%|██████▎   | 150/239 [07:42<05:48,  3.92s/it][A
+Processing questions for conversation 7:  63%|██████▎   | 151/239 [07:45<05:21,  3.65s/it][A
+Processing questions for conversation 7:  64%|██████▎   | 152/239 [07:48<05:05,  3.51s/it][A
+Processing questions for conversation 7:  64%|██████▍   | 153/239 [07:52<05:04,  3.54s/it][A
+Processing questions for conversation 7:  64%|██████▍   | 154/239 [07:55<04:41,  3.31s/it][A
+Processing questions for conversation 7:  65%|██████▍   | 155/239 [07:58<04:34,  3.27s/it][A
+Processing questions for conversation 7:  65%|██████▌   | 156/239 [08:00<04:10,  3.02s/it][A
+Processing questions for conversation 7:  66%|██████▌   | 157/239 [08:03<03:50,  2.82s/it][A
+Processing questions for conversation 7:  66%|██████▌   | 158/239 [08:05<03:42,  2.75s/it][A
+Processing questions for conversation 7:  67%|██████▋   | 159/239 [08:08<03:28,  2.60s/it][A
+Processing questions for conversation 7:  67%|██████▋   | 160/239 [08:10<03:15,  2.47s/it][A
+Processing questions for conversation 7:  67%|██████▋   | 161/239 [08:12<03:14,  2.49s/it][A
+Processing questions for conversation 7:  68%|██████▊   | 162/239 [08:17<03:50,  3.00s/it][A
+Processing questions for conversation 7:  68%|██████▊   | 163/239 [08:19<03:33,  2.81s/it][A
+Processing questions for conversation 7:  69%|██████▊   | 164/239 [08:22<03:31,  2.82s/it][A
+Processing questions for conversation 7:  69%|██████▉   | 165/239 [08:24<03:16,  2.66s/it][A
+Processing questions for conversation 7:  69%|██████▉   | 166/239 [08:28<03:45,  3.09s/it][A
+Processing questions for conversation 7:  70%|██████▉   | 167/239 [08:31<03:29,  2.92s/it][A
+Processing questions for conversation 7:  70%|███████   | 168/239 [08:34<03:46,  3.20s/it][A
+Processing questions for conversation 7:  71%|███████   | 169/239 [08:40<04:31,  3.87s/it][A
+Processing questions for conversation 7:  71%|███████   | 170/239 [08:42<03:54,  3.40s/it][A
+Processing questions for conversation 7:  72%|███████▏  | 171/239 [08:46<04:05,  3.61s/it][A
+Processing questions for conversation 7:  72%|███████▏  | 172/239 [08:49<03:45,  3.37s/it][A
+Processing questions for conversation 7:  72%|███████▏  | 173/239 [08:53<03:54,  3.55s/it][A
+Processing questions for conversation 7:  73%|███████▎  | 174/239 [08:56<03:35,  3.31s/it][A
+Processing questions for conversation 7:  73%|███████▎  | 175/239 [09:00<03:39,  3.43s/it][A
+Processing questions for conversation 7:  74%|███████▎  | 176/239 [09:04<03:48,  3.62s/it][A
+Processing questions for conversation 7:  74%|███████▍  | 177/239 [09:06<03:21,  3.24s/it][A
+Processing questions for conversation 7:  74%|███████▍  | 178/239 [09:09<03:10,  3.13s/it][A
+Processing questions for conversation 7:  75%|███████▍  | 179/239 [09:11<02:54,  2.91s/it][A
+Processing questions for conversation 7:  75%|███████▌  | 180/239 [09:14<02:48,  2.85s/it][A
+Processing questions for conversation 7:  76%|███████▌  | 181/239 [09:17<02:42,  2.81s/it][A
+Processing questions for conversation 7:  76%|███████▌  | 182/239 [09:19<02:31,  2.67s/it][A
+Processing questions for conversation 7:  77%|███████▋  | 183/239 [09:22<02:32,  2.72s/it][A
+Processing questions for conversation 7:  77%|███████▋  | 184/239 [09:24<02:25,  2.64s/it][A
+Processing questions for conversation 7:  77%|███████▋  | 185/239 [09:28<02:34,  2.87s/it][A
+Processing questions for conversation 7:  78%|███████▊  | 186/239 [09:31<02:33,  2.89s/it][A
+Processing questions for conversation 7:  78%|███████▊  | 187/239 [09:34<02:40,  3.09s/it][A
+Processing questions for conversation 7:  79%|███████▊  | 188/239 [09:38<02:42,  3.19s/it][A
+Processing questions for conversation 7:  79%|███████▉  | 189/239 [09:41<02:43,  3.28s/it][A
+Processing questions for conversation 7:  79%|███████▉  | 190/239 [09:45<02:45,  3.38s/it][A
+Processing questions for conversation 7:  80%|███████▉  | 191/239 [09:47<02:31,  3.16s/it][A
+Processing questions for conversation 7:  80%|████████  | 192/239 [09:50<02:21,  3.00s/it][A
+Processing questions for conversation 7:  81%|████████  | 193/239 [09:53<02:10,  2.84s/it][A
+Processing questions for conversation 7:  81%|████████  | 194/239 [09:55<02:05,  2.79s/it][A
+Processing questions for conversation 7:  82%|████████▏ | 195/239 [09:58<01:56,  2.66s/it][A
+Processing questions for conversation 7:  82%|████████▏ | 196/239 [10:00<01:56,  2.72s/it][A
+Processing questions for conversation 7:  82%|████████▏ | 197/239 [10:03<01:49,  2.61s/it][A
+Processing questions for conversation 7:  83%|████████▎ | 198/239 [10:06<01:51,  2.72s/it][A
+Processing questions for conversation 7:  83%|████████▎ | 199/239 [10:08<01:44,  2.61s/it][A
+Processing questions for conversation 7:  84%|████████▎ | 200/239 [10:11<01:46,  2.73s/it][A
+Processing questions for conversation 7:  84%|████████▍ | 201/239 [10:15<02:02,  3.22s/it][A
+Processing questions for conversation 7:  85%|████████▍ | 202/239 [10:18<01:55,  3.12s/it][A
+Processing questions for conversation 7:  85%|████████▍ | 203/239 [10:21<01:43,  2.88s/it][A
+Processing questions for conversation 7:  85%|████████▌ | 204/239 [10:23<01:40,  2.86s/it][A
+Processing questions for conversation 7:  86%|████████▌ | 205/239 [10:27<01:40,  2.96s/it][A
+Processing questions for conversation 7:  86%|████████▌ | 206/239 [10:30<01:38,  2.97s/it][A
+Processing questions for conversation 7:  87%|████████▋ | 207/239 [10:37<02:18,  4.33s/it][A
+Processing questions for conversation 7:  87%|████████▋ | 208/239 [10:42<02:15,  4.38s/it][A
+Processing questions for conversation 7:  87%|████████▋ | 209/239 [10:44<01:56,  3.89s/it][A
+Processing questions for conversation 7:  88%|████████▊ | 210/239 [10:47<01:43,  3.56s/it][A
+Processing questions for conversation 7:  88%|████████▊ | 211/239 [10:50<01:35,  3.41s/it][A
+Processing questions for conversation 7:  89%|████████▊ | 212/239 [10:53<01:26,  3.22s/it][A
+Processing questions for conversation 7:  89%|████████▉ | 213/239 [10:57<01:26,  3.32s/it][A
+Processing questions for conversation 7:  90%|████████▉ | 214/239 [10:59<01:19,  3.18s/it][A
+Processing questions for conversation 7:  90%|████████▉ | 215/239 [11:02<01:11,  2.99s/it][A
+Processing questions for conversation 7:  90%|█████████ | 216/239 [11:05<01:09,  3.02s/it][A
+Processing questions for conversation 7:  91%|█████████ | 217/239 [11:08<01:08,  3.13s/it][A
+Processing questions for conversation 7:  91%|█████████ | 218/239 [11:11<01:01,  2.91s/it][A
+Processing questions for conversation 7:  92%|█████████▏| 219/239 [11:14<00:59,  2.98s/it][A
+Processing questions for conversation 7:  92%|█████████▏| 220/239 [11:27<01:53,  5.98s/it][A
+Processing questions for conversation 7:  92%|█████████▏| 221/239 [11:30<01:32,  5.14s/it][A
+Processing questions for conversation 7:  93%|█████████▎| 222/239 [11:33<01:16,  4.52s/it][A
+Processing questions for conversation 7:  93%|█████████▎| 223/239 [11:36<01:06,  4.15s/it][A
+Processing questions for conversation 7:  94%|█████████▎| 224/239 [11:41<01:04,  4.29s/it][A
+Processing questions for conversation 7:  94%|█████████▍| 225/239 [11:45<00:57,  4.11s/it][A
+Processing questions for conversation 7:  95%|█████████▍| 226/239 [11:49<00:52,  4.02s/it][A
+Processing questions for conversation 7:  95%|█████████▍| 227/239 [11:51<00:43,  3.61s/it][A
+Processing questions for conversation 7:  95%|█████████▌| 228/239 [11:55<00:39,  3.61s/it][A
+Processing questions for conversation 7:  96%|█████████▌| 229/239 [11:58<00:33,  3.39s/it][A
+Processing questions for conversation 7:  96%|█████████▌| 230/239 [12:01<00:29,  3.28s/it][A
+Processing questions for conversation 7:  97%|█████████▋| 231/239 [12:04<00:26,  3.31s/it][A
+Processing questions for conversation 7:  97%|█████████▋| 232/239 [12:08<00:23,  3.33s/it][A
+Processing questions for conversation 7:  97%|█████████▋| 233/239 [12:11<00:19,  3.23s/it][A
+Processing questions for conversation 7:  98%|█████████▊| 234/239 [12:14<00:16,  3.21s/it][A
+Processing questions for conversation 7:  98%|█████████▊| 235/239 [12:16<00:11,  2.92s/it][A
+Processing questions for conversation 7:  99%|█████████▊| 236/239 [12:19<00:09,  3.06s/it][A
+Processing questions for conversation 7:  99%|█████████▉| 237/239 [12:22<00:06,  3.09s/it][A
+Processing questions for conversation 7: 100%|█████████▉| 238/239 [12:25<00:03,  3.05s/it][A
+Processing questions for conversation 7: 100%|██████████| 239/239 [12:28<00:00,  2.97s/it][A
+                                                                                          [AProcessing conversations:  80%|████████  | 8/10 [1:19:10<21:42, 651.07s/it]
+Processing questions for conversation 8:   0%|          | 0/196 [00:00<?, ?it/s][A
+Processing questions for conversation 8:   1%|          | 1/196 [00:02<08:37,  2.65s/it][A
+Processing questions for conversation 8:   1%|          | 2/196 [00:05<08:02,  2.49s/it][A
+Processing questions for conversation 8:   2%|▏         | 3/196 [00:07<08:05,  2.51s/it][A
+Processing questions for conversation 8:   2%|▏         | 4/196 [00:10<08:21,  2.61s/it][A
+Processing questions for conversation 8:   3%|▎         | 5/196 [00:12<08:01,  2.52s/it][A
+Processing questions for conversation 8:   3%|▎         | 6/196 [00:15<08:01,  2.54s/it][A
+Processing questions for conversation 8:   4%|▎         | 7/196 [00:17<08:07,  2.58s/it][A
+Processing questions for conversation 8:   4%|▍         | 8/196 [00:20<08:11,  2.61s/it][A
+Processing questions for conversation 8:   5%|▍         | 9/196 [00:23<08:04,  2.59s/it][A
+Processing questions for conversation 8:   5%|▌         | 10/196 [00:26<08:35,  2.77s/it][A
+Processing questions for conversation 8:   6%|▌         | 11/196 [00:30<09:24,  3.05s/it][A
+Processing questions for conversation 8:   6%|▌         | 12/196 [00:33<09:50,  3.21s/it][A
+Processing questions for conversation 8:   7%|▋         | 13/196 [00:36<09:34,  3.14s/it][A
+Processing questions for conversation 8:   7%|▋         | 14/196 [00:39<09:22,  3.09s/it][A
+Processing questions for conversation 8:   8%|▊         | 15/196 [00:42<09:06,  3.02s/it][A
+Processing questions for conversation 8:   8%|▊         | 16/196 [00:45<09:00,  3.00s/it][A
+Processing questions for conversation 8:   9%|▊         | 17/196 [00:48<08:39,  2.90s/it][A
+Processing questions for conversation 8:   9%|▉         | 18/196 [00:51<08:41,  2.93s/it][A
+Processing questions for conversation 8:  10%|▉         | 19/196 [00:55<09:52,  3.35s/it][A
+Processing questions for conversation 8:  10%|█         | 20/196 [01:09<19:16,  6.57s/it][A
+Processing questions for conversation 8:  11%|█         | 21/196 [01:13<16:39,  5.71s/it][A
+Processing questions for conversation 8:  11%|█         | 22/196 [01:17<15:20,  5.29s/it][A
+Processing questions for conversation 8:  12%|█▏        | 23/196 [01:20<12:58,  4.50s/it][A
+Processing questions for conversation 8:  12%|█▏        | 24/196 [01:22<11:02,  3.85s/it][A
+Processing questions for conversation 8:  13%|█▎        | 25/196 [01:25<10:03,  3.53s/it][A
+Processing questions for conversation 8:  13%|█▎        | 26/196 [01:27<08:37,  3.04s/it][A
+Processing questions for conversation 8:  14%|█▍        | 27/196 [01:29<08:06,  2.88s/it][A
+Processing questions for conversation 8:  14%|█▍        | 28/196 [01:32<07:46,  2.78s/it][A
+Processing questions for conversation 8:  15%|█▍        | 29/196 [01:35<07:59,  2.87s/it][A
+Processing questions for conversation 8:  15%|█▌        | 30/196 [01:38<07:54,  2.86s/it][A
+Processing questions for conversation 8:  16%|█▌        | 31/196 [01:41<08:08,  2.96s/it][A
+Processing questions for conversation 8:  16%|█▋        | 32/196 [01:44<08:07,  2.97s/it][A
+Processing questions for conversation 8:  17%|█▋        | 33/196 [01:46<07:26,  2.74s/it][A
+Processing questions for conversation 8:  17%|█▋        | 34/196 [01:49<07:16,  2.69s/it][A
+Processing questions for conversation 8:  18%|█▊        | 35/196 [01:51<07:06,  2.65s/it][A
+Processing questions for conversation 8:  18%|█▊        | 36/196 [01:54<07:19,  2.75s/it][A
+Processing questions for conversation 8:  19%|█▉        | 37/196 [01:57<07:16,  2.74s/it][A
+Processing questions for conversation 8:  19%|█▉        | 38/196 [02:01<08:37,  3.28s/it][A
+Processing questions for conversation 8:  20%|█▉        | 39/196 [02:05<09:09,  3.50s/it][A
+Processing questions for conversation 8:  20%|██        | 40/196 [04:02<1:37:26, 37.48s/it][A
+Processing questions for conversation 8:  21%|██        | 41/196 [04:05<1:10:13, 27.19s/it][A
+Processing questions for conversation 8:  21%|██▏       | 42/196 [04:08<51:16, 19.98s/it]  [A
+Processing questions for conversation 8:  22%|██▏       | 43/196 [04:11<37:51, 14.84s/it][A
+Processing questions for conversation 8:  22%|██▏       | 44/196 [04:16<30:03, 11.87s/it][A
+Processing questions for conversation 8:  23%|██▎       | 45/196 [04:18<22:30,  8.95s/it][A
+Processing questions for conversation 8:  23%|██▎       | 46/196 [04:22<18:17,  7.31s/it][A
+Processing questions for conversation 8:  24%|██▍       | 47/196 [04:25<14:45,  5.94s/it][A
+Processing questions for conversation 8:  24%|██▍       | 48/196 [04:27<12:13,  4.96s/it][A
+Processing questions for conversation 8:  25%|██▌       | 49/196 [04:30<10:16,  4.20s/it][A
+Processing questions for conversation 8:  26%|██▌       | 50/196 [04:33<09:21,  3.85s/it][A
+Processing questions for conversation 8:  26%|██▌       | 51/196 [04:35<08:14,  3.41s/it][A
+Processing questions for conversation 8:  27%|██▋       | 52/196 [04:38<07:33,  3.15s/it][A
+Processing questions for conversation 8:  27%|██▋       | 53/196 [04:41<07:44,  3.25s/it][A
+Processing questions for conversation 8:  28%|██▊       | 54/196 [04:44<07:29,  3.17s/it][A
+Processing questions for conversation 8:  28%|██▊       | 55/196 [04:47<07:21,  3.13s/it][A
+Processing questions for conversation 8:  29%|██▊       | 56/196 [04:50<06:59,  2.99s/it][A
+Processing questions for conversation 8:  29%|██▉       | 57/196 [04:53<06:56,  2.99s/it][A
+Processing questions for conversation 8:  30%|██▉       | 58/196 [04:55<06:34,  2.86s/it][A
+Processing questions for conversation 8:  30%|███       | 59/196 [04:58<06:11,  2.71s/it][A
+Processing questions for conversation 8:  31%|███       | 60/196 [05:00<06:09,  2.72s/it][A
+Processing questions for conversation 8:  31%|███       | 61/196 [05:03<05:52,  2.61s/it][A
+Processing questions for conversation 8:  32%|███▏      | 62/196 [05:06<06:07,  2.75s/it][A
+Processing questions for conversation 8:  32%|███▏      | 63/196 [05:09<06:10,  2.79s/it][A
+Processing questions for conversation 8:  33%|███▎      | 64/196 [05:11<06:03,  2.75s/it][A
+Processing questions for conversation 8:  33%|███▎      | 65/196 [05:15<06:17,  2.88s/it][A
+Processing questions for conversation 8:  34%|███▎      | 66/196 [05:17<06:14,  2.88s/it][A
+Processing questions for conversation 8:  34%|███▍      | 67/196 [05:20<05:40,  2.64s/it][A
+Processing questions for conversation 8:  35%|███▍      | 68/196 [05:22<05:36,  2.63s/it][A
+Processing questions for conversation 8:  35%|███▌      | 69/196 [05:25<05:47,  2.73s/it][A
+Processing questions for conversation 8:  36%|███▌      | 70/196 [05:28<05:44,  2.74s/it][A
+Processing questions for conversation 8:  36%|███▌      | 71/196 [05:31<06:06,  2.93s/it][A
+Processing questions for conversation 8:  37%|███▋      | 72/196 [05:34<05:42,  2.76s/it][A
+Processing questions for conversation 8:  37%|███▋      | 73/196 [05:36<05:32,  2.70s/it][A
+Processing questions for conversation 8:  38%|███▊      | 74/196 [05:39<05:17,  2.60s/it][A
+Processing questions for conversation 8:  38%|███▊      | 75/196 [05:42<05:36,  2.78s/it][A
+Processing questions for conversation 8:  39%|███▉      | 76/196 [05:45<05:39,  2.83s/it][A
+Processing questions for conversation 8:  39%|███▉      | 77/196 [05:48<05:42,  2.88s/it][A
+Processing questions for conversation 8:  40%|███▉      | 78/196 [05:50<05:28,  2.78s/it][A
+Processing questions for conversation 8:  40%|████      | 79/196 [05:57<07:33,  3.88s/it][A
+Processing questions for conversation 8:  41%|████      | 80/196 [06:01<07:29,  3.88s/it][A
+Processing questions for conversation 8:  41%|████▏     | 81/196 [06:04<07:05,  3.70s/it][A
+Processing questions for conversation 8:  42%|████▏     | 82/196 [06:06<06:24,  3.38s/it][A
+Processing questions for conversation 8:  42%|████▏     | 83/196 [06:09<05:54,  3.14s/it][A
+Processing questions for conversation 8:  43%|████▎     | 84/196 [06:12<05:57,  3.19s/it][A
+Processing questions for conversation 8:  43%|████▎     | 85/196 [06:15<05:25,  2.93s/it][A
+Processing questions for conversation 8:  44%|████▍     | 86/196 [06:17<05:16,  2.88s/it][A
+Processing questions for conversation 8:  44%|████▍     | 87/196 [06:20<05:06,  2.81s/it][A
+Processing questions for conversation 8:  45%|████▍     | 88/196 [06:23<05:19,  2.95s/it][A
+Processing questions for conversation 8:  45%|████▌     | 89/196 [06:26<05:10,  2.90s/it][A
+Processing questions for conversation 8:  46%|████▌     | 90/196 [06:30<05:26,  3.08s/it][A
+Processing questions for conversation 8:  46%|████▋     | 91/196 [06:33<05:33,  3.18s/it][A
+Processing questions for conversation 8:  47%|████▋     | 92/196 [06:36<05:21,  3.09s/it][A
+Processing questions for conversation 8:  47%|████▋     | 93/196 [06:39<05:15,  3.06s/it][A
+Processing questions for conversation 8:  48%|████▊     | 94/196 [06:42<05:08,  3.03s/it][A
+Processing questions for conversation 8:  48%|████▊     | 95/196 [06:45<05:04,  3.02s/it][A
+Processing questions for conversation 8:  49%|████▉     | 96/196 [06:48<05:00,  3.00s/it][A
+Processing questions for conversation 8:  49%|████▉     | 97/196 [06:51<05:02,  3.05s/it][A
+Processing questions for conversation 8:  50%|█████     | 98/196 [06:54<04:53,  3.00s/it][A
+Processing questions for conversation 8:  51%|█████     | 99/196 [06:56<04:28,  2.77s/it][A
+Processing questions for conversation 8:  51%|█████     | 100/196 [06:59<04:18,  2.70s/it][A
+Processing questions for conversation 8:  52%|█████▏    | 101/196 [07:01<04:04,  2.57s/it][A
+Processing questions for conversation 8:  52%|█████▏    | 102/196 [07:04<04:27,  2.84s/it][A
+Processing questions for conversation 8:  53%|█████▎    | 103/196 [07:07<04:04,  2.63s/it][A
+Processing questions for conversation 8:  53%|█████▎    | 104/196 [07:10<04:23,  2.87s/it][A
+Processing questions for conversation 8:  54%|█████▎    | 105/196 [07:12<04:03,  2.68s/it][A
+Processing questions for conversation 8:  54%|█████▍    | 106/196 [07:15<03:55,  2.62s/it][A
+Processing questions for conversation 8:  55%|█████▍    | 107/196 [07:18<04:02,  2.73s/it][A
+Processing questions for conversation 8:  55%|█████▌    | 108/196 [07:21<04:03,  2.77s/it][A
+Processing questions for conversation 8:  56%|█████▌    | 109/196 [07:23<03:47,  2.61s/it][A
+Processing questions for conversation 8:  56%|█████▌    | 110/196 [07:25<03:41,  2.57s/it][A
+Processing questions for conversation 8:  57%|█████▋    | 111/196 [07:29<04:00,  2.83s/it][A
+Processing questions for conversation 8:  57%|█████▋    | 112/196 [07:32<04:09,  2.97s/it][A
+Processing questions for conversation 8:  58%|█████▊    | 113/196 [07:36<04:24,  3.19s/it][A
+Processing questions for conversation 8:  58%|█████▊    | 114/196 [07:39<04:16,  3.12s/it][A
+Processing questions for conversation 8:  59%|█████▊    | 115/196 [07:41<04:04,  3.01s/it][A
+Processing questions for conversation 8:  59%|█████▉    | 116/196 [07:44<03:55,  2.95s/it][A
+Processing questions for conversation 8:  60%|█████▉    | 117/196 [07:48<04:03,  3.08s/it][A
+Processing questions for conversation 8:  60%|██████    | 118/196 [07:50<03:44,  2.88s/it][A
+Processing questions for conversation 8:  61%|██████    | 119/196 [07:53<03:41,  2.87s/it][A
+Processing questions for conversation 8:  61%|██████    | 120/196 [07:56<03:34,  2.83s/it][A
+Processing questions for conversation 8:  62%|██████▏   | 121/196 [08:00<04:05,  3.28s/it][A
+Processing questions for conversation 8:  62%|██████▏   | 122/196 [08:03<03:52,  3.14s/it][A
+Processing questions for conversation 8:  63%|██████▎   | 123/196 [08:06<03:43,  3.06s/it][A
+Processing questions for conversation 8:  63%|██████▎   | 124/196 [08:09<03:36,  3.01s/it][A
+Processing questions for conversation 8:  64%|██████▍   | 125/196 [08:13<03:54,  3.30s/it][A
+Processing questions for conversation 8:  64%|██████▍   | 126/196 [08:15<03:37,  3.11s/it][A
+Processing questions for conversation 8:  65%|██████▍   | 127/196 [08:18<03:31,  3.06s/it][A
+Processing questions for conversation 8:  65%|██████▌   | 128/196 [08:20<03:10,  2.80s/it][A
+Processing questions for conversation 8:  66%|██████▌   | 129/196 [08:23<03:01,  2.71s/it][A
+Processing questions for conversation 8:  66%|██████▋   | 130/196 [08:26<03:00,  2.73s/it][A
+Processing questions for conversation 8:  67%|██████▋   | 131/196 [08:29<03:02,  2.80s/it][A
+Processing questions for conversation 8:  67%|██████▋   | 132/196 [08:31<02:58,  2.79s/it][A
+Processing questions for conversation 8:  68%|██████▊   | 133/196 [08:35<03:03,  2.91s/it][A
+Processing questions for conversation 8:  68%|██████▊   | 134/196 [08:38<03:10,  3.08s/it][A
+Processing questions for conversation 8:  69%|██████▉   | 135/196 [08:41<03:03,  3.00s/it][A
+Processing questions for conversation 8:  69%|██████▉   | 136/196 [08:43<02:53,  2.89s/it][A
+Processing questions for conversation 8:  70%|██████▉   | 137/196 [08:46<02:47,  2.85s/it][A
+Processing questions for conversation 8:  70%|███████   | 138/196 [08:49<02:44,  2.83s/it][A
+Processing questions for conversation 8:  71%|███████   | 139/196 [08:52<02:36,  2.74s/it][A
+Processing questions for conversation 8:  71%|███████▏  | 140/196 [08:55<02:47,  2.99s/it][A
+Processing questions for conversation 8:  72%|███████▏  | 141/196 [08:58<02:41,  2.93s/it][A
+Processing questions for conversation 8:  72%|███████▏  | 142/196 [09:01<02:35,  2.88s/it][A
+Processing questions for conversation 8:  73%|███████▎  | 143/196 [09:03<02:31,  2.85s/it][A
+Processing questions for conversation 8:  73%|███████▎  | 144/196 [09:06<02:24,  2.79s/it][A
+Processing questions for conversation 8:  74%|███████▍  | 145/196 [09:09<02:21,  2.78s/it][A
+Processing questions for conversation 8:  74%|███████▍  | 146/196 [09:11<02:14,  2.69s/it][A
+Processing questions for conversation 8:  75%|███████▌  | 147/196 [09:15<02:20,  2.87s/it][A
+Processing questions for conversation 8:  76%|███████▌  | 148/196 [09:17<02:11,  2.73s/it][A
+Processing questions for conversation 8:  76%|███████▌  | 149/196 [09:20<02:07,  2.72s/it][A
+Processing questions for conversation 8:  77%|███████▋  | 150/196 [09:22<02:04,  2.71s/it][A
+Processing questions for conversation 8:  77%|███████▋  | 151/196 [09:27<02:25,  3.24s/it][A
+Processing questions for conversation 8:  78%|███████▊  | 152/196 [09:29<02:12,  3.00s/it][A
+Processing questions for conversation 8:  78%|███████▊  | 153/196 [09:32<02:08,  2.99s/it][A
+Processing questions for conversation 8:  79%|███████▊  | 154/196 [09:35<02:03,  2.93s/it][A
+Processing questions for conversation 8:  79%|███████▉  | 155/196 [09:37<01:54,  2.78s/it][A
+Processing questions for conversation 8:  80%|███████▉  | 156/196 [09:41<01:57,  2.93s/it][A
+Processing questions for conversation 8:  80%|████████  | 157/196 [09:44<01:52,  2.88s/it][A
+Processing questions for conversation 8:  81%|████████  | 158/196 [09:46<01:43,  2.73s/it][A
+Processing questions for conversation 8:  81%|████████  | 159/196 [09:48<01:39,  2.68s/it][A
+Processing questions for conversation 8:  82%|████████▏ | 160/196 [09:51<01:37,  2.70s/it][A
+Processing questions for conversation 8:  82%|████████▏ | 161/196 [09:54<01:40,  2.87s/it][A
+Processing questions for conversation 8:  83%|████████▎ | 162/196 [09:57<01:35,  2.81s/it][A
+Processing questions for conversation 8:  83%|████████▎ | 163/196 [10:00<01:31,  2.77s/it][A
+Processing questions for conversation 8:  84%|████████▎ | 164/196 [10:03<01:29,  2.80s/it][A
+Processing questions for conversation 8:  84%|████████▍ | 165/196 [10:05<01:25,  2.76s/it][A
+Processing questions for conversation 8:  85%|████████▍ | 166/196 [10:08<01:21,  2.73s/it][A
+Processing questions for conversation 8:  85%|████████▌ | 167/196 [10:11<01:22,  2.84s/it][A
+Processing questions for conversation 8:  86%|████████▌ | 168/196 [10:14<01:18,  2.81s/it][A
+Processing questions for conversation 8:  86%|████████▌ | 169/196 [10:18<01:24,  3.14s/it][A
+Processing questions for conversation 8:  87%|████████▋ | 170/196 [10:21<01:18,  3.03s/it][A
+Processing questions for conversation 8:  87%|████████▋ | 171/196 [10:24<01:18,  3.13s/it][A
+Processing questions for conversation 8:  88%|████████▊ | 172/196 [10:27<01:15,  3.15s/it][A
+Processing questions for conversation 8:  88%|████████▊ | 173/196 [10:30<01:11,  3.12s/it][A
+Processing questions for conversation 8:  89%|████████▉ | 174/196 [10:33<01:08,  3.10s/it][A
+Processing questions for conversation 8:  89%|████████▉ | 175/196 [10:36<01:05,  3.13s/it][A
+Processing questions for conversation 8:  90%|████████▉ | 176/196 [10:40<01:02,  3.14s/it][A
+Processing questions for conversation 8:  90%|█████████ | 177/196 [10:42<00:56,  3.00s/it][A
+Processing questions for conversation 8:  91%|█████████ | 178/196 [10:45<00:50,  2.83s/it][A
+Processing questions for conversation 8:  91%|█████████▏| 179/196 [10:48<00:48,  2.85s/it][A
+Processing questions for conversation 8:  92%|█████████▏| 180/196 [10:51<00:46,  2.92s/it][A
+Processing questions for conversation 8:  92%|█████████▏| 181/196 [10:54<00:44,  2.99s/it][A
+Processing questions for conversation 8:  93%|█████████▎| 182/196 [10:57<00:41,  2.95s/it][A
+Processing questions for conversation 8:  93%|█████████▎| 183/196 [11:00<00:38,  2.95s/it][A
+Processing questions for conversation 8:  94%|█████████▍| 184/196 [11:03<00:35,  2.96s/it][A
+Processing questions for conversation 8:  94%|█████████▍| 185/196 [11:05<00:31,  2.91s/it][A
+Processing questions for conversation 8:  95%|█████████▍| 186/196 [11:08<00:27,  2.77s/it][A
+Processing questions for conversation 8:  95%|█████████▌| 187/196 [11:11<00:26,  2.89s/it][A
+Processing questions for conversation 8:  96%|█████████▌| 188/196 [11:13<00:22,  2.76s/it][A
+Processing questions for conversation 8:  96%|█████████▋| 189/196 [11:17<00:19,  2.85s/it][A
+Processing questions for conversation 8:  97%|█████████▋| 190/196 [11:20<00:18,  3.13s/it][A
+Processing questions for conversation 8:  97%|█████████▋| 191/196 [11:23<00:15,  3.10s/it][A
+Processing questions for conversation 8:  98%|█████████▊| 192/196 [11:26<00:12,  3.04s/it][A
+Processing questions for conversation 8:  98%|█████████▊| 193/196 [11:29<00:08,  2.91s/it][A
+Processing questions for conversation 8:  99%|█████████▉| 194/196 [11:31<00:05,  2.83s/it][A
+Processing questions for conversation 8:  99%|█████████▉| 195/196 [11:35<00:03,  3.04s/it][A
+Processing questions for conversation 8: 100%|██████████| 196/196 [11:38<00:00,  2.92s/it][A
+                                                                                          [AProcessing conversations:  90%|█████████ | 9/10 [1:30:49<11:05, 665.79s/it]
+Processing questions for conversation 9:   0%|          | 0/204 [00:00<?, ?it/s][A
+Processing questions for conversation 9:   0%|          | 1/204 [00:02<08:36,  2.54s/it][A
+Processing questions for conversation 9:   1%|          | 2/204 [00:05<08:35,  2.55s/it][A
+Processing questions for conversation 9:   1%|▏         | 3/204 [00:07<08:55,  2.67s/it][A
+Processing questions for conversation 9:   2%|▏         | 4/204 [00:10<08:26,  2.53s/it][A
+Processing questions for conversation 9:   2%|▏         | 5/204 [00:12<08:40,  2.62s/it][A
+Processing questions for conversation 9:   3%|▎         | 6/204 [00:15<08:35,  2.60s/it][A
+Processing questions for conversation 9:   3%|▎         | 7/204 [00:18<08:40,  2.64s/it][A
+Processing questions for conversation 9:   4%|▍         | 8/204 [00:21<08:52,  2.72s/it][A
+Processing questions for conversation 9:   4%|▍         | 9/204 [00:23<08:40,  2.67s/it][A
+Processing questions for conversation 9:   5%|▍         | 10/204 [00:27<09:27,  2.92s/it][A
+Processing questions for conversation 9:   5%|▌         | 11/204 [00:30<09:26,  2.94s/it][A
+Processing questions for conversation 9:   6%|▌         | 12/204 [00:32<08:50,  2.76s/it][A
+Processing questions for conversation 9:   6%|▋         | 13/204 [00:35<08:40,  2.73s/it][A
+Processing questions for conversation 9:   7%|▋         | 14/204 [00:38<08:58,  2.83s/it][A
+Processing questions for conversation 9:   7%|▋         | 15/204 [00:41<09:33,  3.03s/it][A
+Processing questions for conversation 9:   8%|▊         | 16/204 [00:44<09:26,  3.01s/it][A
+Processing questions for conversation 9:   8%|▊         | 17/204 [00:47<09:14,  2.97s/it][A
+Processing questions for conversation 9:   9%|▉         | 18/204 [00:50<09:06,  2.94s/it][A
+Processing questions for conversation 9:   9%|▉         | 19/204 [00:53<08:56,  2.90s/it][A
+Processing questions for conversation 9:  10%|▉         | 20/204 [00:55<08:03,  2.63s/it][A
+Processing questions for conversation 9:  10%|█         | 21/204 [00:58<08:42,  2.86s/it][A
+Processing questions for conversation 9:  11%|█         | 22/204 [01:01<08:34,  2.83s/it][A
+Processing questions for conversation 9:  11%|█▏        | 23/204 [01:03<08:11,  2.71s/it][A
+Processing questions for conversation 9:  12%|█▏        | 24/204 [01:06<08:22,  2.79s/it][A
+Processing questions for conversation 9:  12%|█▏        | 25/204 [01:10<08:40,  2.91s/it][A
+Processing questions for conversation 9:  13%|█▎        | 26/204 [01:12<08:15,  2.78s/it][A
+Processing questions for conversation 9:  13%|█▎        | 27/204 [01:15<07:58,  2.70s/it][A
+Processing questions for conversation 9:  14%|█▎        | 28/204 [01:17<07:49,  2.67s/it][A
+Processing questions for conversation 9:  14%|█▍        | 29/204 [01:19<07:29,  2.57s/it][A
+Processing questions for conversation 9:  15%|█▍        | 30/204 [01:22<07:47,  2.69s/it][A
+Processing questions for conversation 9:  15%|█▌        | 31/204 [01:25<07:54,  2.75s/it][A
+Processing questions for conversation 9:  16%|█▌        | 32/204 [01:28<07:48,  2.72s/it][A
+Processing questions for conversation 9:  16%|█▌        | 33/204 [01:31<07:42,  2.70s/it][A
+Processing questions for conversation 9:  17%|█▋        | 34/204 [01:33<07:47,  2.75s/it][A
+Processing questions for conversation 9:  17%|█▋        | 35/204 [01:36<07:51,  2.79s/it][A
+Processing questions for conversation 9:  18%|█▊        | 36/204 [01:40<08:09,  2.91s/it][A
+Processing questions for conversation 9:  18%|█▊        | 37/204 [01:42<08:03,  2.90s/it][A
+Processing questions for conversation 9:  19%|█▊        | 38/204 [01:45<08:03,  2.91s/it][A
+Processing questions for conversation 9:  19%|█▉        | 39/204 [01:49<08:19,  3.03s/it][A
+Processing questions for conversation 9:  20%|█▉        | 40/204 [01:52<08:26,  3.09s/it][A
+Processing questions for conversation 9:  20%|██        | 41/204 [01:56<09:25,  3.47s/it][A
+Processing questions for conversation 9:  21%|██        | 42/204 [01:59<08:45,  3.24s/it][A
+Processing questions for conversation 9:  21%|██        | 43/204 [02:04<09:53,  3.69s/it][A
+Processing questions for conversation 9:  22%|██▏       | 44/204 [02:07<09:14,  3.47s/it][A
+Processing questions for conversation 9:  22%|██▏       | 45/204 [02:10<09:17,  3.51s/it][A
+Processing questions for conversation 9:  23%|██▎       | 46/204 [02:13<08:42,  3.31s/it][A
+Processing questions for conversation 9:  23%|██▎       | 47/204 [02:15<07:55,  3.03s/it][A
+Processing questions for conversation 9:  24%|██▎       | 48/204 [02:19<08:21,  3.22s/it][A
+Processing questions for conversation 9:  24%|██▍       | 49/204 [02:22<08:04,  3.13s/it][A
+Processing questions for conversation 9:  25%|██▍       | 50/204 [02:25<08:15,  3.22s/it][A
+Processing questions for conversation 9:  25%|██▌       | 51/204 [02:28<08:01,  3.15s/it][A
+Processing questions for conversation 9:  25%|██▌       | 52/204 [02:31<07:48,  3.08s/it][A
+Processing questions for conversation 9:  26%|██▌       | 53/204 [02:51<20:30,  8.15s/it][A
+Processing questions for conversation 9:  26%|██▋       | 54/204 [02:54<16:28,  6.59s/it][A
+Processing questions for conversation 9:  27%|██▋       | 55/204 [02:57<13:31,  5.44s/it][A
+Processing questions for conversation 9:  27%|██▋       | 56/204 [03:01<12:30,  5.07s/it][A
+Processing questions for conversation 9:  28%|██▊       | 57/204 [03:03<10:17,  4.20s/it][A
+Processing questions for conversation 9:  28%|██▊       | 58/204 [03:06<08:51,  3.64s/it][A
+Processing questions for conversation 9:  29%|██▉       | 59/204 [03:09<08:14,  3.41s/it][A
+Processing questions for conversation 9:  29%|██▉       | 60/204 [03:23<16:06,  6.71s/it][A
+Processing questions for conversation 9:  30%|██▉       | 61/204 [03:27<14:00,  5.88s/it][A
+Processing questions for conversation 9:  30%|███       | 62/204 [03:30<11:54,  5.03s/it][A
+Processing questions for conversation 9:  31%|███       | 63/204 [03:33<10:18,  4.39s/it][A
+Processing questions for conversation 9:  31%|███▏      | 64/204 [03:39<11:31,  4.94s/it][A
+Processing questions for conversation 9:  32%|███▏      | 65/204 [03:41<09:26,  4.07s/it][A
+Processing questions for conversation 9:  32%|███▏      | 66/204 [03:44<08:44,  3.80s/it][A
+Processing questions for conversation 9:  33%|███▎      | 67/204 [03:47<07:52,  3.45s/it][A
+Processing questions for conversation 9:  33%|███▎      | 68/204 [03:50<07:42,  3.40s/it][A
+Processing questions for conversation 9:  34%|███▍      | 69/204 [03:53<07:16,  3.23s/it][A
+Processing questions for conversation 9:  34%|███▍      | 70/204 [03:56<07:03,  3.16s/it][A
+Processing questions for conversation 9:  35%|███▍      | 71/204 [04:00<07:12,  3.25s/it][A
+Processing questions for conversation 9:  35%|███▌      | 72/204 [04:02<06:50,  3.11s/it][A
+Processing questions for conversation 9:  36%|███▌      | 73/204 [04:06<07:13,  3.31s/it][A
+Processing questions for conversation 9:  36%|███▋      | 74/204 [04:09<06:45,  3.12s/it][A
+Processing questions for conversation 9:  37%|███▋      | 75/204 [04:11<06:20,  2.95s/it][A
+Processing questions for conversation 9:  37%|███▋      | 76/204 [04:14<06:07,  2.87s/it][A
+Processing questions for conversation 9:  38%|███▊      | 77/204 [04:16<05:40,  2.68s/it][A
+Processing questions for conversation 9:  38%|███▊      | 78/204 [04:20<06:15,  2.98s/it][A
+Processing questions for conversation 9:  39%|███▊      | 79/204 [04:23<06:08,  2.95s/it][A
+Processing questions for conversation 9:  39%|███▉      | 80/204 [04:26<06:03,  2.93s/it][A
+Processing questions for conversation 9:  40%|███▉      | 81/204 [04:29<05:55,  2.89s/it][A
+Processing questions for conversation 9:  40%|████      | 82/204 [04:31<05:48,  2.86s/it][A
+Processing questions for conversation 9:  41%|████      | 83/204 [04:34<05:47,  2.88s/it][A
+Processing questions for conversation 9:  41%|████      | 84/204 [04:38<06:13,  3.12s/it][A
+Processing questions for conversation 9:  42%|████▏     | 85/204 [04:41<06:01,  3.04s/it][A
+Processing questions for conversation 9:  42%|████▏     | 86/204 [04:44<05:51,  2.98s/it][A
+Processing questions for conversation 9:  43%|████▎     | 87/204 [04:48<06:30,  3.34s/it][A
+Processing questions for conversation 9:  43%|████▎     | 88/204 [04:51<06:18,  3.27s/it][A
+Processing questions for conversation 9:  44%|████▎     | 89/204 [04:54<06:05,  3.18s/it][A
+Processing questions for conversation 9:  44%|████▍     | 90/204 [04:57<05:45,  3.03s/it][A
+Processing questions for conversation 9:  45%|████▍     | 91/204 [05:00<05:41,  3.02s/it][A
+Processing questions for conversation 9:  45%|████▌     | 92/204 [05:03<05:48,  3.11s/it][A
+Processing questions for conversation 9:  46%|████▌     | 93/204 [05:06<05:47,  3.13s/it][A
+Processing questions for conversation 9:  46%|████▌     | 94/204 [05:09<05:39,  3.08s/it][A
+Processing questions for conversation 9:  47%|████▋     | 95/204 [05:12<05:31,  3.04s/it][A
+Processing questions for conversation 9:  47%|████▋     | 96/204 [05:15<05:33,  3.09s/it][A
+Processing questions for conversation 9:  48%|████▊     | 97/204 [05:18<05:10,  2.90s/it][A
+Processing questions for conversation 9:  48%|████▊     | 98/204 [05:21<05:20,  3.02s/it][A
+Processing questions for conversation 9:  49%|████▊     | 99/204 [05:24<05:14,  2.99s/it][A
+Processing questions for conversation 9:  49%|████▉     | 100/204 [05:27<05:17,  3.05s/it][A
+Processing questions for conversation 9:  50%|████▉     | 101/204 [05:30<05:11,  3.02s/it][A
+Processing questions for conversation 9:  50%|█████     | 102/204 [05:33<04:57,  2.92s/it][A
+Processing questions for conversation 9:  50%|█████     | 103/204 [05:35<04:44,  2.81s/it][A
+Processing questions for conversation 9:  51%|█████     | 104/204 [05:39<05:13,  3.14s/it][A
+Processing questions for conversation 9:  51%|█████▏    | 105/204 [05:42<04:56,  2.99s/it][A
+Processing questions for conversation 9:  52%|█████▏    | 106/204 [05:45<05:08,  3.14s/it][A
+Processing questions for conversation 9:  52%|█████▏    | 107/204 [05:49<05:21,  3.31s/it][A
+Processing questions for conversation 9:  53%|█████▎    | 108/204 [05:52<05:17,  3.31s/it][A
+Processing questions for conversation 9:  53%|█████▎    | 109/204 [05:55<05:02,  3.19s/it][A
+Processing questions for conversation 9:  54%|█████▍    | 110/204 [05:58<04:50,  3.09s/it][A
+Processing questions for conversation 9:  54%|█████▍    | 111/204 [06:02<04:58,  3.21s/it][A
+Processing questions for conversation 9:  55%|█████▍    | 112/204 [06:04<04:28,  2.92s/it][A
+Processing questions for conversation 9:  55%|█████▌    | 113/204 [06:07<04:29,  2.96s/it][A
+Processing questions for conversation 9:  56%|█████▌    | 114/204 [06:10<04:25,  2.95s/it][A
+Processing questions for conversation 9:  56%|█████▋    | 115/204 [06:14<05:02,  3.40s/it][A
+Processing questions for conversation 9:  57%|█████▋    | 116/204 [06:20<05:55,  4.05s/it][A
+Processing questions for conversation 9:  57%|█████▋    | 117/204 [06:23<05:33,  3.84s/it][A
+Processing questions for conversation 9:  58%|█████▊    | 118/204 [06:26<05:02,  3.51s/it][A
+Processing questions for conversation 9:  58%|█████▊    | 119/204 [06:29<04:39,  3.29s/it][A
+Processing questions for conversation 9:  59%|█████▉    | 120/204 [06:32<04:23,  3.14s/it][A
+Processing questions for conversation 9:  59%|█████▉    | 121/204 [06:35<04:29,  3.24s/it][A
+Processing questions for conversation 9:  60%|█████▉    | 122/204 [06:38<04:16,  3.13s/it][A
+Processing questions for conversation 9:  60%|██████    | 123/204 [06:41<04:02,  2.99s/it][A
+Processing questions for conversation 9:  61%|██████    | 124/204 [06:43<03:56,  2.95s/it][A
+Processing questions for conversation 9:  61%|██████▏   | 125/204 [06:47<04:03,  3.08s/it][A
+Processing questions for conversation 9:  62%|██████▏   | 126/204 [06:50<04:07,  3.18s/it][A
+Processing questions for conversation 9:  62%|██████▏   | 127/204 [06:53<04:06,  3.20s/it][A
+Processing questions for conversation 9:  63%|██████▎   | 128/204 [06:56<03:54,  3.08s/it][A
+Processing questions for conversation 9:  63%|██████▎   | 129/204 [07:00<03:56,  3.16s/it][A
+Processing questions for conversation 9:  64%|██████▎   | 130/204 [07:02<03:45,  3.05s/it][A
+Processing questions for conversation 9:  64%|██████▍   | 131/204 [07:06<03:50,  3.16s/it][A
+Processing questions for conversation 9:  65%|██████▍   | 132/204 [07:09<03:44,  3.12s/it][A
+Processing questions for conversation 9:  65%|██████▌   | 133/204 [07:12<03:40,  3.11s/it][A
+Processing questions for conversation 9:  66%|██████▌   | 134/204 [07:15<03:34,  3.06s/it][A
+Processing questions for conversation 9:  66%|██████▌   | 135/204 [07:18<03:24,  2.97s/it][A
+Processing questions for conversation 9:  67%|██████▋   | 136/204 [07:20<03:21,  2.96s/it][A
+Processing questions for conversation 9:  67%|██████▋   | 137/204 [07:23<03:15,  2.91s/it][A
+Processing questions for conversation 9:  68%|██████▊   | 138/204 [07:26<03:11,  2.90s/it][A
+Processing questions for conversation 9:  68%|██████▊   | 139/204 [07:29<03:08,  2.89s/it][A
+Processing questions for conversation 9:  69%|██████▊   | 140/204 [07:32<03:03,  2.86s/it][A
+Processing questions for conversation 9:  69%|██████▉   | 141/204 [07:35<03:01,  2.89s/it][A
+Processing questions for conversation 9:  70%|██████▉   | 142/204 [07:38<03:08,  3.03s/it][A
+Processing questions for conversation 9:  70%|███████   | 143/204 [07:45<04:23,  4.32s/it][A
+Processing questions for conversation 9:  71%|███████   | 144/204 [07:50<04:15,  4.25s/it][A
+Processing questions for conversation 9:  71%|███████   | 145/204 [07:53<04:00,  4.08s/it][A
+Processing questions for conversation 9:  72%|███████▏  | 146/204 [07:56<03:25,  3.54s/it][A
+Processing questions for conversation 9:  72%|███████▏  | 147/204 [08:01<03:52,  4.07s/it][A
+Processing questions for conversation 9:  73%|███████▎  | 148/204 [08:04<03:30,  3.77s/it][A
+Processing questions for conversation 9:  73%|███████▎  | 149/204 [08:07<03:18,  3.62s/it][A
+Processing questions for conversation 9:  74%|███████▎  | 150/204 [08:10<03:06,  3.45s/it][A
+Processing questions for conversation 9:  74%|███████▍  | 151/204 [08:13<02:50,  3.22s/it][A
+Processing questions for conversation 9:  75%|███████▍  | 152/204 [08:15<02:35,  2.99s/it][A
+Processing questions for conversation 9:  75%|███████▌  | 153/204 [08:18<02:26,  2.87s/it][A
+Processing questions for conversation 9:  75%|███████▌  | 154/204 [08:21<02:24,  2.90s/it][A
+Processing questions for conversation 9:  76%|███████▌  | 155/204 [08:24<02:20,  2.86s/it][A
+Processing questions for conversation 9:  76%|███████▋  | 156/204 [08:26<02:14,  2.81s/it][A
+Processing questions for conversation 9:  77%|███████▋  | 157/204 [08:30<02:16,  2.91s/it][A
+Processing questions for conversation 9:  77%|███████▋  | 158/204 [08:33<02:18,  3.02s/it][A
+Processing questions for conversation 9:  78%|███████▊  | 159/204 [08:36<02:18,  3.09s/it][A
+Processing questions for conversation 9:  78%|███████▊  | 160/204 [08:39<02:17,  3.13s/it][A
+Processing questions for conversation 9:  79%|███████▉  | 161/204 [08:42<02:06,  2.94s/it][A
+Processing questions for conversation 9:  79%|███████▉  | 162/204 [08:45<02:07,  3.04s/it][A
+Processing questions for conversation 9:  80%|███████▉  | 163/204 [08:48<02:07,  3.12s/it][A
+Processing questions for conversation 9:  80%|████████  | 164/204 [08:51<02:04,  3.10s/it][A
+Processing questions for conversation 9:  81%|████████  | 165/204 [08:54<02:00,  3.08s/it][A
+Processing questions for conversation 9:  81%|████████▏ | 166/204 [08:57<01:54,  3.02s/it][A
+Processing questions for conversation 9:  82%|████████▏ | 167/204 [09:00<01:50,  2.99s/it][A
+Processing questions for conversation 9:  82%|████████▏ | 168/204 [09:03<01:49,  3.04s/it][A
+Processing questions for conversation 9:  83%|████████▎ | 169/204 [09:06<01:43,  2.96s/it][A
+Processing questions for conversation 9:  83%|████████▎ | 170/204 [09:09<01:37,  2.87s/it][A
+Processing questions for conversation 9:  84%|████████▍ | 171/204 [09:12<01:34,  2.85s/it][A
+Processing questions for conversation 9:  84%|████████▍ | 172/204 [09:15<01:31,  2.87s/it][A
+Processing questions for conversation 9:  85%|████████▍ | 173/204 [09:17<01:26,  2.78s/it][A
+Processing questions for conversation 9:  85%|████████▌ | 174/204 [09:20<01:25,  2.85s/it][A
+Processing questions for conversation 9:  86%|████████▌ | 175/204 [09:22<01:17,  2.69s/it][A
+Processing questions for conversation 9:  86%|████████▋ | 176/204 [09:25<01:17,  2.77s/it][A
+Processing questions for conversation 9:  87%|████████▋ | 177/204 [09:28<01:16,  2.83s/it][A
+Processing questions for conversation 9:  87%|████████▋ | 178/204 [09:39<02:14,  5.16s/it][A
+Processing questions for conversation 9:  88%|████████▊ | 179/204 [09:43<01:57,  4.69s/it][A
+Processing questions for conversation 9:  88%|████████▊ | 180/204 [09:46<01:40,  4.20s/it][A
+Processing questions for conversation 9:  89%|████████▊ | 181/204 [09:48<01:24,  3.69s/it][A
+Processing questions for conversation 9:  89%|████████▉ | 182/204 [09:52<01:21,  3.68s/it][A
+Processing questions for conversation 9:  90%|████████▉ | 183/204 [09:55<01:15,  3.59s/it][A
+Processing questions for conversation 9:  90%|█████████ | 184/204 [09:58<01:08,  3.41s/it][A
+Processing questions for conversation 9:  91%|█████████ | 185/204 [10:01<01:03,  3.37s/it][A
+Processing questions for conversation 9:  91%|█████████ | 186/204 [10:04<00:58,  3.24s/it][A
+Processing questions for conversation 9:  92%|█████████▏| 187/204 [10:08<00:55,  3.28s/it][A
+Processing questions for conversation 9:  92%|█████████▏| 188/204 [10:11<00:50,  3.13s/it][A
+Processing questions for conversation 9:  93%|█████████▎| 189/204 [10:14<00:48,  3.26s/it][A
+Processing questions for conversation 9:  93%|█████████▎| 190/204 [10:17<00:44,  3.18s/it][A
+Processing questions for conversation 9:  94%|█████████▎| 191/204 [10:20<00:40,  3.09s/it][A
+Processing questions for conversation 9:  94%|█████████▍| 192/204 [10:23<00:35,  2.96s/it][A
+Processing questions for conversation 9:  95%|█████████▍| 193/204 [10:26<00:33,  3.08s/it][A
+Processing questions for conversation 9:  95%|█████████▌| 194/204 [10:29<00:30,  3.02s/it][A
+Processing questions for conversation 9:  96%|█████████▌| 195/204 [10:35<00:35,  3.90s/it][A
+Processing questions for conversation 9:  96%|█████████▌| 196/204 [10:38<00:28,  3.58s/it][A
+Processing questions for conversation 9:  97%|█████████▋| 197/204 [10:41<00:23,  3.40s/it][A
+Processing questions for conversation 9:  97%|█████████▋| 198/204 [10:44<00:20,  3.34s/it][A
+Processing questions for conversation 9:  98%|█████████▊| 199/204 [10:47<00:17,  3.40s/it][A
+Processing questions for conversation 9:  98%|█████████▊| 200/204 [10:51<00:13,  3.34s/it][A
+Processing questions for conversation 9:  99%|█████████▊| 201/204 [10:53<00:09,  3.05s/it][A
+Processing questions for conversation 9:  99%|█████████▉| 202/204 [10:56<00:06,  3.05s/it][A
+Processing questions for conversation 9: 100%|█████████▉| 203/204 [10:58<00:02,  2.85s/it][A
+Processing questions for conversation 9: 100%|██████████| 204/204 [11:01<00:00,  2.86s/it][A
+                                                                                          [AProcessing conversations: 100%|██████████| 10/10 [1:41:50<00:00, 664.55s/it]Processing conversations: 100%|██████████| 10/10 [1:41:50<00:00, 611.08s/it]
+Search finished

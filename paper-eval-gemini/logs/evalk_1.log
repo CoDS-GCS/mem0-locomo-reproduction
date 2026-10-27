@@ -1,0 +1,14 @@
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [01:39<14:55, 99.48s/it] 20%|██        | 2/10 [01:48<06:11, 46.49s/it] 30%|███       | 3/10 [02:00<03:35, 30.77s/it] 40%|████      | 4/10 [03:14<04:46, 47.79s/it] 50%|█████     | 5/10 [03:36<03:11, 38.30s/it] 60%|██████    | 6/10 [03:51<02:02, 30.59s/it][judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 8s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 8s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 16s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 16s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+ 70%|███████   | 7/10 [05:11<02:19, 46.62s/it] 80%|████████  | 8/10 [05:36<01:19, 39.82s/it] 90%|█████████ | 9/10 [05:46<00:30, 30.37s/it]100%|██████████| 10/10 [07:02<00:00, 44.54s/it]100%|██████████| 10/10 [07:02<00:00, 42.27s/it]
+Results saved to results/mem0g_eval_run1.json.tmp

@@ -1,0 +1,26 @@
+# secrets
+.env
+.env.*
+# environments / local databases
+.venv*/
+kuzu_db/
+# python / temp / backups
+__pycache__/
+*.pyc
+*.tmp
+*.bak*
+*_BACKUP.json
+# old material
+_old_logs/
+_to_delete/
+# LLM call logs (not pushed)
+**/logs/llm_*
+# abandoned-pass logs (incl. events_*.before_*.jsonl)
+**/logs/*.before_*
+# upstream clone: named in README instead
+mem0-src/
+# files over 50 MB: only the .json.gz copies are committed
+paper-eval/results/mem0_results_top_30_filter_False_graph_False.json
+paper-eval/results/mem0_results_top_30_filter_False_graph_True.json
+paper-eval-gemini/results/mem0_results_top_30_filter_False_graph_True.json
+paper-eval-neo4j-gemini/results/mem0_results_top_30_filter_False_graph_True.json

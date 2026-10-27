@@ -1,0 +1,13 @@
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:47<07:09, 47.77s/it] 20%|██        | 2/10 [01:30<05:59, 44.97s/it] 30%|███       | 3/10 [02:00<04:25, 37.90s/it] 40%|████      | 4/10 [02:52<04:20, 43.43s/it] 50%|█████     | 5/10 [03:12<02:55, 35.19s/it] 60%|██████    | 6/10 [03:39<02:09, 32.37s/it] 70%|███████   | 7/10 [04:23<01:48, 36.03s/it] 80%|████████  | 8/10 [04:57<01:10, 35.35s/it][judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 2s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 4s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 8s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 8s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 16s
+[judge retry] ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again lat -> sleeping 16s
+ 90%|█████████ | 9/10 [05:46<00:39, 39.89s/it]100%|██████████| 10/10 [06:17<00:00, 37.08s/it]100%|██████████| 10/10 [06:17<00:00, 37.78s/it]
+Results saved to results/mem0g_eval_run9.json.tmp
