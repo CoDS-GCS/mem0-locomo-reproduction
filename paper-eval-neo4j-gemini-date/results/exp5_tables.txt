@@ -1,0 +1,40 @@
+Exp 5: Mem0g on LOCOMO - Gemini 2.5 Flash-Lite + Neo4j (mem0ai 1.0.11, authors' instructions)
+       + session date written in front of every turn (DATE_PREFIX=1); everything else as Exp 4
+10 judge runs, 1540 scored questions (categories 1-4)
+
+TABLE 1a - LLM judge J (%)
+Question type     n        Exp5 date   Exp4 no date    change            Paper
+Single hop      282    52.48 ± 0.00          53.19     -0.71    65.71 ± 0.45
+Multi-hop        96    28.12 ± 0.00          30.21     -2.09    47.19 ± 0.67
+Open domain     841    62.07 ± 0.00          60.76     +1.31    75.71 ± 0.21
+Temporal        321    68.22 ± 0.00          25.55    +42.67    58.13 ± 0.44
+Overall        1540    59.48 ± 0.00          50.13     +9.35    68.44 ± 0.17
+  J per run: 59.48, 59.48, 59.48, 59.48, 59.48, 59.48, 59.48, 59.48, 59.48, 59.48
+
+TABLE 1b - F1 / BLEU-1 (%)
+Question type        Exp5 date    Exp4 no date           Paper
+Single hop       30.84 / 21.87   31.08 / 21.95   38.09 / 26.03
+Multi-hop        11.63 /  9.40   14.67 / 11.91   24.32 / 18.82
+Open domain      39.48 / 30.03   37.40 / 28.82   49.27 / 40.30
+Temporal         51.63 / 43.28   27.78 / 25.36   51.55 / 40.28
+Overall          38.69 / 30.01   32.82 / 25.79
+
+TABLE 2 - cost (1540 questions)
+                                  Exp5 date   Exp4 no date     Paper
+Memory tokens per question             3998           3786      3616
+Search latency p50 (s)                1.730          1.782     0.476
+Search latency p95 (s)                2.637          2.664     0.657
+Total latency  p50 (s)                2.369          2.431     1.091
+Total latency  p95 (s)                4.063          3.767     2.590
+
+TABLE 3 - questions that changed, Exp 4 -> Exp 5 (judge run 1)
+Question type  compared   wrong->right   right->wrong     net
+Single hop          282             34             36      -2
+Multi-hop            96              7              9      -2
+Open domain         841            127            116     +11
+Temporal            321            153             16    +137
+
+CHECKS (all 1986 questions)
+  empty answers: 0
+  questions with graph relations: 1929 of 1986
+  memories per question (both speakers): mean 60.0, max 60

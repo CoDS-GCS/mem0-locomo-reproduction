@@ -16,7 +16,7 @@ Rule: a finished experiment is frozen. New ideas become new experiments, each ch
 | 1b | mid-Oct 2026 | paper-eval | Mem0g | GPT-4o-mini | Neo4j | 0.1.93 | authors' instructions | paper | 54.04 ± 0.14 | 18.63 |
 | 2 | 21 Oct 2026 | paper-eval-gemini | Mem0g | Gemini 2.5 Flash-Lite | Kuzu | 1.0.11 | authors' instructions | 1b: LLM, embeddings, graph store, mem0 version | 50.26 ± 0.00 | 24.92 |
 | 4 | 21-22 Oct 2026 | paper-eval-neo4j-gemini | Mem0g | Gemini 2.5 Flash-Lite | Neo4j | 1.0.11 | authors' instructions | 2: graph store only | 50.13 ± 0.00 | 25.55 |
-| 5 | | paper-eval-gemini | Mem0g | Gemini 2.5 Flash-Lite | Kuzu | 1.0.11 | authors' instructions + session date shown | 2: date shown to the extractor | | |
+| 5 | 29 Oct 2026 | paper-eval-neo4j-gemini-date | Mem0g | Gemini 2.5 Flash-Lite | Neo4j | 1.0.11 | authors' instructions | 4: session date shown in front of every turn as "[today is <date>]" (DATE_PREFIX=1) | | |
 | 3 (optional) | | | Mem0g | Gemini 2.5 Flash-Lite | Kuzu | 1.0.11 | Mem0's built-in user prompt (+ authors' instructions?) | 2: prompt | | |
 
 ± is the standard deviation over 10 judge runs, dividing by 10.
@@ -50,3 +50,20 @@ Rule: a finished experiment is frozen. New ideas become new experiments, each ch
 - Event log (logging only, no effect on results): with EVENTS_LOG=logs/events, every add() call is written to logs/events_<user>.jsonl (messages, ADD/UPDATE/DELETE events, graph relations added/deleted, errors). NONE decisions are not returned by Mem0 1.0.11, so they are not logged.
 - LLM call log (logging only, no effect on results): with LLM_LOG=logs/llm, every prompt Mem0 sends and every answer it gets back is written to logs/llm_conv<N>.jsonl (search stage: logs/llm_other.jsonl). This shows the facts extracted, all ADD/UPDATE/DELETE/NONE decisions and the graph steps.
 - Result (J per category, from `results/mem0g_neo4j_tables.txt`): single hop 53.19, multi-hop 30.21, open domain 60.76, temporal 25.55, overall 50.13 ± 0.00.
+
+### 5 (paper-eval-neo4j-gemini-date, uses Exp 4's venv .venv-neo)
+- Exp 4's folder copied without logs/ and results/. One change, in `src/memzero/add.py`: with DATE_PREFIX=1 each turn is sent as "[<session date>] Name: text" instead of "Name: text" (e.g. "[1:56 pm on 8 May, 2023] Caroline: I went to a LGBTQ support group yesterday ..."). The rest of `src/` is identical to Exp 4 (checked with a file comparison at setup).
+- Why: Mem0 1.0.11 builds the fact-extractor input only from the message text (`parse_messages`, mem0/memory/main.py lines 513-517) and the graph-extractor input only from the message text (main.py line 714). The session date was passed only as metadata, so neither extractor ever saw it, while the authors' instructions ask for exact dates. The update step (ADD/UPDATE/DELETE/NONE) sees only the extracted facts, so it gets the date through them.
+- Storage kept apart from Exp 4: Qdrant collection `locomo_gem_neo4j_date`; third Neo4j container `neo4j-date` (ports 7476/7689), same image and settings as `neo4j-gem`.
+- Unchanged: mem0ai 1.0.11, the authors' instructions, Mem0's update prompt, the empty-name guard, event and LLM logs, search, answer and judge prompts, models, top-30, 2 turns per add(), 10 judge runs.
+- Smoke test (`smoke_exp5.py`) checked that the real add.py code builds Exp 4's exact text with DATE_PREFIX=0 and the dated text with 1, and that the date appears in both extractor inputs in the LLM log.
+- Wording of the date, chosen before the full run with `prefix_test.py`: Mem0's fact extractor (authors' instructions, called exactly as Mem0 calls it) on the 58 LOCOMO temporal questions of conversations 0-2 whose evidence says "yesterday", "last week", "last Friday", "two weeks ago", "last month" or "last year". Label of the best fact about the event (CORRECT = the date the phrase really means; KEPT = phrase kept, computable from the memory timestamp; SESSION = event put on the session day):
+
+  | wording | CORRECT | KEPT | SESSION | WRONG | LOST | no fact |
+  |---|---|---|---|---|---|---|
+  | none (= Exp 4) | 0 | 29 | 0 | 13 | 5 | 11 |
+  | `[1:56 pm on 8 May, 2023]` | 19 | 15 | 12 | 1 | 2 | 9 |
+  | `[sent on 8 May, 2023 at 1:56 pm]` | 23 | 20 | 5 | 0 | 1 | 9 |
+  | `[today is 8 May, 2023]` (chosen) | 35 | 9 | 3 | 2 | 0 | 9 |
+
+  One run per wording; conversation 0 was first added with the `[1:56 pm on 8 May, 2023]` wording (pilot) and then redone with the chosen one. "today is" mirrors Mem0's own default extraction prompt ("Today's date is ..."), with the conversation's date instead of the computer's clock.

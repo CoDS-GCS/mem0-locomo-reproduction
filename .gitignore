@@ -24,3 +24,8 @@ paper-eval/results/mem0_results_top_30_filter_False_graph_False.json
 paper-eval/results/mem0_results_top_30_filter_False_graph_True.json
 paper-eval-gemini/results/mem0_results_top_30_filter_False_graph_True.json
 paper-eval-neo4j-gemini/results/mem0_results_top_30_filter_False_graph_True.json
+paper-eval-neo4j-gemini-date/results/mem0_results_top_30_filter_False_graph_True.json
+# Exp 5: logs, dataset and raw search outputs stay local
+paper-eval-neo4j-gemini-date/logs/
+paper-eval-neo4j-gemini-date/dataset/
+paper-eval-neo4j-gemini-date/results/*.gz
