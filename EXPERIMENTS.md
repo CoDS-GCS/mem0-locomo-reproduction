@@ -16,7 +16,7 @@ Rule: a finished experiment is frozen. New ideas become new experiments, each ch
 | 1b | mid-Oct 2026 | paper-eval | Mem0g | GPT-4o-mini | Neo4j | 0.1.93 | authors' instructions | paper | 54.04 ± 0.14 | 18.63 |
 | 2 | 21 Oct 2026 | paper-eval-gemini | Mem0g | Gemini 2.5 Flash-Lite | Kuzu | 1.0.11 | authors' instructions | 1b: LLM, embeddings, graph store, mem0 version | 50.26 ± 0.00 | 24.92 |
 | 4 | 21-22 Oct 2026 | paper-eval-neo4j-gemini | Mem0g | Gemini 2.5 Flash-Lite | Neo4j | 1.0.11 | authors' instructions | 2: graph store only | 50.13 ± 0.00 | 25.55 |
-| 5 | 29 Oct 2026 | paper-eval-neo4j-gemini-date | Mem0g | Gemini 2.5 Flash-Lite | Neo4j | 1.0.11 | authors' instructions | 4: session date shown in front of every turn as "[today is <date>]" (DATE_PREFIX=1) | | |
+| 5 | 29 Oct 2026 | paper-eval-neo4j-gemini-date | Mem0g | Gemini 2.5 Flash-Lite | Neo4j | 1.0.11 | authors' instructions | 4: session date shown in front of every turn as "[today is <date>]" (DATE_PREFIX=1) | 59.48 ± 0.00 | 68.22 |
 | 3 (optional) | | | Mem0g | Gemini 2.5 Flash-Lite | Kuzu | 1.0.11 | Mem0's built-in user prompt (+ authors' instructions?) | 2: prompt | | |
 
 ± is the standard deviation over 10 judge runs, dividing by 10.
@@ -67,3 +67,10 @@ Rule: a finished experiment is frozen. New ideas become new experiments, each ch
   | `[today is 8 May, 2023]` (chosen) | 35 | 9 | 3 | 2 | 0 | 9 |
 
   One run per wording; conversation 0 was first added with the `[1:56 pm on 8 May, 2023]` wording (pilot) and then redone with the chosen one. "today is" mirrors Mem0's own default extraction prompt ("Today's date is ..."), with the conversation's date instead of the computer's clock.
+
+- Results (30 Oct 2026): overall J 59.48 ± 0.00 (Exp 4: 50.13); single-hop 52.48, multi-hop 28.12, open-domain 62.07, temporal 68.22 (Exp 4: 53.19, 30.21, 60.76, 25.55). F1/BLEU-1 temporal 51.63/43.28 (Exp 4: 27.78/25.36; paper 51.55/40.28); overall 38.69/30.01. Memory tokens 3,998; search 1.730/2.637 s, total 2.369/4.063 s (p50/p95). Judge run 1, Exp 4 -> Exp 5: temporal +153/-16; single-hop +34/-36, multi-hop +7/-9, open-domain +127/-116.
+- Held-out check (wording chosen on conversations 0-2): temporal J on conversations 3-9 28.1 -> 66.7 (0-2: 18.9 -> 72.2); other categories within about ±4 points in both groups.
+- Conversation 0 with the final wording: 292 of 337 memories carry an explicit date (Exp 4: 61 of 316); dates more than 60 days from the memory's own session 35 -> 5. Of 63 facts about events told with a relative expression: 38 correct date, 17 phrase kept or told-date, 6 event on the session day, 2 lost or wrong (last_week_check.py). Graph: 2 date nodes copied from the prefix.
+- Graph-rule check (temporal_smoke.py, 8 cases, before the run): a date rule for the graph step via graph_store.custom_prompt gave no benefit (no relative-word graph nodes either way) and split person nodes more often ("user_id:" form in 5 of 8 cases vs 2 of 8), so it was not used.
+- Run: conversation 0 stalled once (network) and was rebuilt; no batch skipped after retries; 16 batches with malformed LLM output skipped by Mem0 (10 in conversation 2). Add 22:25-03:07, search 1 h 50 min, judge about 1 h.
+- Repository: logs/, dataset/ and results/*.gz stay local (see .gitignore).
