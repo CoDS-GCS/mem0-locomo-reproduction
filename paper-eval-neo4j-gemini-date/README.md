@@ -1,198 +1,62 @@
-# Mem0: Building Production‑Ready AI Agents with Scalable Long‑Term Memory
+# Exp 5: session date shown to Mem0's extractors
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2504.19413)
-[![Website](https://img.shields.io/badge/Website-Project-blue)](https://mem0.ai/research)
+Exp 4's code (Mem0g, Gemini 2.5 Flash-Lite, Neo4j) with one change, in `src/memzero/add.py`: with `DATE_PREFIX=1` each turn is sent as `[today is 8 May, 2023] Caroline: I went to ...` instead of `Caroline: I went to ...`, so the session date reaches Mem0's fact and graph extractors. The Mem0 library itself is not modified. Changed vs Exp 4: session date shown in front of every turn (`EXPERIMENTS.md`).
 
-This repository contains the code and dataset for our paper: **Mem0: Building Production‑Ready AI Agents with Scalable Long‑Term Memory**.
+## Setup vs the paper
 
-## 📋 Overview
+| Parameter | This experiment (Exp 5) | Paper |
+|---|---|---|
+| Mem0 version | `mem0ai==1.0.11` (`requirements.txt`) | hosted platform (`EXPERIMENTS.md`) |
+| LLM | Gemini 2.5 Flash-Lite via Vertex AI, temperature 0 (`src/memzero/config.py`, env `MODEL`) | GPT-4o-mini (`EXPERIMENTS.md`) |
+| Embedding model / dims | `gemini-embedding-001`, 768 dims (`src/memzero/config.py`, env `EMBED_MODEL`/`EMBED_DIMS`) | not stated |
+| Vector store | Qdrant, collection `locomo_gem_neo4j_date` (`env.example`, env `QDRANT_COLLECTION`) | not stated |
+| Graph store | Neo4j, `GRAPH_STORE=neo4j`, `NEO4J_URL=bolt://localhost:7689` (`env.example`) | Neo4j (`EXPERIMENTS.md`) |
+| Extraction instructions | authors' instructions, unchanged from Exp 4, reused as `custom_fact_extraction_prompt` (`src/memzero/config.py`) | authors' instructions, via the hosted platform; the paper itself prints no extraction prompt (`EXPERIMENTS.md`) |
+| Top-k | 30 memories per speaker, `--top_k` default in `run_experiments.py` / `src/memzero/search.py` | not stated |
+| Batch size | 2 turns per `add()` call, `batch_size=2` in `src/memzero/add.py` | not stated |
+| Judge model | Gemini 2.5 Flash-Lite, `JUDGE_MODEL` env, default `MODEL` (`metrics/llm_judge.py`) | not stated |
+| Judge runs | 10 (`results/mem0g_eval_run1..10.json`) | not stated |
+| Session date shown to extractor | **Yes** — `DATE_PREFIX=1` (`env.example`); each turn prefixed `[today is <session date>]` in `src/memzero/add.py` (wording chosen by `prefix_test.py`, see `EXPERIMENTS.md` section 5) | not stated |
 
-This project evaluates Mem0 and compares it with different memory and retrieval techniques for AI systems:
+## Results
 
-1. **Established LOCOMO Benchmarks**: We evaluate against five established approaches from the literature: LoCoMo, ReadAgent, MemoryBank, MemGPT, and A-Mem.
-2. **Open-Source Memory Solutions**: We test promising open-source memory architectures including LangMem, which provides flexible memory management capabilities.
-3. **RAG Systems**: We implement Retrieval-Augmented Generation with various configurations, testing different chunk sizes and retrieval counts to optimize performance.
-4. **Full-Context Processing**: We examine the effectiveness of passing the entire conversation history within the context window of the LLM as a baseline approach.
-5. **Proprietary Memory Systems**: We evaluate OpenAI's built-in memory feature available in their ChatGPT interface to compare against commercial solutions.
-6. **Third-Party Memory Providers**: We incorporate Zep, a specialized memory management platform designed for AI agents, to assess the performance of dedicated memory infrastructure.
+Source: `results/exp5_tables.txt` (10 judge runs, 1540 scored questions, categories 1-4; "Exp4 no date" columns are Exp 4's numbers for comparison).
 
-We test these techniques on the LOCOMO dataset, which contains conversational data with various question types to evaluate memory recall and understanding.
+| Question type | n | F1 | BLEU-1 | J (Exp 5) | J (Exp 4, no date) | J change | paper J |
+|---|---|---|---|---|---|---|---|
+| Single hop | 282 | 30.84 | 21.87 | 52.48 ± 0.00 | 53.19 | -0.71 | 65.71 ± 0.45 |
+| Multi-hop | 96 | 11.63 | 9.40 | 28.12 ± 0.00 | 30.21 | -2.09 | 47.19 ± 0.67 |
+| Open domain | 841 | 39.48 | 30.03 | 62.07 ± 0.00 | 60.76 | +1.31 | 75.71 ± 0.21 |
+| Temporal | 321 | 51.63 | 43.28 | 68.22 ± 0.00 | 25.55 | +42.67 | 58.13 ± 0.44 |
+| **Overall** | 1540 | 38.69 | 30.01 | **59.48 ± 0.00** | 50.13 | +9.35 | 68.44 ± 0.17 |
 
-## 🔍 Dataset
+The Gemini judge gave identical scores in all 10 runs (± 0.00); per-run values: 59.48 × 10 (`results/exp5_tables.txt`).
 
-The LOCOMO dataset used in our experiments can be downloaded from our Google Drive repository:
+Cost (ours / Exp 4 / paper): memory tokens per question 3998 / 3786 / 3616; search latency p50 1.730 s / 1.782 s / 0.476 s, p95 2.637 s / 2.664 s / 0.657 s; total latency p50 2.369 s / 2.431 s / 1.091 s, p95 4.063 s / 3.767 s / 2.590 s.
 
-[Download LOCOMO Dataset](https://drive.google.com/drive/folders/1L-cTjTm0ohMsitsHg4dijSPJtqNflwX-?usp=drive_link)
+Questions that changed between Exp 4 and Exp 5 (judge run 1, `results/exp5_tables.txt`): single-hop 34 wrong→right / 36 right→wrong (net -2); multi-hop 7/9 (net -2); open domain 127/116 (net +11); temporal 153/16 (net +137).
 
-The dataset contains conversational data specifically designed to test memory recall and understanding across various question types and complexity levels.
+## How to run
 
-Place the dataset files in the `dataset/` directory:
-- `locomo10.json`: Original dataset
-- `locomo10_rag.json`: Dataset formatted for RAG experiments
+Environment: Exp 4's venv, `source ~/mem0-repro/paper-eval-neo4j-gemini/.venv-neo/bin/activate`, then `pip install -r requirements.txt`. Copy `env.example` to `.env` and fill in `GOOGLE_CLOUD_PROJECT`, `GOOGLE_CLOUD_LOCATION`, `NEO4J_PASSWORD` (names only; also sets `MODEL`, `JUDGE_MODEL`, `EMBED_MODEL`, `EMBED_DIMS`, `QDRANT_COLLECTION`, `MEM0_TELEMETRY`, `GRAPH_STORE`, `NEO4J_URL`, `NEO4J_USERNAME`, `EXTRACTION_PROMPT`, `DATE_PREFIX`, `EVENTS_LOG`, `LLM_LOG` — see `env.example`).
 
-## 📁 Project Structure
+Services: Qdrant on `localhost:6333` (already running, shared with the other experiments); a dedicated Neo4j container for this experiment, started once with `bash start_neo4j_date.sh` (clones Exp 4's `neo4j-gem` image/settings onto a new container/ports/volume, not touching `neo4j-gem` itself).
 
-```
-.
-├── src/                  # Source code for different memory techniques
-│   ├── mem0/             # Implementation of the Mem0 technique
-│   ├── openai/           # Implementation of the OpenAI memory
-│   ├── zep/              # Implementation of the Zep memory
-│   ├── rag.py            # Implementation of the RAG technique
-│   └── langmem.py        # Implementation of the Language-based memory
-├── metrics/              # Code for evaluation metrics
-├── results/              # Results of experiments
-├── dataset/              # Dataset files
-├── evals.py              # Evaluation script
-├── run_experiments.py    # Script to run experiments
-├── generate_scores.py    # Script to generate scores from results
-└── prompts.py            # Prompts used for the models
-```
+1. **Smoke test** (checks the date-prefix code path before spending API calls): `python smoke_exp5.py` — must end with `SMOKE TEST PASSED`.
+2. **Add**: `bash run_all_neo4j.sh` runs the full add → search → judge chain (`bash run_add_neo4j.sh [N]` alone also works, one conversation per process, crash-safe, three passes); progress logged to `logs/runner_n.log`.
+3. **Search**: included in `run_all_neo4j.sh` (`bash run_search_neo4j.sh` alone), wraps `python run_experiments.py --technique_type mem0 --method search --is_graph`, retries until all 1,986 questions are answered.
+4. **Evaluate**: included in `run_all_neo4j.sh` (`bash run_eval_neo4j.sh` alone), runs `python evals.py --input_file results/mem0_results_top_30_filter_False_graph_True.json --output_file results/mem0g_eval_run<k>.json` for k = 1..10.
+5. **Scores**: `python report_exp5.py | tee results/exp5_tables.txt`.
 
-## 🚀 Getting Started
+### Scripts specific to this experiment
+- `patch_exp5.py` — applies the one-line `DATE_PREFIX` change to `src/memzero/add.py`.
+- `switch_to_today.py` — switches the date wording from `[1:56 pm on 8 May, 2023]` to `[today is 8 May, 2023]`.
+- `prefix_test.py` — compares date wordings on 58 temporal questions (chose "today is"); `temporal_smoke.py`, `smoke_exp5.py` — pre-run smoke tests.
+- `date_check.py`, `last_week_check.py`, `side_effects.py` — read-only checks of one conversation against Exp 4.
+- `report_exp5.py` — result tables (Exp 5 vs Exp 4 vs paper).
 
-### Prerequisites
+Full rationale, the wording test results and held-out checks: `../EXPERIMENTS.md`, section 5.
 
-Create a `.env` file with your API keys and configurations. The following keys are required:
+## Credits
 
-```
-# OpenAI API key for GPT models and embeddings
-OPENAI_API_KEY="your-openai-api-key"
-
-# Mem0 API keys (for Mem0 and Mem0+ techniques)
-MEM0_API_KEY="your-mem0-api-key"
-MEM0_PROJECT_ID="your-mem0-project-id"
-MEM0_ORGANIZATION_ID="your-mem0-organization-id"
-
-# Model configuration
-MODEL="gpt-4o-mini"  # or your preferred model
-EMBEDDING_MODEL="text-embedding-3-small"  # or your preferred embedding model
-ZEP_API_KEY="api-key-from-zep"
-```
-
-### Running Experiments
-
-You can run experiments using the provided Makefile commands:
-
-#### Memory Techniques
-
-```bash
-# Run Mem0 experiments
-make run-mem0-add         # Add memories using Mem0
-make run-mem0-search      # Search memories using Mem0
-
-# Run Mem0+ experiments (with graph-based search)
-make run-mem0-plus-add    # Add memories using Mem0+
-make run-mem0-plus-search # Search memories using Mem0+
-
-# Run RAG experiments
-make run-rag              # Run RAG with chunk size 500
-make run-full-context     # Run RAG with full context
-
-# Run LangMem experiments
-make run-langmem          # Run LangMem
-
-# Run Zep experiments
-make run-zep-add          # Add memories using Zep
-make run-zep-search       # Search memories using Zep
-
-# Run OpenAI experiments
-make run-openai           # Run OpenAI experiments
-```
-
-Alternatively, you can run experiments directly with custom parameters:
-
-```bash
-python run_experiments.py --technique_type [mem0|rag|langmem] [additional parameters]
-```
-
-#### Command-line Parameters:
-
-| Parameter | Description | Default |
-|-----------|-------------|---------|
-| `--technique_type` | Memory technique to use (mem0, rag, langmem) | mem0 |
-| `--method` | Method to use (add, search) | add |
-| `--chunk_size` | Chunk size for processing | 1000 |
-| `--top_k` | Number of top memories to retrieve | 30 |
-| `--filter_memories` | Whether to filter memories | False |
-| `--is_graph` | Whether to use graph-based search | False |
-| `--num_chunks` | Number of chunks to process for RAG | 1 |
-
-### 📊 Evaluation
-
-To evaluate results, run:
-
-```bash
-python evals.py --input_file [path_to_results] --output_file [output_path]
-```
-
-This script:
-1. Processes each question-answer pair
-2. Calculates BLEU and F1 scores automatically
-3. Uses an LLM judge to evaluate answer correctness
-4. Saves the combined results to the output file
-
-### 📈 Generating Scores
-
-Generate final scores with:
-
-```bash
-python generate_scores.py
-```
-
-This script:
-1. Loads the evaluation metrics data
-2. Calculates mean scores for each category (BLEU, F1, LLM)
-3. Reports the number of questions per category
-4. Calculates overall mean scores across all categories
-
-Example output:
-```
-Mean Scores Per Category:
-         bleu_score  f1_score  llm_score  count
-category                                       
-1           0.xxxx    0.xxxx     0.xxxx     xx
-2           0.xxxx    0.xxxx     0.xxxx     xx
-3           0.xxxx    0.xxxx     0.xxxx     xx
-
-Overall Mean Scores:
-bleu_score    0.xxxx
-f1_score      0.xxxx
-llm_score     0.xxxx
-```
-
-## 📏 Evaluation Metrics
-
-We use several metrics to evaluate the performance of different memory techniques:
-
-1. **BLEU Score**: Measures the similarity between the model's response and the ground truth
-2. **F1 Score**: Measures the harmonic mean of precision and recall
-3. **LLM Score**: A binary score (0 or 1) determined by an LLM judge evaluating the correctness of responses
-4. **Token Consumption**: Number of tokens required to generate final answer.
-5. **Latency**: Time required during search and to generate response.
-
-## 📚 Citation
-
-If you use this code or dataset in your research, please cite our paper:
-
-```bibtex
-@article{mem0,
-  title={Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory},
-  author={Chhikara, Prateek and Khant, Dev and Aryan, Saket and Singh, Taranjeet and Yadav, Deshraj},
-  journal={arXiv preprint arXiv:2504.19413},
-  year={2025}
-}
-```
-
-## 📄 License
-
-[MIT License](LICENSE)
-
-## 👥 Contributors
-
-- [Prateek Chhikara](https://github.com/prateekchhikara)
-- [Dev Khant](https://github.com/Dev-Khant)
-- [Saket Aryan](https://github.com/whysosaket)
-- [Taranjeet Singh](https://github.com/taranjeet)
-- [Deshraj Yadav](https://github.com/deshraj)
-
+Code adapted from the `evaluation/` folder of [mem0ai/mem0](https://github.com/mem0ai/mem0) (Apache-2.0).

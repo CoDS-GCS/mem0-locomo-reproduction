@@ -1,198 +1,69 @@
-# Mem0: Building Production‑Ready AI Agents with Scalable Long‑Term Memory
+# Exp 1a / 1b: Mem0 and Mem0g on GPT-4o-mini (closest public release to the paper)
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2504.19413)
-[![Website](https://img.shields.io/badge/Website-Project-blue)](https://mem0.ai/research)
+Reproduces the paper's Mem0 (1a) and Mem0g (1b) runs with the authors' own evaluation code, the open-source `mem0ai` 0.1.93 release (April 2025, the version closest in time to the paper), GPT-4o-mini and Qdrant + Neo4j in Docker.
 
-This repository contains the code and dataset for our paper: **Mem0: Building Production‑Ready AI Agents with Scalable Long‑Term Memory**.
+## Setup vs the paper
 
-## 📋 Overview
+| Parameter | This experiment (1a / 1b) | Paper |
+|---|---|---|
+| Mem0 version | `mem0ai==0.1.93` (`requirements.txt`) | hosted platform (`EXPERIMENTS.md`) |
+| LLM | GPT-4o-mini, temperature 0 (`src/memzero/config.py`) | GPT-4o-mini (`EXPERIMENTS.md`) |
+| Embedding model / dims | OpenAI `text-embedding-3-small`, dims not set in config, i.e. the provider default (`src/memzero/config.py`) | not stated |
+| Vector store | Qdrant, collections `locomo_mem0` / `locomo_mem0g` (`src/memzero/config.py`) | not stated |
+| Graph store | none (1a) / Neo4j (1b) (`src/memzero/config.py`) | none (Mem0) / Neo4j (Mem0g) (`EXPERIMENTS.md`) |
+| Extraction instructions | authors' `custom_instructions` in `src/memzero/add.py`, reused as `custom_fact_extraction_prompt` in `src/memzero/config.py`, plus one line asking for the JSON format the library expects | authors' instructions, via the hosted platform; the paper itself prints no extraction prompt (`EXPERIMENTS.md`) |
+| Top-k | 30 memories per speaker, `--top_k` default in `run_experiments.py` / `src/memzero/search.py` | not stated |
+| Batch size | 2 turns per `add()` call, `batch_size=2` in `src/memzero/add.py` | not stated |
+| Judge model | GPT-4o-mini, `metrics/llm_judge.py` (authors' own evaluation code) | not stated |
+| Judge runs | 10 (`results/mem0_eval_run1..10.json`, `results/mem0g_eval_run1..10.json`) | not stated |
+| Session date shown to extractor | No — only passed as `metadata={"timestamp": ...}` in `add_memories_for_speaker` (`src/memzero/add.py`); the extractor never sees it (`EXPERIMENTS.md`, note on temporal collapse) | not stated |
 
-This project evaluates Mem0 and compares it with different memory and retrieval techniques for AI systems:
+## Results
 
-1. **Established LOCOMO Benchmarks**: We evaluate against five established approaches from the literature: LoCoMo, ReadAgent, MemoryBank, MemGPT, and A-Mem.
-2. **Open-Source Memory Solutions**: We test promising open-source memory architectures including LangMem, which provides flexible memory management capabilities.
-3. **RAG Systems**: We implement Retrieval-Augmented Generation with various configurations, testing different chunk sizes and retrieval counts to optimize performance.
-4. **Full-Context Processing**: We examine the effectiveness of passing the entire conversation history within the context window of the LLM as a baseline approach.
-5. **Proprietary Memory Systems**: We evaluate OpenAI's built-in memory feature available in their ChatGPT interface to compare against commercial solutions.
-6. **Third-Party Memory Providers**: We incorporate Zep, a specialized memory management platform designed for AI agents, to assess the performance of dedicated memory infrastructure.
+LLM judge J (%), F1 and BLEU-1, mean over 10 judge runs, 1540 scored questions (categories 1-4). Source: `results/mem0_tables_v2.txt` (Mem0, 1a) and `results/mem0g_tables.txt` (Mem0g, 1b).
 
-We test these techniques on the LOCOMO dataset, which contains conversational data with various question types to evaluate memory recall and understanding.
+### 1a — Mem0 (`results/mem0_tables_v2.txt`)
 
-## 🔍 Dataset
+| Question type | n | F1 | paper F1 | BLEU-1 | paper BLEU-1 | J | paper J |
+|---|---|---|---|---|---|---|---|
+| Single hop | 282 | 33.44 | 38.72 | 24.01 | 27.13 | 58.51 ± 0.57 | 67.13 ± 0.65 |
+| Multi-hop | 96 | 22.98 | 28.64 | 17.24 | 21.58 | 41.88 ± 0.42 | 51.15 ± 0.31 |
+| Open domain | 841 | 41.30 | 47.65 | 33.40 | 38.72 | 69.02 ± 0.19 | 72.93 ± 0.11 |
+| Temporal | 321 | 28.69 | 48.93 | 27.91 | 40.51 | 18.54 ± 0.16 | 55.51 ± 0.34 |
+| **Overall** | 1540 | 36.09 | — | 29.53 | — | **54.88 ± 0.13** | 66.88 ± 0.15 |
 
-The LOCOMO dataset used in our experiments can be downloaded from our Google Drive repository:
+Cost (ours / paper): memory tokens per question 5473 / 1764; search latency p50 0.532 s / 0.148 s, p95 0.701 s / 0.200 s; total latency p50 1.346 s / 0.708 s, p95 2.547 s / 1.440 s.
 
-[Download LOCOMO Dataset](https://drive.google.com/drive/folders/1L-cTjTm0ohMsitsHg4dijSPJtqNflwX-?usp=drive_link)
+### 1b — Mem0g (`results/mem0g_tables.txt`)
 
-The dataset contains conversational data specifically designed to test memory recall and understanding across various question types and complexity levels.
+| Question type | n | F1 | paper F1 | BLEU-1 | paper BLEU-1 | J | paper J |
+|---|---|---|---|---|---|---|---|
+| Single hop | 282 | 31.13 | 38.09 | 22.25 | 26.03 | 52.34 ± 0.43 | 65.71 ± 0.45 |
+| Multi-hop | 96 | 22.57 | 24.32 | 17.52 | 18.82 | 44.79 ± 0.00 | 47.19 ± 0.67 |
+| Open domain | 841 | 39.55 | 49.27 | 31.42 | 40.30 | 69.18 ± 0.17 | 75.71 ± 0.21 |
+| Temporal | 321 | 28.43 | 51.55 | 27.99 | 40.28 | 18.63 ± 0.12 | 58.13 ± 0.44 |
+| **Overall** | 1540 | 34.63 | — | 28.16 | — | **54.04 ± 0.14** | 68.44 ± 0.17 |
 
-Place the dataset files in the `dataset/` directory:
-- `locomo10.json`: Original dataset
-- `locomo10_rag.json`: Dataset formatted for RAG experiments
+Cost (ours / paper): memory tokens per question 5762 / 3616; search latency p50 4.410 s / 0.476 s, p95 6.927 s / 0.657 s; total latency p50 5.242 s / 1.091 s, p95 7.848 s / 2.590 s.
 
-## 📁 Project Structure
+## How to run
 
-```
-.
-├── src/                  # Source code for different memory techniques
-│   ├── mem0/             # Implementation of the Mem0 technique
-│   ├── openai/           # Implementation of the OpenAI memory
-│   ├── zep/              # Implementation of the Zep memory
-│   ├── rag.py            # Implementation of the RAG technique
-│   └── langmem.py        # Implementation of the Language-based memory
-├── metrics/              # Code for evaluation metrics
-├── results/              # Results of experiments
-├── dataset/              # Dataset files
-├── evals.py              # Evaluation script
-├── run_experiments.py    # Script to run experiments
-├── generate_scores.py    # Script to generate scores from results
-└── prompts.py            # Prompts used for the models
-```
+Environment: `source ../.venv312/bin/activate`, then `pip install -r requirements.txt`. Copy `env.example` to `.env` and fill in `OPENAI_API_KEY`, `MODEL`, `NEO4J_PASSWORD` (names only, see `env.example`).
 
-## 🚀 Getting Started
+Services: Qdrant on `localhost:6333`; Neo4j on `bolt://localhost:7687` for the graph (1b) runs.
 
-### Prerequisites
+1. **Add** (store conversations as memories):
+   - `bash run_add.sh` (Mem0, 1a) — wraps `python run_experiments.py --technique_type mem0 --method add`, one conversation per process, crash-safe, three passes.
+   - `bash run_add_graph.sh` (Mem0g, 1b) — same idea with `--is_graph`.
+2. **Search** (retrieve memories, answer questions):
+   - `make run-mem0-search` → `python run_experiments.py --technique_type mem0 --method search --output_folder results/ --top_k 30`
+   - `make run-mem0-plus-search` → same with `--is_graph`
+3. **Evaluate** (LLM judge, repeat for k = 1..10):
+   - `set -a; source .env; set +a` (needs `OPENAI_API_KEY` in the environment)
+   - `python evals.py --input_file results/mem0_results_top_30_filter_False_graph_False.json --output_file results/mem0_eval_run<k>.json` (Mem0)
+   - `python evals.py --input_file results/mem0_results_top_30_filter_False_graph_True.json --output_file results/mem0g_eval_run<k>.json` (Mem0g)
+4. **Scores** (result tables): `python report_all.py --system mem0` and `python report_all.py --system mem0g` (`report.py` is the earlier Mem0-only version).
 
-Create a `.env` file with your API keys and configurations. The following keys are required:
+## Credits
 
-```
-# OpenAI API key for GPT models and embeddings
-OPENAI_API_KEY="your-openai-api-key"
-
-# Mem0 API keys (for Mem0 and Mem0+ techniques)
-MEM0_API_KEY="your-mem0-api-key"
-MEM0_PROJECT_ID="your-mem0-project-id"
-MEM0_ORGANIZATION_ID="your-mem0-organization-id"
-
-# Model configuration
-MODEL="gpt-4o-mini"  # or your preferred model
-EMBEDDING_MODEL="text-embedding-3-small"  # or your preferred embedding model
-ZEP_API_KEY="api-key-from-zep"
-```
-
-### Running Experiments
-
-You can run experiments using the provided Makefile commands:
-
-#### Memory Techniques
-
-```bash
-# Run Mem0 experiments
-make run-mem0-add         # Add memories using Mem0
-make run-mem0-search      # Search memories using Mem0
-
-# Run Mem0+ experiments (with graph-based search)
-make run-mem0-plus-add    # Add memories using Mem0+
-make run-mem0-plus-search # Search memories using Mem0+
-
-# Run RAG experiments
-make run-rag              # Run RAG with chunk size 500
-make run-full-context     # Run RAG with full context
-
-# Run LangMem experiments
-make run-langmem          # Run LangMem
-
-# Run Zep experiments
-make run-zep-add          # Add memories using Zep
-make run-zep-search       # Search memories using Zep
-
-# Run OpenAI experiments
-make run-openai           # Run OpenAI experiments
-```
-
-Alternatively, you can run experiments directly with custom parameters:
-
-```bash
-python run_experiments.py --technique_type [mem0|rag|langmem] [additional parameters]
-```
-
-#### Command-line Parameters:
-
-| Parameter | Description | Default |
-|-----------|-------------|---------|
-| `--technique_type` | Memory technique to use (mem0, rag, langmem) | mem0 |
-| `--method` | Method to use (add, search) | add |
-| `--chunk_size` | Chunk size for processing | 1000 |
-| `--top_k` | Number of top memories to retrieve | 30 |
-| `--filter_memories` | Whether to filter memories | False |
-| `--is_graph` | Whether to use graph-based search | False |
-| `--num_chunks` | Number of chunks to process for RAG | 1 |
-
-### 📊 Evaluation
-
-To evaluate results, run:
-
-```bash
-python evals.py --input_file [path_to_results] --output_file [output_path]
-```
-
-This script:
-1. Processes each question-answer pair
-2. Calculates BLEU and F1 scores automatically
-3. Uses an LLM judge to evaluate answer correctness
-4. Saves the combined results to the output file
-
-### 📈 Generating Scores
-
-Generate final scores with:
-
-```bash
-python generate_scores.py
-```
-
-This script:
-1. Loads the evaluation metrics data
-2. Calculates mean scores for each category (BLEU, F1, LLM)
-3. Reports the number of questions per category
-4. Calculates overall mean scores across all categories
-
-Example output:
-```
-Mean Scores Per Category:
-         bleu_score  f1_score  llm_score  count
-category                                       
-1           0.xxxx    0.xxxx     0.xxxx     xx
-2           0.xxxx    0.xxxx     0.xxxx     xx
-3           0.xxxx    0.xxxx     0.xxxx     xx
-
-Overall Mean Scores:
-bleu_score    0.xxxx
-f1_score      0.xxxx
-llm_score     0.xxxx
-```
-
-## 📏 Evaluation Metrics
-
-We use several metrics to evaluate the performance of different memory techniques:
-
-1. **BLEU Score**: Measures the similarity between the model's response and the ground truth
-2. **F1 Score**: Measures the harmonic mean of precision and recall
-3. **LLM Score**: A binary score (0 or 1) determined by an LLM judge evaluating the correctness of responses
-4. **Token Consumption**: Number of tokens required to generate final answer.
-5. **Latency**: Time required during search and to generate response.
-
-## 📚 Citation
-
-If you use this code or dataset in your research, please cite our paper:
-
-```bibtex
-@article{mem0,
-  title={Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory},
-  author={Chhikara, Prateek and Khant, Dev and Aryan, Saket and Singh, Taranjeet and Yadav, Deshraj},
-  journal={arXiv preprint arXiv:2504.19413},
-  year={2025}
-}
-```
-
-## 📄 License
-
-[MIT License](LICENSE)
-
-## 👥 Contributors
-
-- [Prateek Chhikara](https://github.com/prateekchhikara)
-- [Dev Khant](https://github.com/Dev-Khant)
-- [Saket Aryan](https://github.com/whysosaket)
-- [Taranjeet Singh](https://github.com/taranjeet)
-- [Deshraj Yadav](https://github.com/deshraj)
-
+Code adapted from the `evaluation/` folder of [mem0ai/mem0](https://github.com/mem0ai/mem0) (Apache-2.0).

@@ -6,10 +6,10 @@ Reproduction of the LOCOMO results of the Mem0 paper (Chhikara et al. 2025, arXi
 
 | Folder | What it is | Environment |
 |---|---|---|
-| `paper-eval/` | **Exp 1** (1a Mem0, 1b Mem0g): GPT-4o-mini, mem0ai 0.1.93, Qdrant + Neo4j | `.venv312` |
-| `paper-eval-gemini/` | **Exp 2**: Mem0g with Gemini 2.5 Flash-Lite (Vertex AI), mem0ai 1.0.11, Kuzu | `.venv-gem` |
-| `paper-eval-neo4j-gemini/` | **Exp 4**: as Exp 2 but with Neo4j (second container) instead of Kuzu | `.venv-neo` |
-| `paper-eval-neo4j-gemini-date/` | **Exp 5**: as Exp 4, with the session date shown to the extractor (`[today is <date>]` in front of every turn, `DATE_PREFIX=1`) | `.venv-neo` (Exp 4's) |
+| [`paper-eval/`](paper-eval/README.md) | **Exp 1** (1a Mem0, 1b Mem0g): GPT-4o-mini, mem0ai 0.1.93, Qdrant + Neo4j | `.venv312` |
+| [`paper-eval-gemini/`](paper-eval-gemini/README.md) | **Exp 2**: Mem0g with Gemini 2.5 Flash-Lite (Vertex AI), mem0ai 1.0.11, Kuzu | `.venv-gem` |
+| [`paper-eval-neo4j-gemini/`](paper-eval-neo4j-gemini/README.md) | **Exp 4**: as Exp 2 but with Neo4j (second container) instead of Kuzu | `.venv-neo` |
+| [`paper-eval-neo4j-gemini-date/`](paper-eval-neo4j-gemini-date/README.md) | **Exp 5**: as Exp 4, with the session date shown to the extractor (`[today is <date>]` in front of every turn, `DATE_PREFIX=1`) | `.venv-neo` (Exp 4's) |
 | `monitor/` | "Memory Journey": read-only web app to follow add / search / judge stages | own `requirements.txt` |
 | `EXPERIMENTS.md` | lab notebook (settings, notes and known issues per experiment) | |
 | `mem0-src/` | **not included**: clone of https://github.com/mem0ai/mem0.git at commit `d85fcda0378e3e2ba8772705b075049484bd8fa8` ("Formatting (#2750)", 2025-05-22) | |
@@ -41,7 +41,7 @@ Each experiment runs from its own folder with its own environment (`pip install 
 3. **evaluate** (LLM judge, 10 runs): `run_eval_kuzu.sh`, `run_eval_neo4j.sh`; Exp 1 uses `python evals.py --input_file results/mem0_results_top_30_filter_False_graph_<False|True>.json --output_file results/<mem0|mem0g>_eval_run<k>.json` (needs `OPENAI_API_KEY` in the environment, e.g. `set -a; source .env; set +a`), repeated for k = 1..10.
 4. **report** (result tables): `python report_all.py --system mem0` and `--system mem0g` (Exp 1; `report.py` is the earlier Mem0-only version), `report_kuzu.py` (Exp 2), `report_neo4j.py` (Exp 4), `report_exp5.py` (Exp 5).
 
-Exp 5 is run like Exp 4 (`run_all_neo4j.sh`, `report_exp5.py`) from its own folder, with `DATE_PREFIX=1` in its `.env`; see `paper-eval-neo4j-gemini-date/README_exp5.md`.
+Exp 5 is run like Exp 4 (`run_all_neo4j.sh`, `report_exp5.py`) from its own folder, with `DATE_PREFIX=1` in its `.env`; see [`paper-eval-neo4j-gemini-date/README.md`](paper-eval-neo4j-gemini-date/README.md).
 
 `run_all_kuzu.sh` and `run_all_neo4j.sh` chain all four stages. The monitor starts with `monitor/run.sh [experiment-folder] [port]`.
 
